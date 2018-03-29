@@ -1,0 +1,1518 @@
+State/City,Location,DATE,SO2,NO2,PM10,PM2.5
+Delhi,"Pritampura, Delhi",01-01-14,4,40,154,0
+Delhi,"Pritampura, Delhi",01-06-14,4,41,232,0
+Delhi,"Pritampura, Delhi",01-09-14,4,44,402,0
+Delhi,"Pritampura, Delhi",15-01-14,4,46,291,0
+Delhi,"Pritampura, Delhi",20-01-14,4,41,289,0
+Delhi,"Pritampura, Delhi",23-01-14,4,41,192,0
+Delhi,"Pritampura, Delhi",28-01-14,4,37,280,0
+Delhi,"Pritampura, Delhi",02-03-14,4,37,326,0
+Delhi,"Pritampura, Delhi",02-06-14,4,49,297,0
+Delhi,"Pritampura, Delhi",02-11-14,4,38,246,0
+Delhi,"Pritampura, Delhi",14-02-14,4,50,115,0
+Delhi,"Pritampura, Delhi",19-02-14,4,49,263,0
+Delhi,"Pritampura, Delhi",24-02-14,4,49,197,0
+Delhi,"Pritampura, Delhi",27-02-14,4,51,254,0
+Delhi,"Pritampura, Delhi",03-05-14,4,44,135,0
+Delhi,"Pritampura, Delhi",03-10-14,4,41,129,0
+Delhi,"Pritampura, Delhi",13-03-14,4,45,167,0
+Delhi,"Pritampura, Delhi",24-03-14,4,48,220,0
+Delhi,"Pritampura, Delhi",27-03-14,4,40,234,0
+Delhi,"Pritampura, Delhi",04-02-14,4,44,219,0
+Delhi,"Pritampura, Delhi",04-07-14,4,42,130,0
+Delhi,"Pritampura, Delhi",15-04-14,4,42,334,0
+Delhi,"Pritampura, Delhi",21-04-14,4,41,130,0
+Delhi,"Pritampura, Delhi",24-04-14,4,50,163,0
+Delhi,"Pritampura, Delhi",29-04-14,4,44,137,0
+Delhi,"Pritampura, Delhi",05-05-14,4,45,257,0
+Delhi,"Pritampura, Delhi",05-08-14,4,39,210,0
+Delhi,"Pritampura, Delhi",13-05-14,4,33,146,0
+Delhi,"Pritampura, Delhi",19-05-14,4,36,146,0
+Delhi,"Pritampura, Delhi",22-05-14,4,43,109,0
+Delhi,"Pritampura, Delhi",27-05-14,4,36,206,0
+Delhi,"Pritampura, Delhi",06-02-14,4,47,198,0
+Delhi,"Pritampura, Delhi",06-05-14,4,41,215,0
+Delhi,"Pritampura, Delhi",06-10-14,4,32,221,0
+Delhi,"Pritampura, Delhi",13-06-14,4,34,138,0
+Delhi,"Pritampura, Delhi",18-06-14,4,39,203,0
+Delhi,"Pritampura, Delhi",23-06-14,4,35,168,0
+Delhi,"Pritampura, Delhi",26-06-14,4,37,132,0
+Delhi,"Pritampura, Delhi",07-02-14,4,33,224,0
+Delhi,"Pritampura, Delhi",07-07-14,4,35,272,0
+Delhi,"Pritampura, Delhi",07-10-14,4,37,104,0
+Delhi,"Pritampura, Delhi",15-07-14,4,37,124,0
+Delhi,"Pritampura, Delhi",23-07-14,4,36,68,0
+Delhi,"Pritampura, Delhi",28-07-14,4,38,129,0
+Delhi,"Pritampura, Delhi",08-04-14,4,42,111,0
+Delhi,"Pritampura, Delhi",08-07-14,4,38,154,0
+Delhi,"Pritampura, Delhi",08-12-14,4,35,126,0
+Delhi,"Pritampura, Delhi",19-08-14,4,34,146,0
+Delhi,"Pritampura, Delhi",22-08-14,4,36,177,0
+Delhi,"Pritampura, Delhi",27-08-14,4,32,134,0
+Delhi,"Pritampura, Delhi",09-02-14,4,36,174,0
+Delhi,"Pritampura, Delhi",09-05-14,4,39,62,0
+Delhi,"Pritampura, Delhi",09-10-14,4,41,84,0
+Delhi,"Pritampura, Delhi",15-09-14,4,37,80,0
+Delhi,"Pritampura, Delhi",18-09-14,4,36,107,0
+Delhi,"Pritampura, Delhi",23-09-14,4,38,92,0
+Delhi,"Pritampura, Delhi",26-09-14,4,35,101,0
+Delhi,"Pritampura, Delhi",10-07-14,4,32,150,0
+Delhi,"Pritampura, Delhi",10-10-14,4,37,134,0
+Delhi,"Pritampura, Delhi",15-10-14,4,45,115,0
+Delhi,"Pritampura, Delhi",20-10-14,4,48,230,0
+Delhi,"Pritampura, Delhi",22-10-14,6,82,348,0
+Delhi,"Pritampura, Delhi",27-10-14,4,44,209,0
+Delhi,"Pritampura, Delhi",30-10-14,4,41,206,0
+Delhi,"Pritampura, Delhi",11-05-14,4,38,210,0
+Delhi,"Pritampura, Delhi",11-11-14,4,39,236,0
+Delhi,"Pritampura, Delhi",14-11-14,4,40,192,0
+Delhi,"Pritampura, Delhi",19-11-14,4,36,247,0
+Delhi,"Pritampura, Delhi",24-11-14,4,39,215,0
+Delhi,"Pritampura, Delhi",27-11-14,4,37,420,0
+Delhi,"Pritampura, Delhi",12-03-14,4,39,225,0
+Delhi,"Pritampura, Delhi",12-08-14,4,40,189,0
+Delhi,"Pritampura, Delhi",12-11-14,4,39,228,0
+Delhi,"Pritampura, Delhi",16-12-14,4,36,229,0
+Delhi,"Pritampura, Delhi",19-12-14,4,34,382,0
+Delhi,"Pritampura, Delhi",30-12-14,4,31,309,0
+Delhi,"Siri Fort, Delhi",01-02-14,4,47,107,0
+Delhi,"Siri Fort, Delhi",01-07-14,4,45,198,0
+Delhi,"Siri Fort, Delhi",01-10-14,4,57,318,0
+Delhi,"Siri Fort, Delhi",16-01-14,4,50,458,0
+Delhi,"Siri Fort, Delhi",21-01-14,4,26,142,0
+Delhi,"Siri Fort, Delhi",24-01-14,4,37,179,0
+Delhi,"Siri Fort, Delhi",29-01-14,4,33,180,0
+Delhi,"Siri Fort, Delhi",02-04-14,4,46,157,0
+Delhi,"Siri Fort, Delhi",02-07-14,4,50,226,0
+Delhi,"Siri Fort, Delhi",02-12-14,4,51,234,0
+Delhi,"Siri Fort, Delhi",17-02-14,4,52,315,0
+Delhi,"Siri Fort, Delhi",20-02-14,4,52,328,0
+Delhi,"Siri Fort, Delhi",25-02-14,4,48,215,0
+Delhi,"Siri Fort, Delhi",03-03-14,4,46,283,0
+Delhi,"Siri Fort, Delhi",03-06-14,4,49,184,0
+Delhi,"Siri Fort, Delhi",03-11-14,4,36,145,0
+Delhi,"Siri Fort, Delhi",14-03-14,4,48,149,0
+Delhi,"Siri Fort, Delhi",20-03-14,4,47,156,0
+Delhi,"Siri Fort, Delhi",25-03-14,4,48,170,0
+Delhi,"Siri Fort, Delhi",28-03-14,4,56,163,0
+Delhi,"Siri Fort, Delhi",04-03-14,4,45,147,0
+Delhi,"Siri Fort, Delhi",04-09-14,4,49,183,0
+Delhi,"Siri Fort, Delhi",16-04-14,4,42,211,0
+Delhi,"Siri Fort, Delhi",22-04-14,4,48,241,0
+Delhi,"Siri Fort, Delhi",25-04-14,4,47,202,0
+Delhi,"Siri Fort, Delhi",05-01-14,4,35,213,0
+Delhi,"Siri Fort, Delhi",05-06-14,4,37,243,0
+Delhi,"Siri Fort, Delhi",05-09-14,4,43,229,0
+Delhi,"Siri Fort, Delhi",15-05-14,4,32,204,0
+Delhi,"Siri Fort, Delhi",20-05-14,4,30,202,0
+Delhi,"Siri Fort, Delhi",23-05-14,4,27,189,0
+Delhi,"Siri Fort, Delhi",28-05-14,4,31,0,0
+Delhi,"Siri Fort, Delhi",06-03-14,4,36,0,0
+Delhi,"Siri Fort, Delhi",06-06-14,4,34,0,0
+Delhi,"Siri Fort, Delhi",06-11-14,4,27,190,0
+Delhi,"Siri Fort, Delhi",16-06-14,4,34,189,0
+Delhi,"Siri Fort, Delhi",19-06-14,4,35,175,0
+Delhi,"Siri Fort, Delhi",24-06-14,4,42,149,0
+Delhi,"Siri Fort, Delhi",27-06-14,4,41,271,0
+Delhi,"Siri Fort, Delhi",07-03-14,4,23,128,0
+Delhi,"Siri Fort, Delhi",07-08-14,4,28,183,0
+Delhi,"Siri Fort, Delhi",07-11-14,4,31,157,0
+Delhi,"Siri Fort, Delhi",16-07-14,4,30,163,0
+Delhi,"Siri Fort, Delhi",21-07-14,4,26,108,0
+Delhi,"Siri Fort, Delhi",24-07-14,4,20,105,0
+Delhi,"Siri Fort, Delhi",30-07-14,4,36,168,0
+Delhi,"Siri Fort, Delhi",08-05-14,4,35,147,0
+Delhi,"Siri Fort, Delhi",08-08-14,4,39,147,0
+Delhi,"Siri Fort, Delhi",13-08-14,4,46,141,0
+Delhi,"Siri Fort, Delhi",20-08-14,4,38,147,0
+Delhi,"Siri Fort, Delhi",09-03-14,4,23,139,0
+Delhi,"Siri Fort, Delhi",09-08-14,4,27,0,0
+Delhi,"Siri Fort, Delhi",09-11-14,4,22,0,0
+Delhi,"Siri Fort, Delhi",16-09-14,4,29,0,0
+Delhi,"Siri Fort, Delhi",19-09-14,4,28,129,0
+Delhi,"Siri Fort, Delhi",24-09-14,4,39,207,0
+Delhi,"Siri Fort, Delhi",29-09-14,4,43,324,0
+Delhi,"Siri Fort, Delhi",10-08-14,4,35,266,0
+Delhi,"Siri Fort, Delhi",13-10-14,4,32,207,0
+Delhi,"Siri Fort, Delhi",16-10-14,4,43,216,0
+Delhi,"Siri Fort, Delhi",21-10-14,4,40,159,0
+Delhi,"Siri Fort, Delhi",30-10-14,4,42,161,0
+Delhi,"Siri Fort, Delhi",11-07-14,4,52,318,0
+Delhi,"Siri Fort, Delhi",11-12-14,4,44,240,0
+Delhi,"Siri Fort, Delhi",17-11-14,4,52,604,0
+Delhi,"Siri Fort, Delhi",20-11-14,4,42,348,0
+Delhi,"Siri Fort, Delhi",25-11-14,4,48,187,0
+Delhi,"Siri Fort, Delhi",12-01-14,4,38,130,0
+Delhi,"Siri Fort, Delhi",12-04-14,4,39,255,0
+Delhi,"Siri Fort, Delhi",12-09-14,4,36,218,0
+Delhi,"Siri Fort, Delhi",12-12-14,4,43,302,0
+Delhi,"Siri Fort, Delhi",17-12-14,4,45,191,0
+Delhi,"Siri Fort, Delhi",22-12-14,4,46,224,0
+Delhi,"Siri Fort, Delhi",26-12-14,4,46,229,0
+Delhi,"Janakpuri, Delhi",01-03-14,4,54,301,0
+Delhi,"Janakpuri, Delhi",01-08-14,5,48,354,0
+Delhi,"Janakpuri, Delhi",13-01-14,4,46,218,0
+Delhi,"Janakpuri, Delhi",17-01-14,4,27,131,0
+Delhi,"Janakpuri, Delhi",22-01-14,4,27,119,0
+Delhi,"Janakpuri, Delhi",27-01-14,4,32,181,0
+Delhi,"Janakpuri, Delhi",30-01-14,4,35,387,0
+Delhi,"Janakpuri, Delhi",02-05-14,4,48,287,0
+Delhi,"Janakpuri, Delhi",02-10-14,4,49,254,0
+Delhi,"Janakpuri, Delhi",13-02-14,4,44,270,0
+Delhi,"Janakpuri, Delhi",18-02-14,4,49,327,0
+Delhi,"Janakpuri, Delhi",21-02-14,4,51,119,0
+Delhi,"Janakpuri, Delhi",26-02-14,4,38,273,0
+Delhi,"Janakpuri, Delhi",03-04-14,4,51,146,0
+Delhi,"Janakpuri, Delhi",03-07-14,4,51,197,0
+Delhi,"Janakpuri, Delhi",03-12-14,4,49,94,0
+Delhi,"Janakpuri, Delhi",18-03-14,4,52,108,0
+Delhi,"Janakpuri, Delhi",21-03-14,4,56,152,0
+Delhi,"Janakpuri, Delhi",26-03-14,4,50,104,0
+Delhi,"Janakpuri, Delhi",04-01-14,4,53,115,0
+Delhi,"Janakpuri, Delhi",04-04-14,4,40,124,0
+Delhi,"Janakpuri, Delhi",04-11-14,4,47,183,0
+Delhi,"Janakpuri, Delhi",17-04-14,4,42,190,0
+Delhi,"Janakpuri, Delhi",23-04-14,5,59,434,0
+Delhi,"Janakpuri, Delhi",28-04-14,4,37,165,0
+Delhi,"Janakpuri, Delhi",05-02-14,4,42,296,0
+Delhi,"Janakpuri, Delhi",05-07-14,4,42,281,0
+Delhi,"Janakpuri, Delhi",05-12-14,4,36,246,0
+Delhi,"Janakpuri, Delhi",16-05-14,4,43,204,0
+Delhi,"Janakpuri, Delhi",21-05-14,4,36,313,0
+Delhi,"Janakpuri, Delhi",26-05-14,4,40,238,0
+Delhi,"Janakpuri, Delhi",29-05-14,4,37,212,0
+Delhi,"Janakpuri, Delhi",06-04-14,4,31,0,0
+Delhi,"Janakpuri, Delhi",06-09-14,4,38,0,0
+Delhi,"Janakpuri, Delhi",06-12-14,4,32,0,0
+Delhi,"Janakpuri, Delhi",17-06-14,4,36,163,0
+Delhi,"Janakpuri, Delhi",20-06-14,4,37,177,0
+Delhi,"Janakpuri, Delhi",25-06-14,4,37,159,0
+Delhi,"Janakpuri, Delhi",07-01-14,4,50,239,0
+Delhi,"Janakpuri, Delhi",07-04-14,4,34,158,0
+Delhi,"Janakpuri, Delhi",07-09-14,4,42,182,0
+Delhi,"Janakpuri, Delhi",14-07-14,4,42,112,0
+Delhi,"Janakpuri, Delhi",17-07-14,4,24,104,0
+Delhi,"Janakpuri, Delhi",22-07-14,4,42,128,0
+Delhi,"Janakpuri, Delhi",25-07-14,4,41,159,0
+Delhi,"Janakpuri, Delhi",08-01-14,4,44,139,0
+Delhi,"Janakpuri, Delhi",08-06-14,4,45,125,0
+Delhi,"Janakpuri, Delhi",08-11-14,4,44,93,0
+Delhi,"Janakpuri, Delhi",14-08-14,4,39,86,0
+Delhi,"Janakpuri, Delhi",21-08-14,4,45,134,0
+Delhi,"Janakpuri, Delhi",26-08-14,4,40,152,0
+Delhi,"Janakpuri, Delhi",09-01-14,4,30,160,0
+Delhi,"Janakpuri, Delhi",09-09-14,4,32,93,0
+Delhi,"Janakpuri, Delhi",09-12-14,4,33,130,0
+Delhi,"Janakpuri, Delhi",17-09-14,4,31,114,0
+Delhi,"Janakpuri, Delhi",22-09-14,4,39,185,0
+Delhi,"Janakpuri, Delhi",25-09-14,4,37,199,0
+Delhi,"Janakpuri, Delhi",10-01-14,4,43,120,0
+Delhi,"Janakpuri, Delhi",10-09-14,4,37,130,0
+Delhi,"Janakpuri, Delhi",15-10-14,4,42,152,0
+Delhi,"Janakpuri, Delhi",17-10-14,4,54,172,0
+Delhi,"Janakpuri, Delhi",22-10-14,18,92,304,0
+Delhi,"Janakpuri, Delhi",28-10-14,4,38,161,0
+Delhi,"Janakpuri, Delhi",11-03-14,4,45,308,0
+Delhi,"Janakpuri, Delhi",11-10-14,4,44,332,0
+Delhi,"Janakpuri, Delhi",13-11-14,4,46,206,0
+Delhi,"Janakpuri, Delhi",18-11-14,4,47,296,0
+Delhi,"Janakpuri, Delhi",21-11-14,4,53,219,0
+Delhi,"Janakpuri, Delhi",26-11-14,4,45,231,0
+Delhi,"Janakpuri, Delhi",12-02-14,4,46,263,0
+Delhi,"Janakpuri, Delhi",12-05-14,4,49,235,0
+Delhi,"Janakpuri, Delhi",12-10-14,4,47,215,0
+Delhi,"Janakpuri, Delhi",15-12-14,4,42,187,0
+Delhi,"Janakpuri, Delhi",18-12-14,4,47,311,0
+Delhi,"Janakpuri, Delhi",23-12-14,4,47,195,0
+Delhi,"Janakpuri, Delhi",29-12-14,4,41,143,0
+Delhi,"Nizamuddin, Delhi",01-01-14,4,40,212,0
+Delhi,"Nizamuddin, Delhi",01-06-14,4,40,190,0
+Delhi,"Nizamuddin, Delhi",01-09-14,4,67,379,0
+Delhi,"Nizamuddin, Delhi",15-01-14,5,60,380,0
+Delhi,"Nizamuddin, Delhi",20-01-14,4,44,222,0
+Delhi,"Nizamuddin, Delhi",23-01-14,4,40,106,0
+Delhi,"Nizamuddin, Delhi",28-01-14,4,35,219,0
+Delhi,"Nizamuddin, Delhi",02-03-14,4,54,279,0
+Delhi,"Nizamuddin, Delhi",02-06-14,5,50,192,0
+Delhi,"Nizamuddin, Delhi",02-11-14,4,50,312,0
+Delhi,"Nizamuddin, Delhi",14-02-14,4,27,194,0
+Delhi,"Nizamuddin, Delhi",19-02-14,4,49,225,0
+Delhi,"Nizamuddin, Delhi",24-02-14,4,39,236,0
+Delhi,"Nizamuddin, Delhi",27-02-14,4,37,194,0
+Delhi,"Nizamuddin, Delhi",03-05-14,4,28,171,0
+Delhi,"Nizamuddin, Delhi",03-10-14,4,29,52,0
+Delhi,"Nizamuddin, Delhi",13-03-14,4,34,147,0
+Delhi,"Nizamuddin, Delhi",19-03-14,4,36,133,0
+Delhi,"Nizamuddin, Delhi",24-03-14,4,33,106,0
+Delhi,"Nizamuddin, Delhi",27-03-14,4,32,125,0
+Delhi,"Nizamuddin, Delhi",04-02-14,4,54,113,0
+Delhi,"Nizamuddin, Delhi",04-07-14,4,37,135,0
+Delhi,"Nizamuddin, Delhi",15-04-14,4,48,151,0
+Delhi,"Nizamuddin, Delhi",21-04-14,4,41,152,0
+Delhi,"Nizamuddin, Delhi",24-04-14,4,59,194,0
+Delhi,"Nizamuddin, Delhi",29-04-14,4,44,106,0
+Delhi,"Nizamuddin, Delhi",05-05-14,4,37,156,0
+Delhi,"Nizamuddin, Delhi",05-08-14,4,48,339,0
+Delhi,"Nizamuddin, Delhi",13-05-14,4,26,138,0
+Delhi,"Nizamuddin, Delhi",19-05-14,4,30,175,0
+Delhi,"Nizamuddin, Delhi",22-05-14,4,30,138,0
+Delhi,"Nizamuddin, Delhi",27-05-14,4,29,175,0
+Delhi,"Nizamuddin, Delhi",06-02-14,4,27,137,0
+Delhi,"Nizamuddin, Delhi",06-05-14,4,27,132,0
+Delhi,"Nizamuddin, Delhi",06-10-14,4,40,213,0
+Delhi,"Nizamuddin, Delhi",13-06-14,4,35,145,0
+Delhi,"Nizamuddin, Delhi",18-06-14,4,35,176,0
+Delhi,"Nizamuddin, Delhi",23-06-14,4,35,165,0
+Delhi,"Nizamuddin, Delhi",26-06-14,4,43,157,0
+Delhi,"Nizamuddin, Delhi",07-02-14,4,41,181,0
+Delhi,"Nizamuddin, Delhi",07-07-14,4,41,129,0
+Delhi,"Nizamuddin, Delhi",07-10-14,4,39,234,0
+Delhi,"Nizamuddin, Delhi",15-07-14,4,36,162,0
+Delhi,"Nizamuddin, Delhi",23-07-14,4,30,85,0
+Delhi,"Nizamuddin, Delhi",28-07-14,4,30,153,0
+Delhi,"Nizamuddin, Delhi",08-04-14,4,47,96,0
+Delhi,"Nizamuddin, Delhi",08-07-14,4,39,134,0
+Delhi,"Nizamuddin, Delhi",08-12-14,4,41,143,0
+Delhi,"Nizamuddin, Delhi",19-08-14,4,46,217,0
+Delhi,"Nizamuddin, Delhi",22-08-14,4,36,241,0
+Delhi,"Nizamuddin, Delhi",27-08-14,4,43,165,0
+Delhi,"Nizamuddin, Delhi",09-02-14,4,32,71,0
+Delhi,"Nizamuddin, Delhi",09-05-14,4,26,57,0
+Delhi,"Nizamuddin, Delhi",09-10-14,4,33,87,0
+Delhi,"Nizamuddin, Delhi",15-09-14,4,34,77,0
+Delhi,"Nizamuddin, Delhi",18-09-14,4,29,90,0
+Delhi,"Nizamuddin, Delhi",23-09-14,4,37,143,0
+Delhi,"Nizamuddin, Delhi",26-09-14,4,40,121,0
+Delhi,"Nizamuddin, Delhi",10-07-14,4,44,141,0
+Delhi,"Nizamuddin, Delhi",10-10-14,4,49,157,0
+Delhi,"Nizamuddin, Delhi",14-10-14,4,38,83,0
+Delhi,"Nizamuddin, Delhi",20-10-14,4,56,225,0
+Delhi,"Nizamuddin, Delhi",24-10-14,4,34,231,0
+Delhi,"Nizamuddin, Delhi",29-10-14,4,47,175,0
+Delhi,"Nizamuddin, Delhi",11-05-14,4,48,205,0
+Delhi,"Nizamuddin, Delhi",11-11-14,4,54,363,0
+Delhi,"Nizamuddin, Delhi",14-11-14,4,53,330,0
+Delhi,"Nizamuddin, Delhi",19-11-14,4,56,481,0
+Delhi,"Nizamuddin, Delhi",24-11-14,4,45,316,0
+Delhi,"Nizamuddin, Delhi",27-11-14,4,45,303,0
+Delhi,"Nizamuddin, Delhi",12-03-14,4,39,263,0
+Delhi,"Nizamuddin, Delhi",12-08-14,4,45,343,0
+Delhi,"Nizamuddin, Delhi",12-11-14,4,49,237,0
+Delhi,"Nizamuddin, Delhi",16-12-14,4,41,158,0
+Delhi,"Nizamuddin, Delhi",19-12-14,4,42,251,0
+Delhi,"Nizamuddin, Delhi",24-12-14,4,40,257,0
+Delhi,"Nizamuddin, Delhi",30-12-14,4,44,214,0
+Delhi,"Shahzada Bagh, Delhi",01-02-14,4,65,389,0
+Delhi,"Shahzada Bagh, Delhi",01-07-14,4,69,240,0
+Delhi,"Shahzada Bagh, Delhi",01-10-14,4,64,313,0
+Delhi,"Shahzada Bagh, Delhi",16-01-14,4,63,399,0
+Delhi,"Shahzada Bagh, Delhi",21-01-14,4,63,119,0
+Delhi,"Shahzada Bagh, Delhi",24-01-14,4,55,161,0
+Delhi,"Shahzada Bagh, Delhi",29-01-14,4,60,403,0
+Delhi,"Shahzada Bagh, Delhi",02-04-14,4,65,307,0
+Delhi,"Shahzada Bagh, Delhi",02-07-14,4,58,203,0
+Delhi,"Shahzada Bagh, Delhi",02-12-14,4,65,235,0
+Delhi,"Shahzada Bagh, Delhi",17-02-14,4,61,202,0
+Delhi,"Shahzada Bagh, Delhi",20-02-14,4,67,287,0
+Delhi,"Shahzada Bagh, Delhi",25-02-14,4,62,280,0
+Delhi,"Shahzada Bagh, Delhi",03-03-14,4,68,222,0
+Delhi,"Shahzada Bagh, Delhi",03-06-14,4,64,161,0
+Delhi,"Shahzada Bagh, Delhi",03-11-14,4,62,191,0
+Delhi,"Shahzada Bagh, Delhi",14-03-14,4,71,173,0
+Delhi,"Shahzada Bagh, Delhi",20-03-14,4,65,0,0
+Delhi,"Shahzada Bagh, Delhi",25-03-14,4,68,0,0
+Delhi,"Shahzada Bagh, Delhi",28-03-14,4,63,0,0
+Delhi,"Shahzada Bagh, Delhi",04-03-14,4,62,0,0
+Delhi,"Shahzada Bagh, Delhi",04-09-14,4,65,146,0
+Delhi,"Shahzada Bagh, Delhi",16-04-14,4,55,179,0
+Delhi,"Shahzada Bagh, Delhi",22-04-14,4,65,303,0
+Delhi,"Shahzada Bagh, Delhi",25-04-14,4,68,271,0
+Delhi,"Shahzada Bagh, Delhi",05-01-14,4,51,310,0
+Delhi,"Shahzada Bagh, Delhi",05-06-14,4,58,228,0
+Delhi,"Shahzada Bagh, Delhi",05-09-14,4,60,351,0
+Delhi,"Shahzada Bagh, Delhi",15-05-14,4,55,276,0
+Delhi,"Shahzada Bagh, Delhi",20-05-14,4,57,208,0
+Delhi,"Shahzada Bagh, Delhi",23-05-14,4,59,189,0
+Delhi,"Shahzada Bagh, Delhi",28-05-14,4,55,267,0
+Delhi,"Shahzada Bagh, Delhi",06-03-14,4,63,240,0
+Delhi,"Shahzada Bagh, Delhi",06-06-14,4,60,206,0
+Delhi,"Shahzada Bagh, Delhi",06-11-14,4,56,256,0
+Delhi,"Shahzada Bagh, Delhi",16-06-14,4,55,303,0
+Delhi,"Shahzada Bagh, Delhi",19-06-14,4,54,132,0
+Delhi,"Shahzada Bagh, Delhi",24-06-14,4,54,306,0
+Delhi,"Shahzada Bagh, Delhi",27-06-14,4,54,186,0
+Delhi,"Shahzada Bagh, Delhi",07-03-14,4,54,157,0
+Delhi,"Shahzada Bagh, Delhi",07-08-14,4,53,224,0
+Delhi,"Shahzada Bagh, Delhi",07-11-14,4,49,185,0
+Delhi,"Shahzada Bagh, Delhi",16-07-14,4,59,131,0
+Delhi,"Shahzada Bagh, Delhi",21-07-14,4,51,132,0
+Delhi,"Shahzada Bagh, Delhi",24-07-14,4,50,75,0
+Delhi,"Shahzada Bagh, Delhi",30-07-14,4,59,153,0
+Delhi,"Shahzada Bagh, Delhi",08-05-14,4,60,147,0
+Delhi,"Shahzada Bagh, Delhi",08-08-14,4,53,218,0
+Delhi,"Shahzada Bagh, Delhi",13-08-14,4,58,83,0
+Delhi,"Shahzada Bagh, Delhi",20-08-14,4,57,189,0
+Delhi,"Shahzada Bagh, Delhi",25-08-14,4,57,123,0
+Delhi,"Shahzada Bagh, Delhi",28-08-14,4,55,138,0
+Delhi,"Shahzada Bagh, Delhi",09-03-14,4,47,145,0
+Delhi,"Shahzada Bagh, Delhi",09-08-14,4,55,93,0
+Delhi,"Shahzada Bagh, Delhi",09-11-14,4,56,74,0
+Delhi,"Shahzada Bagh, Delhi",16-09-14,4,51,147,0
+Delhi,"Shahzada Bagh, Delhi",19-09-14,4,55,112,0
+Delhi,"Shahzada Bagh, Delhi",24-09-14,4,60,102,0
+Delhi,"Shahzada Bagh, Delhi",29-09-14,4,60,137,0
+Delhi,"Shahzada Bagh, Delhi",10-08-14,4,55,209,0
+Delhi,"Shahzada Bagh, Delhi",13-10-14,4,47,262,0
+Delhi,"Shahzada Bagh, Delhi",16-10-14,4,66,231,0
+Delhi,"Shahzada Bagh, Delhi",21-10-14,4,61,256,0
+Delhi,"Shahzada Bagh, Delhi",28-10-14,4,64,277,0
+Delhi,"Shahzada Bagh, Delhi",11-07-14,4,57,339,0
+Delhi,"Shahzada Bagh, Delhi",11-12-14,4,59,403,0
+Delhi,"Shahzada Bagh, Delhi",17-11-14,4,59,374,0
+Delhi,"Shahzada Bagh, Delhi",20-11-14,4,60,464,0
+Delhi,"Shahzada Bagh, Delhi",25-11-14,4,63,334,0
+Delhi,"Shahzada Bagh, Delhi",12-01-14,4,52,368,0
+Delhi,"Shahzada Bagh, Delhi",12-04-14,4,60,183,0
+Delhi,"Shahzada Bagh, Delhi",12-09-14,4,59,221,0
+Delhi,"Shahzada Bagh, Delhi",12-12-14,4,57,290,0
+Delhi,"Shahzada Bagh, Delhi",17-12-14,4,61,287,0
+Delhi,"Shahzada Bagh, Delhi",22-12-14,4,62,479,0
+Delhi,"Shahzada Bagh, Delhi",26-12-14,4,59,481,0
+Delhi,"Shahadra, Delhi",01-03-14,4,69,470,0
+Delhi,"Shahadra, Delhi",01-08-14,4,65,478,0
+Delhi,"Shahadra, Delhi",13-01-14,4,66,291,0
+Delhi,"Shahadra, Delhi",17-01-14,5,71,414,0
+Delhi,"Shahadra, Delhi",22-01-14,4,63,190,0
+Delhi,"Shahadra, Delhi",27-01-14,4,62,294,0
+Delhi,"Shahadra, Delhi",30-01-14,5,52,438,0
+Delhi,"Shahadra, Delhi",02-05-14,4,58,243,0
+Delhi,"Shahadra, Delhi",02-10-14,4,62,271,0
+Delhi,"Shahadra, Delhi",13-02-14,4,60,227,0
+Delhi,"Shahadra, Delhi",18-02-14,4,60,391,0
+Delhi,"Shahadra, Delhi",26-02-14,4,66,246,0
+Delhi,"Shahadra, Delhi",03-04-14,4,61,165,0
+Delhi,"Shahadra, Delhi",03-07-14,4,60,175,0
+Delhi,"Shahadra, Delhi",03-12-14,4,53,115,0
+Delhi,"Shahadra, Delhi",18-03-14,4,65,177,0
+Delhi,"Shahadra, Delhi",21-03-14,4,63,201,0
+Delhi,"Shahadra, Delhi",26-03-14,4,62,259,0
+Delhi,"Shahadra, Delhi",04-01-14,4,63,312,0
+Delhi,"Shahadra, Delhi",04-04-14,4,64,166,0
+Delhi,"Shahadra, Delhi",04-11-14,4,64,371,0
+Delhi,"Shahadra, Delhi",17-04-14,4,61,234,0
+Delhi,"Shahadra, Delhi",23-04-14,4,59,242,0
+Delhi,"Shahadra, Delhi",28-04-14,4,63,435,0
+Delhi,"Shahadra, Delhi",05-02-14,4,61,475,0
+Delhi,"Shahadra, Delhi",05-07-14,4,60,238,0
+Delhi,"Shahadra, Delhi",05-12-14,4,51,240,0
+Delhi,"Shahadra, Delhi",16-05-14,4,62,251,0
+Delhi,"Shahadra, Delhi",21-05-14,4,58,333,0
+Delhi,"Shahadra, Delhi",26-05-14,4,61,267,0
+Delhi,"Shahadra, Delhi",29-05-14,4,61,380,0
+Delhi,"Shahadra, Delhi",06-04-14,4,60,153,0
+Delhi,"Shahadra, Delhi",06-09-14,4,56,207,0
+Delhi,"Shahadra, Delhi",06-12-14,4,58,417,0
+Delhi,"Shahadra, Delhi",17-06-14,4,55,236,0
+Delhi,"Shahadra, Delhi",20-06-14,4,59,314,0
+Delhi,"Shahadra, Delhi",25-06-14,4,55,236,0
+Delhi,"Shahadra, Delhi",07-01-14,4,58,178,0
+Delhi,"Shahadra, Delhi",07-04-14,4,62,352,0
+Delhi,"Shahadra, Delhi",07-09-14,4,51,419,0
+Delhi,"Shahadra, Delhi",14-07-14,4,58,216,0
+Delhi,"Shahadra, Delhi",17-07-14,4,58,115,0
+Delhi,"Shahadra, Delhi",22-07-14,4,48,253,0
+Delhi,"Shahadra, Delhi",25-07-14,4,53,165,0
+Delhi,"Shahadra, Delhi",08-01-14,4,58,130,0
+Delhi,"Shahadra, Delhi",08-06-14,4,55,218,0
+Delhi,"Shahadra, Delhi",08-11-14,4,46,135,0
+Delhi,"Shahadra, Delhi",14-08-14,4,54,137,0
+Delhi,"Shahadra, Delhi",21-08-14,4,56,290,0
+Delhi,"Shahadra, Delhi",26-08-14,4,53,92,0
+Delhi,"Shahadra, Delhi",09-01-14,4,55,194,0
+Delhi,"Shahadra, Delhi",09-04-14,4,48,190,0
+Delhi,"Shahadra, Delhi",09-09-14,4,45,138,0
+Delhi,"Shahadra, Delhi",09-12-14,4,46,101,0
+Delhi,"Shahadra, Delhi",17-09-14,4,51,190,0
+Delhi,"Shahadra, Delhi",22-09-14,4,57,121,0
+Delhi,"Shahadra, Delhi",10-09-14,4,55,190,0
+Delhi,"Shahadra, Delhi",14-10-14,4,49,260,0
+Delhi,"Shahadra, Delhi",17-10-14,4,54,204,0
+Delhi,"Shahadra, Delhi",24-10-14,4,62,322,0
+Delhi,"Shahadra, Delhi",29-10-14,4,58,193,0
+Delhi,"Shahadra, Delhi",11-03-14,4,55,310,0
+Delhi,"Shahadra, Delhi",11-10-14,4,61,313,0
+Delhi,"Shahadra, Delhi",13-11-14,4,57,403,0
+Delhi,"Shahadra, Delhi",18-11-14,4,63,355,0
+Delhi,"Shahadra, Delhi",21-11-14,4,57,335,0
+Delhi,"Shahadra, Delhi",26-11-14,4,53,414,0
+Delhi,"Shahadra, Delhi",12-02-14,4,55,205,0
+Delhi,"Shahadra, Delhi",12-05-14,4,52,289,0
+Delhi,"Shahadra, Delhi",12-10-14,4,48,546,0
+Delhi,"Shahadra, Delhi",15-12-14,4,55,211,0
+Delhi,"Shahadra, Delhi",18-12-14,4,47,444,0
+Delhi,"Shahadra, Delhi",23-12-14,4,63,514,0
+Delhi,"Shahadra, Delhi",29-12-14,4,51,432,0
+Delhi,"Mayapuri Industrial Area, Delhi",01-02-14,17,55,308,0
+Delhi,"Mayapuri Industrial Area, Delhi",01-03-14,9,112,563,0
+Delhi,"Mayapuri Industrial Area, Delhi",01-07-14,15,99,543,0
+Delhi,"Mayapuri Industrial Area, Delhi",01-08-14,15,74,512,0
+Delhi,"Mayapuri Industrial Area, Delhi",01-09-14,18,100,604,0
+Delhi,"Mayapuri Industrial Area, Delhi",21-01-14,5,64,138,0
+Delhi,"Mayapuri Industrial Area, Delhi",22-01-14,2,54,149,0
+Delhi,"Mayapuri Industrial Area, Delhi",23-01-14,4,84,250,0
+Delhi,"Mayapuri Industrial Area, Delhi",02-11-14,9,92,273,0
+Delhi,"Mayapuri Industrial Area, Delhi",02-12-14,18,100,323,0
+Delhi,"Mayapuri Industrial Area, Delhi",13-02-14,9,91,186,0
+Delhi,"Mayapuri Industrial Area, Delhi",18-02-14,5,111,458,0
+Delhi,"Mayapuri Industrial Area, Delhi",19-02-14,21,115,390,0
+Delhi,"Mayapuri Industrial Area, Delhi",20-02-14,9,97,454,0
+Delhi,"Mayapuri Industrial Area, Delhi",25-02-14,5,105,314,0
+Delhi,"Mayapuri Industrial Area, Delhi",26-02-14,16,116,257,0
+Delhi,"Mayapuri Industrial Area, Delhi",03-04-14,10,66,253,0
+Delhi,"Mayapuri Industrial Area, Delhi",03-05-14,5,68,149,0
+Delhi,"Mayapuri Industrial Area, Delhi",03-06-14,7,77,189,0
+Delhi,"Mayapuri Industrial Area, Delhi",03-11-14,3,71,93,0
+Delhi,"Mayapuri Industrial Area, Delhi",03-12-14,4,58,121,0
+Delhi,"Mayapuri Industrial Area, Delhi",13-03-14,4,93,141,0
+Delhi,"Mayapuri Industrial Area, Delhi",19-03-14,10,58,128,0
+Delhi,"Mayapuri Industrial Area, Delhi",20-03-14,6,86,188,0
+Delhi,"Mayapuri Industrial Area, Delhi",04-02-14,2,85,219,0
+Delhi,"Mayapuri Industrial Area, Delhi",04-03-14,11,88,215,0
+Delhi,"Mayapuri Industrial Area, Delhi",15-04-14,2,44,277,0
+Delhi,"Mayapuri Industrial Area, Delhi",16-04-14,10,72,181,0
+Delhi,"Mayapuri Industrial Area, Delhi",17-04-14,2,75,110,0
+Delhi,"Mayapuri Industrial Area, Delhi",23-04-14,28,123,245,0
+Delhi,"Mayapuri Industrial Area, Delhi",25-04-14,19,137,300,0
+Delhi,"Mayapuri Industrial Area, Delhi",25-04-14,17,131,303,0
+Delhi,"Mayapuri Industrial Area, Delhi",05-06-14,4,72,127,0
+Delhi,"Mayapuri Industrial Area, Delhi",05-07-14,17,82,366,0
+Delhi,"Mayapuri Industrial Area, Delhi",05-08-14,11,103,281,0
+Delhi,"Mayapuri Industrial Area, Delhi",13-05-14,2,67,106,0
+Delhi,"Mayapuri Industrial Area, Delhi",14-05-14,10,81,150,0
+Delhi,"Mayapuri Industrial Area, Delhi",15-05-14,2,86,168,0
+Delhi,"Mayapuri Industrial Area, Delhi",27-05-14,2,107,222,0
+Delhi,"Mayapuri Industrial Area, Delhi",28-05-14,2,125,257,0
+Delhi,"Mayapuri Industrial Area, Delhi",06-03-14,3,111,305,0
+Delhi,"Mayapuri Industrial Area, Delhi",06-04-14,2,109,300,0
+Delhi,"Mayapuri Industrial Area, Delhi",06-05-14,2,63,217,0
+Delhi,"Mayapuri Industrial Area, Delhi",17-06-14,2,55,230,0
+Delhi,"Mayapuri Industrial Area, Delhi",18-06-14,2,56,128,0
+Delhi,"Mayapuri Industrial Area, Delhi",19-06-14,2,58,169,0
+Delhi,"Mayapuri Industrial Area, Delhi",26-06-14,3,47,226,0
+Delhi,"Mayapuri Industrial Area, Delhi",27-06-14,2,17,159,0
+Delhi,"Mayapuri Industrial Area, Delhi",07-08-14,2,78,314,0
+Delhi,"Mayapuri Industrial Area, Delhi",07-09-14,2,82,425,0
+Delhi,"Mayapuri Industrial Area, Delhi",07-10-14,2,80,335,0
+Delhi,"Mayapuri Industrial Area, Delhi",15-07-14,5,90,140,0
+Delhi,"Mayapuri Industrial Area, Delhi",16-07-14,2,81,113,0
+Delhi,"Mayapuri Industrial Area, Delhi",17-07-14,2,65,67,0
+Delhi,"Mayapuri Industrial Area, Delhi",22-07-14,2,79,81,0
+Delhi,"Mayapuri Industrial Area, Delhi",23-07-14,2,49,114,0
+Delhi,"Mayapuri Industrial Area, Delhi",08-05-14,5,47,186,0
+Delhi,"Mayapuri Industrial Area, Delhi",08-06-14,9,56,108,0
+Delhi,"Mayapuri Industrial Area, Delhi",08-07-14,5,78,181,0
+Delhi,"Mayapuri Industrial Area, Delhi",08-11-14,3,59,119,0
+Delhi,"Mayapuri Industrial Area, Delhi",08-12-14,2,39,97,0
+Delhi,"Mayapuri Industrial Area, Delhi",25-08-14,2,76,175,0
+Delhi,"Mayapuri Industrial Area, Delhi",26-08-14,2,68,200,0
+Delhi,"Mayapuri Industrial Area, Delhi",27-08-14,3,53,138,0
+Delhi,"Mayapuri Industrial Area, Delhi",16-09-14,2,50,125,0
+Delhi,"Mayapuri Industrial Area, Delhi",17-09-14,2,38,153,0
+Delhi,"Mayapuri Industrial Area, Delhi",18-09-14,2,56,169,0
+Delhi,"Mayapuri Industrial Area, Delhi",23-09-14,2,81,240,0
+Delhi,"Mayapuri Industrial Area, Delhi",24-09-14,3,67,236,0
+Delhi,"Mayapuri Industrial Area, Delhi",25-09-14,2,71,198,0
+Delhi,"Mayapuri Industrial Area, Delhi",28-09-14,4,49,188,0
+Delhi,"Mayapuri Industrial Area, Delhi",29-09-14,2,63,246,0
+Delhi,"Mayapuri Industrial Area, Delhi",15-10-14,5,61,220,0
+Delhi,"Mayapuri Industrial Area, Delhi",16-10-14,2,90,273,0
+Delhi,"Mayapuri Industrial Area, Delhi",17-10-14,2,80,358,0
+Delhi,"Mayapuri Industrial Area, Delhi",21-10-14,2,141,546,0
+Delhi,"Mayapuri Industrial Area, Delhi",22-10-14,2,163,420,0
+Delhi,"Mayapuri Industrial Area, Delhi",25-10-14,4,122,459,0
+Delhi,"Mayapuri Industrial Area, Delhi",26-10-14,4,100,319,0
+Delhi,"Mayapuri Industrial Area, Delhi",27-10-14,2,142,275,0
+Delhi,"Mayapuri Industrial Area, Delhi",11-04-14,5,142,442,0
+Delhi,"Mayapuri Industrial Area, Delhi",11-05-14,5,128,376,0
+Delhi,"Mayapuri Industrial Area, Delhi",11-06-14,10,148,452,0
+Delhi,"Mayapuri Industrial Area, Delhi",11-11-14,8,176,508,0
+Delhi,"Mayapuri Industrial Area, Delhi",11-12-14,11,195,537,0
+Delhi,"Mayapuri Industrial Area, Delhi",18-11-14,2,196,604,0
+Delhi,"Mayapuri Industrial Area, Delhi",19-11-14,3,147,604,0
+Delhi,"Mayapuri Industrial Area, Delhi",20-11-14,6,169,581,0
+Delhi,"Mayapuri Industrial Area, Delhi",12-03-14,2,152,395,0
+Delhi,"Mayapuri Industrial Area, Delhi",12-04-14,14,163,414,0
+Delhi,"Mayapuri Industrial Area, Delhi",12-10-14,7,142,545,0
+Delhi,"Mayapuri Industrial Area, Delhi",12-11-14,5,160,469,0
+Delhi,"Mayapuri Industrial Area, Delhi",12-12-14,20,209,604,0
+Delhi,"Mayapuri Industrial Area, Delhi",23-12-14,3,169,604,0
+Delhi,"Mayapuri Industrial Area, Delhi",24-12-14,2,118,369,0
+Delhi,"Mayapuri Industrial Area, Delhi",25-12-14,2,102,323,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",01-02-14,8,53,287,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",01-03-14,13,77,358,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",14-01-14,22,117,375,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",15-01-14,19,113,396,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",16-01-14,28,101,337,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",21-01-14,8,61,129,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",22-01-14,5,45,99,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",23-01-14,2,63,167,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",02-04-14,7,78,196,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",02-05-14,8,103,194,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",02-06-14,22,90,174,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",18-02-14,8,108,198,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",19-02-14,13,111,258,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",20-02-14,11,92,242,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",22-02-14,6,110,176,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",23-02-14,4,82,154,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",03-11-14,4,58,90,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",03-12-14,4,64,72,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",13-03-14,15,80,100,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",25-03-14,21,82,141,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",26-03-14,17,85,97,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",27-03-14,12,93,106,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",29-03-14,8,65,73,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",30-03-14,9,65,88,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",14-04-14,8,103,115,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",15-04-14,6,114,137,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",16-04-14,19,18,78,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",19-04-14,10,119,153,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",20-04-14,9,104,84,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",21-04-14,13,74,128,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",23-04-14,11,93,124,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",24-04-14,12,109,164,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",13-05-14,2,53,77,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",14-05-14,8,72,96,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",15-05-14,5,68,65,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",20-05-14,4,61,141,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",21-05-14,5,74,137,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",22-05-14,5,77,180,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",27-05-14,15,115,153,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",28-05-14,5,111,137,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",06-10-14,3,31,268,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",06-11-14,2,11,332,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",06-12-14,2,45,243,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",17-06-14,4,49,136,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",18-06-14,2,60,71,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",19-06-14,2,69,117,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",24-06-14,2,49,163,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",25-06-14,2,40,101,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",07-01-14,4,47,96,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",07-02-14,2,87,67,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",07-03-14,4,47,69,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",15-07-14,6,33,67,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",16-07-14,7,60,35,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",17-07-14,2,45,192,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",29-07-14,3,47,58,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",30-07-14,3,34,68,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",08-11-14,2,35,56,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",08-12-14,2,34,35,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",19-08-14,2,99,140,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",20-08-14,2,76,158,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",21-08-14,2,78,117,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",25-08-14,2,63,65,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",26-08-14,2,67,47,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",27-08-14,4,63,67,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",09-02-14,2,45,39,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",09-03-14,3,51,22,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",09-04-14,12,37,21,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",09-10-14,3,66,53,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",09-11-14,4,51,57,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",16-09-14,2,55,52,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",17-09-14,2,81,56,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",10-04-14,2,90,129,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",10-05-14,2,68,157,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",10-09-14,8,62,51,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",18-11-14,5,185,194,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",19-11-14,7,177,254,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",20-11-14,4,176,258,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",25-11-14,9,152,219,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",26-11-14,16,146,274,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",27-11-14,20,160,355,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",28-11-14,7,157,366,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",29-11-14,19,145,306,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",12-04-14,7,121,228,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",12-05-14,4,122,249,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",12-10-14,17,143,247,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",12-11-14,13,150,286,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",12-12-14,12,172,500,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",16-12-14,7,100,223,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",17-12-14,8,119,245,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",18-12-14,14,123,403,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",01-07-14,12,114,421,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",01-08-14,14,91,459,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",01-09-14,14,106,541,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",15-01-14,10,114,499,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",16-01-14,6,82,444,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",17-01-14,2,75,228,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",28-01-14,6,60,368,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",29-01-14,3,59,327,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",02-04-14,5,110,221,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",02-05-14,16,112,226,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",02-06-14,18,97,143,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",02-12-14,3,90,217,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",13-02-14,4,85,145,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",14-02-14,4,46,136,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",25-02-14,17,109,244,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",26-02-14,21,112,213,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",03-04-14,9,106,138,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",03-05-14,6,87,98,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",03-06-14,3,82,133,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",19-03-14,8,76,118,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",20-03-14,17,109,139,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",21-03-14,27,99,137,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",25-03-14,24,83,155,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",26-03-14,25,84,131,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",04-01-14,24,108,214,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",04-02-14,7,85,128,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",04-03-14,4,85,81,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",04-11-14,15,134,219,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",04-12-14,18,120,246,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",13-04-14,21,76,177,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",28-04-14,3,122,198,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",29-04-14,6,117,239,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",05-06-14,5,109,134,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",05-07-14,15,113,281,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",05-08-14,2,96,211,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",20-05-14,8,94,143,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",21-05-14,6,81,152,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",22-05-14,13,103,182,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",29-05-14,2,103,256,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",30-05-14,11,118,208,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",06-03-14,3,106,216,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",06-04-14,2,103,214,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",06-05-14,2,113,193,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",06-10-14,3,44,242,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",06-11-14,2,44,289,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",06-12-14,2,24,187,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",24-06-14,2,65,154,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",25-06-14,2,69,142,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",07-01-14,6,72,98,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",07-02-14,2,91,94,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",07-03-14,2,48,81,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",07-08-14,2,63,222,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",07-09-14,2,66,182,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",07-10-14,2,65,168,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",22-07-14,2,93,47,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",23-07-14,5,55,39,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",08-05-14,4,105,106,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",08-06-14,7,55,43,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",08-07-14,7,56,52,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",19-08-14,2,92,129,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",20-08-14,2,88,110,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",21-08-14,2,89,98,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",29-08-14,5,106,100,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",30-08-14,5,105,78,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",09-02-14,2,44,29,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",09-03-14,2,43,29,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",09-04-14,2,36,25,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",09-09-14,3,67,65,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",09-10-14,3,85,61,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",09-11-14,12,90,59,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",23-09-14,2,73,97,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",24-09-14,4,69,86,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",10-04-14,2,88,154,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",10-05-14,2,73,144,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",11-04-14,2,136,305,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",11-05-14,2,111,269,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",11-06-14,2,133,296,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",11-11-14,6,152,407,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",11-12-14,3,156,429,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",13-11-14,6,164,327,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",25-11-14,12,162,268,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",26-11-14,11,167,309,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",16-12-14,14,127,250,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",17-12-14,10,118,289,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",18-12-14,15,114,400,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",23-12-14,2,175,567,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",24-12-14,3,124,375,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",25-12-14,2,125,283,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",29-12-14,6,166,452,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",30-12-14,2,118,288,0
+Delhi,"Nizamuddin, Delhi",05-01-15,4,44,203,0
+Delhi,"Nizamuddin, Delhi",08-01-15,4,45,214,0
+Delhi,"Nizamuddin, Delhi",13-01-15,4,47,182,0
+Delhi,"Nizamuddin, Delhi",16-01-15,4,43,204,78
+Delhi,"Nizamuddin, Delhi",21-01-15,4,39,192,83
+Delhi,"Nizamuddin, Delhi",27-01-15,4,46,159,146
+Delhi,"Nizamuddin, Delhi",02-02-15,4,41,267,62
+Delhi,"Nizamuddin, Delhi",05-02-15,4,50,235,112
+Delhi,"Nizamuddin, Delhi",10-02-15,4,48,241,62
+Delhi,"Nizamuddin, Delhi",13-02-15,4,45,280,0
+Delhi,"Nizamuddin, Delhi",18-02-15,4,42,268,63
+Delhi,"Nizamuddin, Delhi",23-02-15,4,40,210,107
+Delhi,"Nizamuddin, Delhi",26-02-15,4,39,210,57
+Delhi,"Nizamuddin, Delhi",04-03-15,4,39,199,44
+Delhi,"Nizamuddin, Delhi",10-03-15,4,38,199,47
+Delhi,"Nizamuddin, Delhi",13-03-15,4,50,187,75
+Delhi,"Nizamuddin, Delhi",18-03-15,4,47,219,47
+Delhi,"Nizamuddin, Delhi",23-03-15,4,47,178,78
+Delhi,"Nizamuddin, Delhi",26-03-15,4,52,174,82
+Delhi,"Nizamuddin, Delhi",01-04-15,4,50,206,78
+Delhi,"Nizamuddin, Delhi",09-04-15,4,44,243,71
+Delhi,"Nizamuddin, Delhi",17-04-15,4,43,228,58
+Delhi,"Nizamuddin, Delhi",22-04-15,4,45,229,77
+Delhi,"Nizamuddin, Delhi",27-04-15,4,38,219,53
+Delhi,"Nizamuddin, Delhi",01-05-15,4,39,209,29
+Delhi,"Nizamuddin, Delhi",07-05-15,4,46,121,89
+Delhi,"Nizamuddin, Delhi",12-05-15,4,44,156,91
+Delhi,"Nizamuddin, Delhi",15-05-15,4,46,132,97
+Delhi,"Nizamuddin, Delhi",20-05-15,4,47,123,61
+Delhi,"Nizamuddin, Delhi",25-05-15,4,47,302,101
+Delhi,"Nizamuddin, Delhi",28-05-15,4,44,329,77
+Delhi,"Nizamuddin, Delhi",03-06-15,4,46,264,77
+Delhi,"Nizamuddin, Delhi",08-06-15,4,46,173,126
+Delhi,"Nizamuddin, Delhi",11-06-15,4,46,149,76
+Delhi,"Nizamuddin, Delhi",16-06-15,4,43,150,55
+Delhi,"Nizamuddin, Delhi",19-06-15,4,47,185,42
+Delhi,"Nizamuddin, Delhi",24-06-15,4,40,155,112
+Delhi,"Nizamuddin, Delhi",29-06-15,4,43,183,100
+Delhi,"Nizamuddin, Delhi",03-07-15,4,43,150,82
+Delhi,"Nizamuddin, Delhi",08-07-15,4,47,276,92
+Delhi,"Nizamuddin, Delhi",13-07-15,4,45,134,85
+Delhi,"Nizamuddin, Delhi",16-07-15,4,40,155,83
+Delhi,"Nizamuddin, Delhi",21-07-15,4,45,148,42
+Delhi,"Nizamuddin, Delhi",24-07-15,4,44,176,62
+Delhi,"Nizamuddin, Delhi",29-07-15,4,42,261,86
+Delhi,"Nizamuddin, Delhi",04-08-15,4,37,164,66
+Delhi,"Nizamuddin, Delhi",07-08-15,4,43,256,52
+Delhi,"Nizamuddin, Delhi",12-08-15,4,44,200,36
+Delhi,"Nizamuddin, Delhi",17-08-15,4,45,151,44
+Delhi,"Nizamuddin, Delhi",20-08-15,4,46,198,32
+Delhi,"Nizamuddin, Delhi",25-08-15,4,41,253,58
+Delhi,"Nizamuddin, Delhi",28-08-15,4,39,197,65
+Delhi,"Nizamuddin, Delhi",03-09-15,4,44,283,87
+Delhi,"Nizamuddin, Delhi",08-09-15,4,44,236,28
+Delhi,"Nizamuddin, Delhi",11-09-15,4,41,224,78
+Delhi,"Nizamuddin, Delhi",16-09-15,4,41,232,110
+Delhi,"Nizamuddin, Delhi",21-09-15,4,40,214,71
+Delhi,"Nizamuddin, Delhi",24-09-15,4,40,241,63
+Delhi,"Nizamuddin, Delhi",01-10-15,4,37,241,51
+Delhi,"Nizamuddin, Delhi",07-10-15,4,45,229,99
+Delhi,"Nizamuddin, Delhi",12-10-15,4,43,395,98
+Delhi,"Nizamuddin, Delhi",15-10-15,4,39,266,76
+Delhi,"Nizamuddin, Delhi",20-10-15,4,42,248,154
+Delhi,"Nizamuddin, Delhi",26-10-15,4,45,276,158
+Delhi,"Nizamuddin, Delhi",29-10-15,4,45,235,111
+Delhi,"Nizamuddin, Delhi",04-11-15,4,46,275,115
+Delhi,"Nizamuddin, Delhi",10-11-15,4,44,343,163
+Delhi,"Nizamuddin, Delhi",13-11-15,4,51,256,56
+Delhi,"Nizamuddin, Delhi",18-11-15,4,43,202,127
+Delhi,"Nizamuddin, Delhi",23-11-15,4,46,284,161
+Delhi,"Nizamuddin, Delhi",27-11-15,4,44,302,122
+Delhi,"Nizamuddin, Delhi",03-12-15,4,44,343,0
+Delhi,"Nizamuddin, Delhi",08-12-15,4,39,359,0
+Delhi,"Nizamuddin, Delhi",11-12-15,4,38,428,0
+Delhi,"Nizamuddin, Delhi",16-12-15,4,42,149,0
+Delhi,"Nizamuddin, Delhi",21-12-15,4,43,296,0
+Delhi,"Nizamuddin, Delhi",29-12-15,13,51,253,0
+Delhi,"Nizamuddin, Delhi",31-12-15,0,71,270,0
+Delhi,"Shahzada Bagh, Delhi",01-01-15,4,67,397,110
+Delhi,"Shahzada Bagh, Delhi",06-01-15,4,55,250,155
+Delhi,"Shahzada Bagh, Delhi",09-01-15,4,65,344,163
+Delhi,"Shahzada Bagh, Delhi",14-01-15,4,61,258,144
+Delhi,"Shahzada Bagh, Delhi",19-01-15,4,58,351,135
+Delhi,"Shahzada Bagh, Delhi",22-01-15,0,0,0,121
+Delhi,"Shahzada Bagh, Delhi",28-01-15,4,62,289,101
+Delhi,"Shahzada Bagh, Delhi",03-02-15,4,61,254,165
+Delhi,"Shahzada Bagh, Delhi",06-02-15,4,52,233,115
+Delhi,"Shahzada Bagh, Delhi",11-02-15,4,61,302,170
+Delhi,"Shahzada Bagh, Delhi",16-02-15,4,63,400,151
+Delhi,"Shahzada Bagh, Delhi",19-02-15,4,60,306,138
+Delhi,"Shahzada Bagh, Delhi",24-02-15,4,62,362,154
+Delhi,"Shahzada Bagh, Delhi",05-03-15,4,49,223,126
+Delhi,"Shahzada Bagh, Delhi",11-03-15,4,59,175,122
+Delhi,"Shahzada Bagh, Delhi",16-03-15,4,53,158,64
+Delhi,"Shahzada Bagh, Delhi",19-03-15,4,62,167,85
+Delhi,"Shahzada Bagh, Delhi",24-03-15,4,58,210,93
+Delhi,"Shahzada Bagh, Delhi",27-03-15,4,62,197,71
+Delhi,"Shahzada Bagh, Delhi",07-04-15,4,59,167,76
+Delhi,"Shahzada Bagh, Delhi",10-04-15,4,55,151,99
+Delhi,"Shahzada Bagh, Delhi",15-04-15,4,57,207,90
+Delhi,"Shahzada Bagh, Delhi",20-04-15,4,54,340,84
+Delhi,"Shahzada Bagh, Delhi",23-04-15,4,63,300,115
+Delhi,"Shahzada Bagh, Delhi",28-04-15,4,59,227,38
+Delhi,"Shahzada Bagh, Delhi",05-05-15,4,56,232,119
+Delhi,"Shahzada Bagh, Delhi",08-05-15,4,51,239,74
+Delhi,"Shahzada Bagh, Delhi",13-05-15,4,56,157,45
+Delhi,"Shahzada Bagh, Delhi",18-05-15,5,48,270,76
+Delhi,"Shahzada Bagh, Delhi",21-05-15,4,45,204,48
+Delhi,"Shahzada Bagh, Delhi",26-05-15,4,44,300,49
+Delhi,"Shahzada Bagh, Delhi",01-06-15,4,50,258,28
+Delhi,"Shahzada Bagh, Delhi",04-06-15,4,43,220,105
+Delhi,"Shahzada Bagh, Delhi",09-06-15,4,52,324,56
+Delhi,"Shahzada Bagh, Delhi",12-06-15,4,45,330,39
+Delhi,"Shahzada Bagh, Delhi",17-06-15,4,55,303,63
+Delhi,"Shahzada Bagh, Delhi",22-06-15,4,44,316,76
+Delhi,"Shahzada Bagh, Delhi",25-06-15,4,42,214,68
+Delhi,"Shahzada Bagh, Delhi",01-07-15,4,49,246,39
+Delhi,"Shahzada Bagh, Delhi",06-07-15,4,46,106,18
+Delhi,"Shahzada Bagh, Delhi",09-07-15,4,51,197,45
+Delhi,"Shahzada Bagh, Delhi",14-07-15,4,53,223,23
+Delhi,"Shahzada Bagh, Delhi",17-07-15,4,41,204,0
+Delhi,"Shahzada Bagh, Delhi",22-07-15,4,45,289,32
+Delhi,"Shahzada Bagh, Delhi",27-07-15,4,45,219,18
+Delhi,"Shahzada Bagh, Delhi",30-07-15,4,44,218,14
+Delhi,"Shahzada Bagh, Delhi",05-08-15,4,37,104,51
+Delhi,"Shahzada Bagh, Delhi",10-08-15,0,0,0,50
+Delhi,"Shahzada Bagh, Delhi",13-08-15,0,0,0,54
+Delhi,"Shahzada Bagh, Delhi",18-08-15,0,0,0,29
+Delhi,"Shahzada Bagh, Delhi",21-08-15,0,0,0,29
+Delhi,"Shahzada Bagh, Delhi",26-08-15,0,0,0,31
+Delhi,"Shahzada Bagh, Delhi",01-09-15,4,57,217,34
+Delhi,"Shahzada Bagh, Delhi",04-09-15,4,61,211,43
+Delhi,"Shahzada Bagh, Delhi",09-09-15,4,50,225,39
+Delhi,"Shahzada Bagh, Delhi",14-09-15,4,50,231,75
+Delhi,"Shahzada Bagh, Delhi",17-09-15,4,44,184,81
+Delhi,"Shahzada Bagh, Delhi",22-09-15,4,41,125,19
+Delhi,"Shahzada Bagh, Delhi",28-09-15,0,0,0,99
+Delhi,"Shahzada Bagh, Delhi",05-10-15,4,58,249,106
+Delhi,"Shahzada Bagh, Delhi",08-10-15,4,58,250,85
+Delhi,"Shahzada Bagh, Delhi",13-10-15,4,50,247,72
+Delhi,"Shahzada Bagh, Delhi",16-10-15,4,60,327,318
+Delhi,"Shahzada Bagh, Delhi",21-10-15,4,59,289,142
+Delhi,"Shahzada Bagh, Delhi",27-10-15,4,53,173,161
+Delhi,"Shahzada Bagh, Delhi",02-11-15,4,53,371,162
+Delhi,"Shahzada Bagh, Delhi",04-11-15,4,63,445,123
+Delhi,"Shahzada Bagh, Delhi",10-11-15,0,0,0,300
+Delhi,"Shahzada Bagh, Delhi",16-11-15,4,64,371,148
+Delhi,"Shahzada Bagh, Delhi",19-11-15,4,69,413,245
+Delhi,"Shahzada Bagh, Delhi",24-11-15,4,71,389,206
+Delhi,"Shahzada Bagh, Delhi",01-12-15,4,74,254,0
+Delhi,"Shahzada Bagh, Delhi",04-12-15,4,72,298,0
+Delhi,"Shahzada Bagh, Delhi",09-12-15,5,82,257,0
+Delhi,"Shahzada Bagh, Delhi",14-12-15,5,85,242,0
+Delhi,"Shahzada Bagh, Delhi",17-12-15,4,69,450,0
+Delhi,"Shahzada Bagh, Delhi",29-12-15,5,52,309,0
+Delhi,"Shahzada Bagh, Delhi",30-12-15,0,0,301,0
+Delhi,"Shahadra, Delhi",07-01-15,4,61,289,151
+Delhi,"Shahadra, Delhi",12-01-15,4,61,425,147
+Delhi,"Shahadra, Delhi",15-01-15,4,59,266,152
+Delhi,"Shahadra, Delhi",20-01-15,4,65,272,139
+Delhi,"Shahadra, Delhi",23-01-15,4,59,165,99
+Delhi,"Shahadra, Delhi",29-01-15,8,59,222,0
+Delhi,"Shahadra, Delhi",04-02-15,4,59,126,0
+Delhi,"Shahadra, Delhi",09-02-15,4,54,276,78
+Delhi,"Shahadra, Delhi",12-02-15,4,52,214,172
+Delhi,"Shahadra, Delhi",17-02-15,4,56,343,155
+Delhi,"Shahadra, Delhi",20-02-15,4,61,287,107
+Delhi,"Shahadra, Delhi",25-02-15,4,54,263,138
+Delhi,"Shahadra, Delhi",03-03-15,4,59,113,64
+Delhi,"Shahadra, Delhi",09-03-15,4,57,234,55
+Delhi,"Shahadra, Delhi",12-03-15,4,58,294,69
+Delhi,"Shahadra, Delhi",17-03-15,4,60,238,42
+Delhi,"Shahadra, Delhi",20-03-15,4,50,155,62
+Delhi,"Shahadra, Delhi",25-03-15,4,60,232,98
+Delhi,"Shahadra, Delhi",30-03-15,4,63,145,45
+Delhi,"Shahadra, Delhi",08-04-15,4,59,166,48
+Delhi,"Shahadra, Delhi",13-04-15,4,52,224,64
+Delhi,"Shahadra, Delhi",16-04-15,4,52,248,52
+Delhi,"Shahadra, Delhi",21-04-15,4,57,334,46
+Delhi,"Shahadra, Delhi",24-04-15,4,53,355,94
+Delhi,"Shahadra, Delhi",29-04-15,4,51,352,0
+Delhi,"Shahadra, Delhi",06-05-15,4,53,261,97
+Delhi,"Shahadra, Delhi",11-05-15,4,57,265,54
+Delhi,"Shahadra, Delhi",14-05-15,4,53,240,95
+Delhi,"Shahadra, Delhi",19-05-15,4,50,294,116
+Delhi,"Shahadra, Delhi",22-05-15,4,46,192,129
+Delhi,"Shahadra, Delhi",27-05-15,4,47,314,81
+Delhi,"Shahadra, Delhi",02-06-15,4,49,543,44
+Delhi,"Shahadra, Delhi",05-06-15,4,47,250,78
+Delhi,"Shahadra, Delhi",10-06-15,4,53,295,0
+Delhi,"Shahadra, Delhi",15-06-15,4,50,261,93
+Delhi,"Shahadra, Delhi",18-06-15,4,48,254,100
+Delhi,"Shahadra, Delhi",23-06-15,4,48,166,86
+Delhi,"Shahadra, Delhi",26-06-15,4,50,266,0
+Delhi,"Shahadra, Delhi",02-07-15,4,54,133,45
+Delhi,"Shahadra, Delhi",07-07-15,4,43,138,54
+Delhi,"Shahadra, Delhi",15-07-15,4,47,226,0
+Delhi,"Shahadra, Delhi",20-07-15,4,44,126,0
+Delhi,"Shahadra, Delhi",23-07-15,4,46,148,0
+Delhi,"Shahadra, Delhi",28-07-15,4,40,221,0
+Delhi,"Shahadra, Delhi",03-08-15,4,39,139,0
+Delhi,"Shahadra, Delhi",06-08-15,4,40,267,0
+Delhi,"Shahadra, Delhi",11-08-15,4,49,167,0
+Delhi,"Shahadra, Delhi",14-08-15,4,43,151,0
+Delhi,"Shahadra, Delhi",19-08-15,4,44,179,0
+Delhi,"Shahadra, Delhi",24-08-15,4,44,66,0
+Delhi,"Shahadra, Delhi",27-08-15,4,40,194,0
+Delhi,"Shahadra, Delhi",02-09-15,4,51,179,0
+Delhi,"Shahadra, Delhi",07-09-15,4,54,215,0
+Delhi,"Shahadra, Delhi",10-09-15,4,47,215,0
+Delhi,"Shahadra, Delhi",15-09-15,4,44,215,0
+Delhi,"Shahadra, Delhi",18-09-15,4,50,265,0
+Delhi,"Shahadra, Delhi",23-09-15,4,45,109,0
+Delhi,"Shahadra, Delhi",29-09-15,4,44,229,0
+Delhi,"Shahadra, Delhi",06-10-15,4,54,269,0
+Delhi,"Shahadra, Delhi",09-10-15,4,56,249,0
+Delhi,"Shahadra, Delhi",14-10-15,4,66,229,0
+Delhi,"Shahadra, Delhi",19-10-15,4,54,276,0
+Delhi,"Shahadra, Delhi",23-10-15,4,52,334,0
+Delhi,"Shahadra, Delhi",28-10-15,4,62,269,0
+Delhi,"Shahadra, Delhi",03-11-15,4,64,314,220
+Delhi,"Shahadra, Delhi",06-11-15,4,60,405,265
+Delhi,"Shahadra, Delhi",12-11-15,4,59,281,262
+Delhi,"Shahadra, Delhi",17-11-15,4,62,170,144
+Delhi,"Shahadra, Delhi",20-11-15,4,63,234,143
+Delhi,"Shahadra, Delhi",26-11-15,4,67,470,210
+Delhi,"Shahadra, Delhi",02-12-15,4,76,366,0
+Delhi,"Shahadra, Delhi",07-12-15,4,82,581,0
+Delhi,"Shahadra, Delhi",10-12-15,5,73,405,0
+Delhi,"Shahadra, Delhi",15-12-15,5,87,292,0
+Delhi,"Shahadra, Delhi",18-12-15,4,66,229,0
+Delhi,"Shahadra, Delhi",23-12-15,0,0,0,0
+Delhi,"Shahadra, Delhi",31-12-15,14,49,335,0
+Delhi,"Janakpuri, Delhi",07-01-15,4,47,143,62
+Delhi,"Janakpuri, Delhi",12-01-15,4,52,140,61
+Delhi,"Janakpuri, Delhi",15-01-15,4,45,187,56
+Delhi,"Janakpuri, Delhi",20-01-15,4,53,113,84
+Delhi,"Janakpuri, Delhi",23-01-15,4,50,120,109
+Delhi,"Janakpuri, Delhi",29-01-15,4,46,160,145
+Delhi,"Janakpuri, Delhi",04-02-15,4,44,150,70
+Delhi,"Janakpuri, Delhi",09-02-15,4,40,152,82
+Delhi,"Janakpuri, Delhi",12-02-15,4,35,168,134
+Delhi,"Janakpuri, Delhi",17-02-15,4,47,170,79
+Delhi,"Janakpuri, Delhi",20-02-15,4,44,145,61
+Delhi,"Janakpuri, Delhi",25-02-15,4,45,167,114
+Delhi,"Janakpuri, Delhi",03-03-15,4,47,142,110
+Delhi,"Janakpuri, Delhi",09-03-15,4,44,80,52
+Delhi,"Janakpuri, Delhi",12-03-15,4,48,215,96
+Delhi,"Janakpuri, Delhi",17-03-15,4,44,214,96
+Delhi,"Janakpuri, Delhi",20-03-15,4,47,190,111
+Delhi,"Janakpuri, Delhi",25-03-15,4,44,112,80
+Delhi,"Janakpuri, Delhi",30-03-15,4,46,145,127
+Delhi,"Janakpuri, Delhi",08-04-15,4,44,175,89
+Delhi,"Janakpuri, Delhi",13-04-15,4,48,169,72
+Delhi,"Janakpuri, Delhi",16-04-15,4,48,190,65
+Delhi,"Janakpuri, Delhi",21-04-15,4,47,207,68
+Delhi,"Janakpuri, Delhi",24-04-15,4,48,180,39
+Delhi,"Janakpuri, Delhi",29-04-15,4,49,212,50
+Delhi,"Janakpuri, Delhi",06-05-15,4,47,121,48
+Delhi,"Janakpuri, Delhi",11-05-15,4,48,59,0
+Delhi,"Janakpuri, Delhi",14-05-15,4,47,141,117
+Delhi,"Janakpuri, Delhi",19-05-15,4,52,102,0
+Delhi,"Janakpuri, Delhi",22-05-15,4,49,129,58
+Delhi,"Janakpuri, Delhi",27-05-15,4,49,147,62
+Delhi,"Janakpuri, Delhi",02-06-15,4,52,74,0
+Delhi,"Janakpuri, Delhi",05-06-15,4,60,137,118
+Delhi,"Janakpuri, Delhi",10-06-15,4,51,118,59
+Delhi,"Janakpuri, Delhi",15-06-15,4,58,74,0
+Delhi,"Janakpuri, Delhi",18-06-15,4,55,206,111
+Delhi,"Janakpuri, Delhi",23-06-15,4,51,191,98
+Delhi,"Janakpuri, Delhi",26-06-15,4,55,215,74
+Delhi,"Janakpuri, Delhi",02-07-15,4,52,206,94
+Delhi,"Janakpuri, Delhi",07-07-15,4,52,166,56
+Delhi,"Janakpuri, Delhi",15-07-15,4,52,181,139
+Delhi,"Janakpuri, Delhi",20-07-15,4,53,333,67
+Delhi,"Janakpuri, Delhi",23-07-15,4,52,195,93
+Delhi,"Janakpuri, Delhi",28-07-15,4,51,232,80
+Delhi,"Janakpuri, Delhi",03-08-15,4,49,212,43
+Delhi,"Janakpuri, Delhi",06-08-15,4,46,174,93
+Delhi,"Janakpuri, Delhi",11-08-15,4,54,165,103
+Delhi,"Janakpuri, Delhi",14-08-15,4,53,163,68
+Delhi,"Janakpuri, Delhi",19-08-15,4,51,125,79
+Delhi,"Janakpuri, Delhi",24-08-15,4,54,161,142
+Delhi,"Janakpuri, Delhi",27-08-15,4,50,239,62
+Delhi,"Janakpuri, Delhi",02-09-15,4,53,195,117
+Delhi,"Janakpuri, Delhi",07-09-15,4,51,197,90
+Delhi,"Janakpuri, Delhi",10-09-15,4,51,261,148
+Delhi,"Janakpuri, Delhi",15-09-15,4,48,152,81
+Delhi,"Janakpuri, Delhi",18-09-15,4,51,100,87
+Delhi,"Janakpuri, Delhi",23-09-15,4,52,244,120
+Delhi,"Janakpuri, Delhi",29-09-15,4,50,195,76
+Delhi,"Janakpuri, Delhi",06-10-15,4,52,226,86
+Delhi,"Janakpuri, Delhi",09-10-15,4,54,245,59
+Delhi,"Janakpuri, Delhi",14-10-15,4,56,246,52
+Delhi,"Janakpuri, Delhi",19-10-15,4,56,192,70
+Delhi,"Janakpuri, Delhi",23-10-15,4,47,255,218
+Delhi,"Janakpuri, Delhi",28-10-15,4,52,313,94
+Delhi,"Janakpuri, Delhi",03-11-15,4,50,284,222
+Delhi,"Janakpuri, Delhi",05-11-15,12,45,119,84
+Delhi,"Janakpuri, Delhi",09-11-15,9,49,403,194
+Delhi,"Janakpuri, Delhi",12-11-15,4,53,163,69
+Delhi,"Janakpuri, Delhi",17-11-15,4,51,176,89
+Delhi,"Janakpuri, Delhi",20-11-15,4,57,340,123
+Delhi,"Janakpuri, Delhi",26-11-15,4,58,346,96
+Delhi,"Janakpuri, Delhi",02-12-15,4,53,423,0
+Delhi,"Janakpuri, Delhi",07-12-15,4,50,443,0
+Delhi,"Janakpuri, Delhi",10-12-15,4,59,346,0
+Delhi,"Janakpuri, Delhi",15-12-15,5,67,604,0
+Delhi,"Janakpuri, Delhi",18-12-15,4,58,260,0
+Delhi,"Janakpuri, Delhi",23-12-15,4,56,140,0
+Delhi,"Janakpuri, Delhi",30-12-15,19,63,283,0
+Delhi,"Siri Fort, Delhi",01-01-15,4,53,173,0
+Delhi,"Siri Fort, Delhi",06-01-15,4,51,192,86
+Delhi,"Siri Fort, Delhi",09-01-15,4,57,197,126
+Delhi,"Siri Fort, Delhi",14-01-15,4,47,101,156
+Delhi,"Siri Fort, Delhi",19-01-15,4,48,237,172
+Delhi,"Siri Fort, Delhi",28-01-15,4,47,130,0
+Delhi,"Siri Fort, Delhi",03-02-15,4,29,102,62
+Delhi,"Siri Fort, Delhi",06-02-15,4,41,174,70
+Delhi,"Siri Fort, Delhi",11-02-15,4,40,146,125
+Delhi,"Siri Fort, Delhi",16-02-15,4,43,144,59
+Delhi,"Siri Fort, Delhi",19-02-15,4,43,140,84
+Delhi,"Siri Fort, Delhi",24-02-15,4,43,181,98
+Delhi,"Siri Fort, Delhi",05-03-15,4,45,88,0
+Delhi,"Siri Fort, Delhi",11-03-15,4,41,161,110
+Delhi,"Siri Fort, Delhi",16-03-15,4,45,171,119
+Delhi,"Siri Fort, Delhi",19-03-15,4,49,165,97
+Delhi,"Siri Fort, Delhi",24-03-15,4,42,149,100
+Delhi,"Siri Fort, Delhi",27-03-15,4,43,175,93
+Delhi,"Siri Fort, Delhi",07-04-15,4,53,173,61
+Delhi,"Siri Fort, Delhi",10-04-15,4,42,140,49
+Delhi,"Siri Fort, Delhi",15-04-15,4,49,171,56
+Delhi,"Siri Fort, Delhi",20-04-15,4,56,242,75
+Delhi,"Siri Fort, Delhi",23-04-15,4,50,195,60
+Delhi,"Siri Fort, Delhi",28-04-15,4,45,188,0
+Delhi,"Siri Fort, Delhi",05-05-15,4,46,137,83
+Delhi,"Siri Fort, Delhi",08-05-15,4,48,120,73
+Delhi,"Siri Fort, Delhi",13-05-15,4,44,50,27
+Delhi,"Siri Fort, Delhi",18-05-15,4,50,89,80
+Delhi,"Siri Fort, Delhi",21-05-15,4,49,61,46
+Delhi,"Siri Fort, Delhi",26-05-15,4,49,110,97
+Delhi,"Siri Fort, Delhi",01-06-15,4,45,151,28
+Delhi,"Siri Fort, Delhi",04-06-15,4,56,195,93
+Delhi,"Siri Fort, Delhi",09-06-15,4,54,167,126
+Delhi,"Siri Fort, Delhi",12-06-15,4,50,143,119
+Delhi,"Siri Fort, Delhi",17-06-15,4,51,121,34
+Delhi,"Siri Fort, Delhi",22-06-15,4,51,73,0
+Delhi,"Siri Fort, Delhi",25-06-15,4,44,111,38
+Delhi,"Siri Fort, Delhi",01-07-15,0,0,0,67
+Delhi,"Siri Fort, Delhi",09-07-15,4,50,177,0
+Delhi,"Siri Fort, Delhi",14-07-15,4,53,171,102
+Delhi,"Siri Fort, Delhi",17-07-15,4,46,191,75
+Delhi,"Siri Fort, Delhi",22-07-15,4,52,158,44
+Delhi,"Siri Fort, Delhi",27-07-15,4,55,292,131
+Delhi,"Siri Fort, Delhi",30-07-15,4,53,179,89
+Delhi,"Siri Fort, Delhi",05-08-15,4,50,124,61
+Delhi,"Siri Fort, Delhi",10-08-15,4,50,186,87
+Delhi,"Siri Fort, Delhi",13-08-15,4,53,197,95
+Delhi,"Siri Fort, Delhi",18-08-15,4,48,189,62
+Delhi,"Siri Fort, Delhi",21-08-15,4,48,208,84
+Delhi,"Siri Fort, Delhi",26-08-15,4,49,150,71
+Delhi,"Siri Fort, Delhi",01-09-15,4,50,181,74
+Delhi,"Siri Fort, Delhi",04-09-15,4,50,146,93
+Delhi,"Siri Fort, Delhi",09-09-15,0,0,0,80
+Delhi,"Siri Fort, Delhi",14-09-15,4,49,152,87
+Delhi,"Siri Fort, Delhi",17-09-15,4,48,92,0
+Delhi,"Siri Fort, Delhi",22-09-15,4,51,244,94
+Delhi,"Siri Fort, Delhi",28-09-15,4,47,123,64
+Delhi,"Siri Fort, Delhi",05-10-15,4,51,258,58
+Delhi,"Siri Fort, Delhi",08-10-15,4,56,177,87
+Delhi,"Siri Fort, Delhi",13-10-15,4,54,184,80
+Delhi,"Siri Fort, Delhi",16-10-15,4,44,281,110
+Delhi,"Siri Fort, Delhi",21-10-15,4,51,252,87
+Delhi,"Siri Fort, Delhi",27-10-15,4,59,385,101
+Delhi,"Siri Fort, Delhi",02-11-15,4,53,190,125
+Delhi,"Siri Fort, Delhi",06-11-15,4,52,231,135
+Delhi,"Siri Fort, Delhi",16-11-15,4,52,211,115
+Delhi,"Siri Fort, Delhi",19-11-15,4,56,332,236
+Delhi,"Siri Fort, Delhi",24-11-15,4,51,343,126
+Delhi,"Siri Fort, Delhi",01-12-15,4,55,243,0
+Delhi,"Siri Fort, Delhi",04-12-15,4,49,595,0
+Delhi,"Siri Fort, Delhi",09-12-15,4,56,349,0
+Delhi,"Siri Fort, Delhi",17-12-15,4,57,288,0
+Delhi,"Siri Fort, Delhi",22-12-15,4,58,326,0
+Delhi,"Siri Fort, Delhi",30-12-15,8,75,331,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",06-01-15,3,73,242,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",07-01-15,2,84,184,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",08-01-15,2,86,211,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",14-01-15,8,117,162,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",15-01-15,10,107,179,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",16-01-15,9,109,173,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",04-02-15,4,84,143,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",05-02-15,6,91,208,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",17-02-15,2,132,251,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",18-02-15,2,133,221,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",19-02-15,3,79,184,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",24-02-15,8,82,186,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",25-02-15,9,66,160,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",26-02-15,8,84,136,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",10-03-15,8,120,120,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",11-03-15,2,125,166,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",17-03-15,3,33,89,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",18-03-15,5,64,61,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",19-03-15,4,116,94,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",24-03-15,7,128,143,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",25-03-15,2,152,211,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",26-03-15,2,95,265,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",01-04-15,13,87,117,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",02-04-15,4,68,62,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",14-04-15,4,67,98,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",15-04-15,4,76,142,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",16-04-15,12,81,84,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",27-04-15,3,53,241,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",28-04-15,5,65,97,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",29-04-15,4,75,148,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",06-05-15,2,110,239,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",07-05-15,3,95,163,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",08-05-15,4,115,213,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",12-05-15,9,87,140,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",13-05-15,8,72,57,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",14-05-15,9,133,136,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",18-05-15,22,133,173,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",19-05-15,10,108,175,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",09-06-15,7,43,200,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",10-06-15,10,31,171,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",11-06-15,25,42,88,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",16-06-15,4,76,96,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",17-06-15,8,111,112,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",18-06-15,6,85,127,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",25-06-15,4,48,62,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",26-06-15,2,54,61,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",14-07-15,6,49,41,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",15-07-15,2,31,77,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",16-07-15,8,38,62,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",21-07-15,2,25,39,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",22-07-15,2,28,33,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",23-07-15,2,33,32,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",28-07-15,3,25,22,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",29-07-15,2,18,18,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",12-08-15,2,52,59,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",13-08-15,3,66,49,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",21-08-15,3,75,45,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",22-08-15,2,73,79,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",23-08-15,2,67,56,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",25-08-15,2,70,48,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",26-08-15,3,63,44,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",27-08-15,3,81,57,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",08-09-15,3,49,67,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",09-09-15,2,63,56,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",10-09-15,3,57,48,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",15-09-15,3,60,77,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",16-09-15,4,82,109,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",17-09-15,6,59,76,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",22-09-15,2,49,37,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",23-09-15,2,60,37,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",13-10-15,20,93,88,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",14-10-15,26,124,92,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",19-10-15,12,122,164,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",20-10-15,11,91,193,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",21-10-15,4,76,133,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",27-10-15,5,118,124,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",28-10-15,12,108,80,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",29-10-15,13,115,107,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",07-11-15,23,126,305,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",08-11-15,46,114,235,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",18-11-15,9,134,224,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",19-11-15,11,141,354,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",20-11-15,8,145,315,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",27-11-15,12,97,282,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",28-11-15,12,97,353,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",29-11-15,25,120,352,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",02-12-15,3,140,271,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",03-12-15,5,112,306,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",09-12-15,3,123,273,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",10-12-15,2,122,280,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",16-12-15,2,161,284,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",17-12-15,2,208,386,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",29-12-15,21,152,253,0
+Delhi,"N-Y- SCHOOL, Sarojini Nagar, Delhi",30-12-15,19,145,311,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",06-01-15,6,90,236,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",07-01-15,4,89,269,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",27-01-15,2,78,271,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",28-01-15,3,72,280,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",29-01-15,2,101,279,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",04-02-15,9,102,163,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",05-02-15,6,130,301,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",10-02-15,2,179,266,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",11-02-15,2,147,263,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",12-02-15,3,132,258,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",17-02-15,9,126,297,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",18-02-15,6,105,274,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",19-02-15,8,61,207,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",03-03-15,2,95,92,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",04-03-15,4,137,128,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",10-03-15,5,103,132,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",11-03-15,3,101,182,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",12-03-15,10,139,165,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",24-03-15,7,115,185,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",25-03-15,9,136,226,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",26-03-15,3,85,130,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",07-04-15,17,108,162,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",08-04-15,3,98,214,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",09-04-15,11,104,292,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",20-04-15,3,145,499,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",21-04-15,5,148,382,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",22-04-15,3,138,292,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",23-04-15,3,137,369,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",24-04-15,3,125,409,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",06-05-15,4,123,342,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",07-05-15,2,77,250,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",08-05-15,6,104,270,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",19-05-15,12,93,211,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",20-05-15,11,117,173,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",21-05-15,2,114,174,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",26-05-15,13,93,219,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",27-05-15,10,108,393,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",02-06-15,6,116,142,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",03-06-15,8,92,93,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",04-06-15,17,114,176,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",09-06-15,12,35,224,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",10-06-15,12,50,184,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",11-06-15,12,66,157,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",23-06-15,15,83,138,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",24-06-15,3,62,53,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",01-07-15,2,29,72,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",02-07-15,2,33,89,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",07-07-15,11,97,63,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",08-07-15,4,102,78,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",09-07-15,2,80,62,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",14-07-15,2,30,77,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",15-07-15,2,48,111,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",16-07-15,8,43,88,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",04-08-15,2,50,39,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",05-08-15,2,71,54,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",06-08-15,2,47,53,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",18-08-15,2,54,38,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",19-08-15,2,38,41,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",20-08-15,2,52,57,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",25-08-15,2,77,89,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",26-08-15,2,75,65,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",01-09-15,2,47,110,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",02-09-15,2,40,134,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",03-09-15,4,80,149,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",08-09-15,4,107,81,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",09-09-15,2,88,109,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",10-09-15,2,113,97,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",22-09-15,2,46,33,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",23-09-15,2,73,58,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",06-10-15,7,124,139,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",07-10-15,8,115,173,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",08-10-15,5,118,149,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",13-10-15,8,110,98,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",14-10-15,13,110,121,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",15-10-15,9,121,178,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",19-10-15,19,162,296,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",03-11-15,32,155,457,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",04-11-15,38,137,260,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",05-11-15,18,145,101,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",18-11-15,26,183,377,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",19-11-15,17,188,353,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",24-11-15,9,183,225,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",25-11-15,37,173,295,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",26-11-15,39,207,305,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",08-12-15,3,182,435,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",09-12-15,3,151,335,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",10-12-15,2,159,289,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",15-12-15,5,136,264,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",16-12-15,13,178,346,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",17-12-15,3,174,346,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",29-12-15,2,130,271,0
+Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",30-12-15,2,161,318,0
+Delhi,"Mayapuri Industrial Area, Delhi",14-01-15,9,99,344,0
+Delhi,"Mayapuri Industrial Area, Delhi",15-01-15,10,98,304,0
+Delhi,"Mayapuri Industrial Area, Delhi",16-01-15,8,122,374,0
+Delhi,"Mayapuri Industrial Area, Delhi",27-01-15,2,66,224,0
+Delhi,"Mayapuri Industrial Area, Delhi",28-01-15,6,82,270,0
+Delhi,"Mayapuri Industrial Area, Delhi",29-01-15,7,76,251,0
+Delhi,"Mayapuri Industrial Area, Delhi",30-01-15,16,66,234,0
+Delhi,"Mayapuri Industrial Area, Delhi",10-02-15,3,133,293,0
+Delhi,"Mayapuri Industrial Area, Delhi",11-02-15,4,112,356,0
+Delhi,"Mayapuri Industrial Area, Delhi",12-02-15,5,115,312,0
+Delhi,"Mayapuri Industrial Area, Delhi",21-02-15,3,113,257,0
+Delhi,"Mayapuri Industrial Area, Delhi",22-02-15,6,88,269,0
+Delhi,"Mayapuri Industrial Area, Delhi",24-02-15,17,99,286,0
+Delhi,"Mayapuri Industrial Area, Delhi",25-02-15,10,85,322,0
+Delhi,"Mayapuri Industrial Area, Delhi",26-02-15,10,104,333,0
+Delhi,"Mayapuri Industrial Area, Delhi",03-03-15,7,130,165,0
+Delhi,"Mayapuri Industrial Area, Delhi",04-03-15,4,95,254,0
+Delhi,"Mayapuri Industrial Area, Delhi",13-03-15,17,139,248,0
+Delhi,"Mayapuri Industrial Area, Delhi",14-03-15,3,63,117,0
+Delhi,"Mayapuri Industrial Area, Delhi",15-03-15,3,97,89,0
+Delhi,"Mayapuri Industrial Area, Delhi",17-03-15,2,52,152,0
+Delhi,"Mayapuri Industrial Area, Delhi",18-03-15,3,100,173,0
+Delhi,"Mayapuri Industrial Area, Delhi",19-03-15,5,77,207,0
+Delhi,"Mayapuri Industrial Area, Delhi",07-04-15,25,118,202,0
+Delhi,"Mayapuri Industrial Area, Delhi",08-04-15,5,114,215,0
+Delhi,"Mayapuri Industrial Area, Delhi",09-04-15,5,127,287,0
+Delhi,"Mayapuri Industrial Area, Delhi",14-04-15,15,120,260,0
+Delhi,"Mayapuri Industrial Area, Delhi",15-04-15,13,112,308,0
+Delhi,"Mayapuri Industrial Area, Delhi",16-04-15,30,106,150,0
+Delhi,"Mayapuri Industrial Area, Delhi",21-04-15,3,112,406,0
+Delhi,"Mayapuri Industrial Area, Delhi",22-04-15,13,131,379,0
+Delhi,"Mayapuri Industrial Area, Delhi",12-05-15,17,102,448,0
+Delhi,"Mayapuri Industrial Area, Delhi",13-05-15,8,80,110,0
+Delhi,"Mayapuri Industrial Area, Delhi",14-05-15,17,83,300,0
+Delhi,"Mayapuri Industrial Area, Delhi",25-05-15,2,100,604,0
+Delhi,"Mayapuri Industrial Area, Delhi",26-05-15,2,63,388,0
+Delhi,"Mayapuri Industrial Area, Delhi",27-05-15,5,94,602,0
+Delhi,"Mayapuri Industrial Area, Delhi",29-05-15,2,100,366,0
+Delhi,"Mayapuri Industrial Area, Delhi",30-05-15,2,104,408,0
+Delhi,"Mayapuri Industrial Area, Delhi",02-06-15,2,94,205,0
+Delhi,"Mayapuri Industrial Area, Delhi",03-06-15,2,87,163,0
+Delhi,"Mayapuri Industrial Area, Delhi",04-06-15,19,111,274,0
+Delhi,"Mayapuri Industrial Area, Delhi",16-06-15,2,76,174,0
+Delhi,"Mayapuri Industrial Area, Delhi",17-06-15,2,109,200,0
+Delhi,"Mayapuri Industrial Area, Delhi",18-06-15,2,106,236,0
+Delhi,"Mayapuri Industrial Area, Delhi",23-06-15,11,74,286,0
+Delhi,"Mayapuri Industrial Area, Delhi",24-06-15,4,57,105,0
+Delhi,"Mayapuri Industrial Area, Delhi",01-07-15,2,23,164,0
+Delhi,"Mayapuri Industrial Area, Delhi",02-07-15,2,32,191,0
+Delhi,"Mayapuri Industrial Area, Delhi",07-07-15,6,66,113,0
+Delhi,"Mayapuri Industrial Area, Delhi",08-07-15,2,88,111,0
+Delhi,"Mayapuri Industrial Area, Delhi",09-07-15,4,78,77,0
+Delhi,"Mayapuri Industrial Area, Delhi",21-07-15,3,54,56,0
+Delhi,"Mayapuri Industrial Area, Delhi",22-07-15,2,45,122,0
+Delhi,"Mayapuri Industrial Area, Delhi",23-07-15,6,51,116,0
+Delhi,"Mayapuri Industrial Area, Delhi",04-08-15,2,53,140,0
+Delhi,"Mayapuri Industrial Area, Delhi",05-08-15,2,72,75,0
+Delhi,"Mayapuri Industrial Area, Delhi",06-08-15,2,53,71,0
+Delhi,"Mayapuri Industrial Area, Delhi",10-08-15,2,110,80,0
+Delhi,"Mayapuri Industrial Area, Delhi",11-08-15,4,70,51,0
+Delhi,"Mayapuri Industrial Area, Delhi",12-08-15,4,77,100,0
+Delhi,"Mayapuri Industrial Area, Delhi",17-08-15,2,71,114,0
+Delhi,"Mayapuri Industrial Area, Delhi",18-08-15,2,66,91,0
+Delhi,"Mayapuri Industrial Area, Delhi",01-09-15,2,70,171,0
+Delhi,"Mayapuri Industrial Area, Delhi",02-09-15,2,85,203,0
+Delhi,"Mayapuri Industrial Area, Delhi",03-09-15,2,64,264,0
+Delhi,"Mayapuri Industrial Area, Delhi",15-09-15,3,79,238,0
+Delhi,"Mayapuri Industrial Area, Delhi",16-09-15,6,107,304,0
+Delhi,"Mayapuri Industrial Area, Delhi",17-09-15,6,76,214,0
+Delhi,"Mayapuri Industrial Area, Delhi",28-09-15,4,71,131,0
+Delhi,"Mayapuri Industrial Area, Delhi",29-09-15,7,46,173,0
+Delhi,"Mayapuri Industrial Area, Delhi",06-10-15,3,51,240,0
+Delhi,"Mayapuri Industrial Area, Delhi",07-10-15,12,69,236,0
+Delhi,"Mayapuri Industrial Area, Delhi",08-10-15,4,70,193,0
+Delhi,"Mayapuri Industrial Area, Delhi",23-10-15,19,121,365,0
+Delhi,"Mayapuri Industrial Area, Delhi",24-10-15,17,108,400,0
+Delhi,"Mayapuri Industrial Area, Delhi",27-10-15,12,76,366,0
+Delhi,"Mayapuri Industrial Area, Delhi",28-10-15,18,97,274,0
+Delhi,"Mayapuri Industrial Area, Delhi",29-10-15,23,124,252,0
+Delhi,"Mayapuri Industrial Area, Delhi",03-11-15,45,171,458,0
+Delhi,"Mayapuri Industrial Area, Delhi",04-11-15,21,172,321,0
+Delhi,"Mayapuri Industrial Area, Delhi",05-11-15,26,105,163,0
+Delhi,"Mayapuri Industrial Area, Delhi",24-11-15,26,142,455,0
+Delhi,"Mayapuri Industrial Area, Delhi",25-11-15,46,169,435,0
+Delhi,"Mayapuri Industrial Area, Delhi",26-11-15,18,224,392,0
+Delhi,"Mayapuri Industrial Area, Delhi",27-11-15,36,130,311,0
+Delhi,"Mayapuri Industrial Area, Delhi",28-11-15,26,127,346,0
+Delhi,"Mayapuri Industrial Area, Delhi",02-12-15,9,148,369,0
+Delhi,"Mayapuri Industrial Area, Delhi",03-12-15,12,136,236,0
+Delhi,"Mayapuri Industrial Area, Delhi",07-12-15,4,160,430,0
+Delhi,"Mayapuri Industrial Area, Delhi",08-12-15,2,159,451,0
+Delhi,"Mayapuri Industrial Area, Delhi",14-12-15,2,99,321,0
+Delhi,"Mayapuri Industrial Area, Delhi",15-12-15,8,106,375,0
+Delhi,"Mayapuri Industrial Area, Delhi",21-12-15,2,199,573,0
+Delhi,"Mayapuri Industrial Area, Delhi",22-12-15,28,223,604,0
+Delhi,"Pritampura, Delhi",05-01-15,4,35,221,141
+Delhi,"Pritampura, Delhi",08-01-15,4,38,171,139
+Delhi,"Pritampura, Delhi",13-01-15,4,34,242,121
+Delhi,"Pritampura, Delhi",16-01-15,4,40,202,0
+Delhi,"Pritampura, Delhi",21-01-15,4,35,277,127
+Delhi,"Pritampura, Delhi",27-01-15,4,34,170,129
+Delhi,"Pritampura, Delhi",02-02-15,4,35,393,184
+Delhi,"Pritampura, Delhi",05-02-15,4,33,282,177
+Delhi,"Pritampura, Delhi",10-02-15,4,35,156,120
+Delhi,"Pritampura, Delhi",13-02-15,4,36,190,0
+Delhi,"Pritampura, Delhi",18-02-15,4,34,243,150
+Delhi,"Pritampura, Delhi",23-02-15,4,35,257,138
+Delhi,"Pritampura, Delhi",04-03-15,4,33,227,93
+Delhi,"Pritampura, Delhi",10-03-15,4,36,99,0
+Delhi,"Pritampura, Delhi",13-03-15,4,35,225,102
+Delhi,"Pritampura, Delhi",18-03-15,4,28,121,73
+Delhi,"Pritampura, Delhi",23-03-15,4,31,98,69
+Delhi,"Pritampura, Delhi",26-03-15,4,32,171,60
+Delhi,"Pritampura, Delhi",01-04-15,4,31,116,81
+Delhi,"Pritampura, Delhi",09-04-15,4,34,127,85
+Delhi,"Pritampura, Delhi",17-04-15,4,31,194,76
+Delhi,"Pritampura, Delhi",22-04-15,4,33,209,88
+Delhi,"Pritampura, Delhi",27-04-15,4,37,205,64
+Delhi,"Pritampura, Delhi",01-05-15,4,35,233,0
+Delhi,"Pritampura, Delhi",07-05-15,4,35,253,89
+Delhi,"Pritampura, Delhi",12-05-15,4,35,235,116
+Delhi,"Pritampura, Delhi",15-05-15,4,34,225,56
+Delhi,"Pritampura, Delhi",20-05-15,4,31,237,71
+Delhi,"Pritampura, Delhi",25-05-15,4,30,246,86
+Delhi,"Pritampura, Delhi",28-05-15,4,31,267,108
+Delhi,"Pritampura, Delhi",03-06-15,4,35,258,75
+Delhi,"Pritampura, Delhi",08-06-15,4,33,167,156
+Delhi,"Pritampura, Delhi",11-06-15,4,34,229,94
+Delhi,"Pritampura, Delhi",16-06-15,4,34,228,95
+Delhi,"Pritampura, Delhi",19-06-15,4,32,254,88
+Delhi,"Pritampura, Delhi",24-06-15,4,33,198,64
+Delhi,"Pritampura, Delhi",29-06-15,4,32,194,140
+Delhi,"Pritampura, Delhi",03-07-15,4,31,252,108
+Delhi,"Pritampura, Delhi",08-07-15,4,32,215,67
+Delhi,"Pritampura, Delhi",13-07-15,4,34,243,42
+Delhi,"Pritampura, Delhi",16-07-15,4,31,226,94
+Delhi,"Pritampura, Delhi",21-07-15,4,29,146,44
+Delhi,"Pritampura, Delhi",24-07-15,4,29,101,92
+Delhi,"Pritampura, Delhi",29-07-15,4,28,416,124
+Delhi,"Pritampura, Delhi",04-08-15,4,28,171,51
+Delhi,"Pritampura, Delhi",07-08-15,4,29,162,57
+Delhi,"Pritampura, Delhi",12-08-15,4,32,306,117
+Delhi,"Pritampura, Delhi",17-08-15,4,29,184,51
+Delhi,"Pritampura, Delhi",20-08-15,4,33,156,115
+Delhi,"Pritampura, Delhi",25-08-15,4,35,158,42
+Delhi,"Pritampura, Delhi",28-08-15,4,35,253,38
+Delhi,"Pritampura, Delhi",03-09-15,4,33,164,150
+Delhi,"Pritampura, Delhi",08-09-15,4,30,189,114
+Delhi,"Pritampura, Delhi",11-09-15,4,32,228,169
+Delhi,"Pritampura, Delhi",16-09-15,4,31,199,135
+Delhi,"Pritampura, Delhi",21-09-15,4,30,196,54
+Delhi,"Pritampura, Delhi",24-09-15,4,30,277,172
+Delhi,"Pritampura, Delhi",01-10-15,4,33,237,0
+Delhi,"Pritampura, Delhi",07-10-15,4,33,204,151
+Delhi,"Pritampura, Delhi",12-10-15,4,36,210,138
+Delhi,"Pritampura, Delhi",15-10-15,4,38,234,104
+Delhi,"Pritampura, Delhi",20-10-15,4,35,427,179
+Delhi,"Pritampura, Delhi",26-10-15,4,31,411,136
+Delhi,"Pritampura, Delhi",29-10-15,4,36,450,225
+Delhi,"Pritampura, Delhi",05-11-15,21,72,161,117
+Delhi,"Pritampura, Delhi",09-11-15,21,77,334,197
+Delhi,"Pritampura, Delhi",13-11-15,4,41,504,192
+Delhi,"Pritampura, Delhi",18-11-15,4,54,360,241
+Delhi,"Pritampura, Delhi",23-11-15,4,46,374,186
+Delhi,"Pritampura, Delhi",27-11-15,4,44,426,116
+Delhi,"Pritampura, Delhi",03-12-15,4,56,590,0
+Delhi,"Pritampura, Delhi",08-12-15,4,53,362,0
+Delhi,"Pritampura, Delhi",11-12-15,4,51,138,0
+Delhi,"Pritampura, Delhi",16-12-15,4,56,246,0
+Delhi,"Pritampura, Delhi",21-12-15,4,54,269,0
+Delhi,"Pritampura, Delhi",28-12-15,4,53,205,0
+Delhi,"Pritampura, Delhi",29-12-15,5,43,142,0
+Delhi,"Pritampura, Delhi",31-12-15,9,44,420,0
+Delhi,Pitampura,05-10-16,4,35,186,43
+Delhi,Pitampura,13-10-16,4,34,310,52
+Delhi,Pitampura,17-10-16,4,35,239,46
+Delhi,Pitampura,20-10-16,5,42,256,126
+Delhi,Pitampura,24-10-16,12,58,368,102
+Delhi,Pitampura,26-10-16,5,49,432,0
+Delhi,Sirifort,03-10-16,4,35,156,0
+Delhi,Sirifort,06-10-16,4,40,273,61
+Delhi,Sirifort,09-10-16,4,35,322,102
+Delhi,Sirifort,14-10-16,4,40,344,160
+Delhi,Sirifort,18-10-16,4,33,234,120
+Delhi,Sirifort,21-10-16,4,45,428,102
+Delhi,Sirifort,27-10-16,4,56,486,0
+Delhi,Janakpuri,01-10-16,5,52,280,37
+Delhi,Janakpuri,04-10-16,4,45,265,112
+Delhi,Janakpuri,07-10-16,4,50,320,99
+Delhi,Janakpuri,10-10-16,4,51,334,106
+Delhi,Janakpuri,15-10-16,4,38,293,147
+Delhi,Janakpuri,19-10-16,0,0,0,154
+Delhi,Janakpuri,22-10-16,4,47,307,0
+Delhi,Janakpuri,24-10-16,16,71,234,96
+Delhi,Janakpuri,25-10-16,4,57,372,99
+Delhi,Janakpuri,28-10-16,4,64,516,241
+Delhi,Nizamuddin,05-10-16,4,40,254,0
+Delhi,Nizamuddin,13-10-16,4,44,288,0
+Delhi,Nizamuddin,17-10-16,4,45,292,0
+Delhi,Nizamuddin,20-10-16,4,43,274,29
+Delhi,Nizamuddin,26-10-16,4,45,448,105
+Delhi,ShahzadaBagh,03-10-16,4,61,316,110
+Delhi,ShahzadaBagh,06-10-16,4,38,275,61
+Delhi,ShahzadaBagh,09-10-16,4,53,347,62
+Delhi,ShahzadaBagh,14-10-16,4,57,317,70
+Delhi,ShahzadaBagh,18-10-16,5,59,452,140
+Delhi,ShahzadaBagh,21-10-16,5,56,589,94
+Delhi,ShahzadaBagh,27-10-16,6,58,361,195
+Delhi,Shahdara,01-10-16,5,53,268,73
+Delhi,Shahdara,04-10-16,5,42,188,99
+Delhi,Shahdara,07-10-16,4,51,196,61
+Delhi,Shahdara,10-10-16,4,42,206,94
+Delhi,Shahdara,15-10-16,5,53,279,137
+Delhi,Shahdara,19-10-16,4,48,353,148
+Delhi,Shahdara,22-10-16,4,52,428,105
+Delhi,Shahdara,25-10-16,6,59,375,176
+Delhi,Shahdara,28-10-16,5,52,327,211

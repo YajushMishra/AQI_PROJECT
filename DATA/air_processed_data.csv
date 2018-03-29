@@ -1,0 +1,1519 @@
+,State/City,Location,DATE,SO2,NO2,PM10,PM2.5
+1,Delhi,"Pritampura, Delhi",01-01-14,4,40,154,NA
+2,Delhi,"Pritampura, Delhi",01-06-14,4,41,232,NA
+3,Delhi,"Pritampura, Delhi",01-09-14,4,44,402,NA
+4,Delhi,"Pritampura, Delhi",15-01-14,4,46,291,NA
+5,Delhi,"Pritampura, Delhi",20-01-14,4,41,289,NA
+6,Delhi,"Pritampura, Delhi",23-01-14,4,41,192,NA
+7,Delhi,"Pritampura, Delhi",28-01-14,4,37,280,NA
+8,Delhi,"Pritampura, Delhi",02-03-14,4,37,326,NA
+9,Delhi,"Pritampura, Delhi",02-06-14,4,49,297,NA
+10,Delhi,"Pritampura, Delhi",02-11-14,4,38,246,NA
+11,Delhi,"Pritampura, Delhi",14-02-14,4,50,115,NA
+12,Delhi,"Pritampura, Delhi",19-02-14,4,49,263,NA
+13,Delhi,"Pritampura, Delhi",24-02-14,4,49,197,NA
+14,Delhi,"Pritampura, Delhi",27-02-14,4,51,254,NA
+15,Delhi,"Pritampura, Delhi",03-05-14,4,44,135,NA
+16,Delhi,"Pritampura, Delhi",03-10-14,4,41,129,NA
+17,Delhi,"Pritampura, Delhi",13-03-14,4,45,167,NA
+18,Delhi,"Pritampura, Delhi",24-03-14,4,48,220,NA
+19,Delhi,"Pritampura, Delhi",27-03-14,4,40,234,NA
+20,Delhi,"Pritampura, Delhi",04-02-14,4,44,219,NA
+21,Delhi,"Pritampura, Delhi",04-07-14,4,42,130,NA
+22,Delhi,"Pritampura, Delhi",15-04-14,4,42,334,NA
+23,Delhi,"Pritampura, Delhi",21-04-14,4,41,130,NA
+24,Delhi,"Pritampura, Delhi",24-04-14,4,50,163,NA
+25,Delhi,"Pritampura, Delhi",29-04-14,4,44,137,NA
+26,Delhi,"Pritampura, Delhi",05-05-14,4,45,257,NA
+27,Delhi,"Pritampura, Delhi",05-08-14,4,39,210,NA
+28,Delhi,"Pritampura, Delhi",13-05-14,4,33,146,NA
+29,Delhi,"Pritampura, Delhi",19-05-14,4,36,146,NA
+30,Delhi,"Pritampura, Delhi",22-05-14,4,43,109,NA
+31,Delhi,"Pritampura, Delhi",27-05-14,4,36,206,NA
+32,Delhi,"Pritampura, Delhi",06-02-14,4,47,198,NA
+33,Delhi,"Pritampura, Delhi",06-05-14,4,41,215,NA
+34,Delhi,"Pritampura, Delhi",06-10-14,4,32,221,NA
+35,Delhi,"Pritampura, Delhi",13-06-14,4,34,138,NA
+36,Delhi,"Pritampura, Delhi",18-06-14,4,39,203,NA
+37,Delhi,"Pritampura, Delhi",23-06-14,4,35,168,NA
+38,Delhi,"Pritampura, Delhi",26-06-14,4,37,132,NA
+39,Delhi,"Pritampura, Delhi",07-02-14,4,33,224,NA
+40,Delhi,"Pritampura, Delhi",07-07-14,4,35,272,NA
+41,Delhi,"Pritampura, Delhi",07-10-14,4,37,104,NA
+42,Delhi,"Pritampura, Delhi",15-07-14,4,37,124,NA
+43,Delhi,"Pritampura, Delhi",23-07-14,4,36,68,NA
+44,Delhi,"Pritampura, Delhi",28-07-14,4,38,129,NA
+45,Delhi,"Pritampura, Delhi",08-04-14,4,42,111,NA
+46,Delhi,"Pritampura, Delhi",08-07-14,4,38,154,NA
+47,Delhi,"Pritampura, Delhi",08-12-14,4,35,126,NA
+48,Delhi,"Pritampura, Delhi",19-08-14,4,34,146,NA
+49,Delhi,"Pritampura, Delhi",22-08-14,4,36,177,NA
+50,Delhi,"Pritampura, Delhi",27-08-14,4,32,134,NA
+51,Delhi,"Pritampura, Delhi",09-02-14,4,36,174,NA
+52,Delhi,"Pritampura, Delhi",09-05-14,4,39,62,NA
+53,Delhi,"Pritampura, Delhi",09-10-14,4,41,84,NA
+54,Delhi,"Pritampura, Delhi",15-09-14,4,37,80,NA
+55,Delhi,"Pritampura, Delhi",18-09-14,4,36,107,NA
+56,Delhi,"Pritampura, Delhi",23-09-14,4,38,92,NA
+57,Delhi,"Pritampura, Delhi",26-09-14,4,35,101,NA
+58,Delhi,"Pritampura, Delhi",10-07-14,4,32,150,NA
+59,Delhi,"Pritampura, Delhi",10-10-14,4,37,134,NA
+60,Delhi,"Pritampura, Delhi",15-10-14,4,45,115,NA
+61,Delhi,"Pritampura, Delhi",20-10-14,4,48,230,NA
+62,Delhi,"Pritampura, Delhi",22-10-14,6,82,348,NA
+63,Delhi,"Pritampura, Delhi",27-10-14,4,44,209,NA
+64,Delhi,"Pritampura, Delhi",30-10-14,4,41,206,NA
+65,Delhi,"Pritampura, Delhi",11-05-14,4,38,210,NA
+66,Delhi,"Pritampura, Delhi",11-11-14,4,39,236,NA
+67,Delhi,"Pritampura, Delhi",14-11-14,4,40,192,NA
+68,Delhi,"Pritampura, Delhi",19-11-14,4,36,247,NA
+69,Delhi,"Pritampura, Delhi",24-11-14,4,39,215,NA
+70,Delhi,"Pritampura, Delhi",27-11-14,4,37,420,NA
+71,Delhi,"Pritampura, Delhi",12-03-14,4,39,225,NA
+72,Delhi,"Pritampura, Delhi",12-08-14,4,40,189,NA
+73,Delhi,"Pritampura, Delhi",12-11-14,4,39,228,NA
+74,Delhi,"Pritampura, Delhi",16-12-14,4,36,229,NA
+75,Delhi,"Pritampura, Delhi",19-12-14,4,34,382,NA
+76,Delhi,"Pritampura, Delhi",30-12-14,4,31,309,NA
+77,Delhi,"Siri Fort, Delhi",01-02-14,4,47,107,NA
+78,Delhi,"Siri Fort, Delhi",01-07-14,4,45,198,NA
+79,Delhi,"Siri Fort, Delhi",01-10-14,4,57,318,NA
+80,Delhi,"Siri Fort, Delhi",16-01-14,4,50,458,NA
+81,Delhi,"Siri Fort, Delhi",21-01-14,4,26,142,NA
+82,Delhi,"Siri Fort, Delhi",24-01-14,4,37,179,NA
+83,Delhi,"Siri Fort, Delhi",29-01-14,4,33,180,NA
+84,Delhi,"Siri Fort, Delhi",02-04-14,4,46,157,NA
+85,Delhi,"Siri Fort, Delhi",02-07-14,4,50,226,NA
+86,Delhi,"Siri Fort, Delhi",02-12-14,4,51,234,NA
+87,Delhi,"Siri Fort, Delhi",17-02-14,4,52,315,NA
+88,Delhi,"Siri Fort, Delhi",20-02-14,4,52,328,NA
+89,Delhi,"Siri Fort, Delhi",25-02-14,4,48,215,NA
+90,Delhi,"Siri Fort, Delhi",03-03-14,4,46,283,NA
+91,Delhi,"Siri Fort, Delhi",03-06-14,4,49,184,NA
+92,Delhi,"Siri Fort, Delhi",03-11-14,4,36,145,NA
+93,Delhi,"Siri Fort, Delhi",14-03-14,4,48,149,NA
+94,Delhi,"Siri Fort, Delhi",20-03-14,4,47,156,NA
+95,Delhi,"Siri Fort, Delhi",25-03-14,4,48,170,NA
+96,Delhi,"Siri Fort, Delhi",28-03-14,4,56,163,NA
+97,Delhi,"Siri Fort, Delhi",04-03-14,4,45,147,NA
+98,Delhi,"Siri Fort, Delhi",04-09-14,4,49,183,NA
+99,Delhi,"Siri Fort, Delhi",16-04-14,4,42,211,NA
+100,Delhi,"Siri Fort, Delhi",22-04-14,4,48,241,NA
+101,Delhi,"Siri Fort, Delhi",25-04-14,4,47,202,NA
+102,Delhi,"Siri Fort, Delhi",05-01-14,4,35,213,NA
+103,Delhi,"Siri Fort, Delhi",05-06-14,4,37,243,NA
+104,Delhi,"Siri Fort, Delhi",05-09-14,4,43,229,NA
+105,Delhi,"Siri Fort, Delhi",15-05-14,4,32,204,NA
+106,Delhi,"Siri Fort, Delhi",20-05-14,4,30,202,NA
+107,Delhi,"Siri Fort, Delhi",23-05-14,4,27,189,NA
+108,Delhi,"Siri Fort, Delhi",28-05-14,4,31,NA,NA
+109,Delhi,"Siri Fort, Delhi",06-03-14,4,36,NA,NA
+110,Delhi,"Siri Fort, Delhi",06-06-14,4,34,NA,NA
+111,Delhi,"Siri Fort, Delhi",06-11-14,4,27,190,NA
+112,Delhi,"Siri Fort, Delhi",16-06-14,4,34,189,NA
+113,Delhi,"Siri Fort, Delhi",19-06-14,4,35,175,NA
+114,Delhi,"Siri Fort, Delhi",24-06-14,4,42,149,NA
+115,Delhi,"Siri Fort, Delhi",27-06-14,4,41,271,NA
+116,Delhi,"Siri Fort, Delhi",07-03-14,4,23,128,NA
+117,Delhi,"Siri Fort, Delhi",07-08-14,4,28,183,NA
+118,Delhi,"Siri Fort, Delhi",07-11-14,4,31,157,NA
+119,Delhi,"Siri Fort, Delhi",16-07-14,4,30,163,NA
+120,Delhi,"Siri Fort, Delhi",21-07-14,4,26,108,NA
+121,Delhi,"Siri Fort, Delhi",24-07-14,4,20,105,NA
+122,Delhi,"Siri Fort, Delhi",30-07-14,4,36,168,NA
+123,Delhi,"Siri Fort, Delhi",08-05-14,4,35,147,NA
+124,Delhi,"Siri Fort, Delhi",08-08-14,4,39,147,NA
+125,Delhi,"Siri Fort, Delhi",13-08-14,4,46,141,NA
+126,Delhi,"Siri Fort, Delhi",20-08-14,4,38,147,NA
+127,Delhi,"Siri Fort, Delhi",09-03-14,4,23,139,NA
+128,Delhi,"Siri Fort, Delhi",09-08-14,4,27,NA,NA
+129,Delhi,"Siri Fort, Delhi",09-11-14,4,22,NA,NA
+130,Delhi,"Siri Fort, Delhi",16-09-14,4,29,NA,NA
+131,Delhi,"Siri Fort, Delhi",19-09-14,4,28,129,NA
+132,Delhi,"Siri Fort, Delhi",24-09-14,4,39,207,NA
+133,Delhi,"Siri Fort, Delhi",29-09-14,4,43,324,NA
+134,Delhi,"Siri Fort, Delhi",10-08-14,4,35,266,NA
+135,Delhi,"Siri Fort, Delhi",13-10-14,4,32,207,NA
+136,Delhi,"Siri Fort, Delhi",16-10-14,4,43,216,NA
+137,Delhi,"Siri Fort, Delhi",21-10-14,4,40,159,NA
+138,Delhi,"Siri Fort, Delhi",30-10-14,4,42,161,NA
+139,Delhi,"Siri Fort, Delhi",11-07-14,4,52,318,NA
+140,Delhi,"Siri Fort, Delhi",11-12-14,4,44,240,NA
+141,Delhi,"Siri Fort, Delhi",17-11-14,4,52,615,NA
+142,Delhi,"Siri Fort, Delhi",20-11-14,4,42,348,NA
+143,Delhi,"Siri Fort, Delhi",25-11-14,4,48,187,NA
+144,Delhi,"Siri Fort, Delhi",12-01-14,4,38,130,NA
+145,Delhi,"Siri Fort, Delhi",12-04-14,4,39,255,NA
+146,Delhi,"Siri Fort, Delhi",12-09-14,4,36,218,NA
+147,Delhi,"Siri Fort, Delhi",12-12-14,4,43,302,NA
+148,Delhi,"Siri Fort, Delhi",17-12-14,4,45,191,NA
+149,Delhi,"Siri Fort, Delhi",22-12-14,4,46,224,NA
+150,Delhi,"Siri Fort, Delhi",26-12-14,4,46,229,NA
+151,Delhi,"Janakpuri, Delhi",01-03-14,4,54,301,NA
+152,Delhi,"Janakpuri, Delhi",01-08-14,5,48,354,NA
+153,Delhi,"Janakpuri, Delhi",13-01-14,4,46,218,NA
+154,Delhi,"Janakpuri, Delhi",17-01-14,4,27,131,NA
+155,Delhi,"Janakpuri, Delhi",22-01-14,4,27,119,NA
+156,Delhi,"Janakpuri, Delhi",27-01-14,4,32,181,NA
+157,Delhi,"Janakpuri, Delhi",30-01-14,4,35,387,NA
+158,Delhi,"Janakpuri, Delhi",02-05-14,4,48,287,NA
+159,Delhi,"Janakpuri, Delhi",02-10-14,4,49,254,NA
+160,Delhi,"Janakpuri, Delhi",13-02-14,4,44,270,NA
+161,Delhi,"Janakpuri, Delhi",18-02-14,4,49,327,NA
+162,Delhi,"Janakpuri, Delhi",21-02-14,4,51,119,NA
+163,Delhi,"Janakpuri, Delhi",26-02-14,4,38,273,NA
+164,Delhi,"Janakpuri, Delhi",03-04-14,4,51,146,NA
+165,Delhi,"Janakpuri, Delhi",03-07-14,4,51,197,NA
+166,Delhi,"Janakpuri, Delhi",03-12-14,4,49,94,NA
+167,Delhi,"Janakpuri, Delhi",18-03-14,4,52,108,NA
+168,Delhi,"Janakpuri, Delhi",21-03-14,4,56,152,NA
+169,Delhi,"Janakpuri, Delhi",26-03-14,4,50,104,NA
+170,Delhi,"Janakpuri, Delhi",04-01-14,4,53,115,NA
+171,Delhi,"Janakpuri, Delhi",04-04-14,4,40,124,NA
+172,Delhi,"Janakpuri, Delhi",04-11-14,4,47,183,NA
+173,Delhi,"Janakpuri, Delhi",17-04-14,4,42,190,NA
+174,Delhi,"Janakpuri, Delhi",23-04-14,5,59,434,NA
+175,Delhi,"Janakpuri, Delhi",28-04-14,4,37,165,NA
+176,Delhi,"Janakpuri, Delhi",05-02-14,4,42,296,NA
+177,Delhi,"Janakpuri, Delhi",05-07-14,4,42,281,NA
+178,Delhi,"Janakpuri, Delhi",05-12-14,4,36,246,NA
+179,Delhi,"Janakpuri, Delhi",16-05-14,4,43,204,NA
+180,Delhi,"Janakpuri, Delhi",21-05-14,4,36,313,NA
+181,Delhi,"Janakpuri, Delhi",26-05-14,4,40,238,NA
+182,Delhi,"Janakpuri, Delhi",29-05-14,4,37,212,NA
+183,Delhi,"Janakpuri, Delhi",06-04-14,4,31,NA,NA
+184,Delhi,"Janakpuri, Delhi",06-09-14,4,38,NA,NA
+185,Delhi,"Janakpuri, Delhi",06-12-14,4,32,NA,NA
+186,Delhi,"Janakpuri, Delhi",17-06-14,4,36,163,NA
+187,Delhi,"Janakpuri, Delhi",20-06-14,4,37,177,NA
+188,Delhi,"Janakpuri, Delhi",25-06-14,4,37,159,NA
+189,Delhi,"Janakpuri, Delhi",07-01-14,4,50,239,NA
+190,Delhi,"Janakpuri, Delhi",07-04-14,4,34,158,NA
+191,Delhi,"Janakpuri, Delhi",07-09-14,4,42,182,NA
+192,Delhi,"Janakpuri, Delhi",14-07-14,4,42,112,NA
+193,Delhi,"Janakpuri, Delhi",17-07-14,4,24,104,NA
+194,Delhi,"Janakpuri, Delhi",22-07-14,4,42,128,NA
+195,Delhi,"Janakpuri, Delhi",25-07-14,4,41,159,NA
+196,Delhi,"Janakpuri, Delhi",08-01-14,4,44,139,NA
+197,Delhi,"Janakpuri, Delhi",08-06-14,4,45,125,NA
+198,Delhi,"Janakpuri, Delhi",08-11-14,4,44,93,NA
+199,Delhi,"Janakpuri, Delhi",14-08-14,4,39,86,NA
+200,Delhi,"Janakpuri, Delhi",21-08-14,4,45,134,NA
+201,Delhi,"Janakpuri, Delhi",26-08-14,4,40,152,NA
+202,Delhi,"Janakpuri, Delhi",09-01-14,4,30,160,NA
+203,Delhi,"Janakpuri, Delhi",09-09-14,4,32,93,NA
+204,Delhi,"Janakpuri, Delhi",09-12-14,4,33,130,NA
+205,Delhi,"Janakpuri, Delhi",17-09-14,4,31,114,NA
+206,Delhi,"Janakpuri, Delhi",22-09-14,4,39,185,NA
+207,Delhi,"Janakpuri, Delhi",25-09-14,4,37,199,NA
+208,Delhi,"Janakpuri, Delhi",10-01-14,4,43,120,NA
+209,Delhi,"Janakpuri, Delhi",10-09-14,4,37,130,NA
+210,Delhi,"Janakpuri, Delhi",15-10-14,4,42,152,NA
+211,Delhi,"Janakpuri, Delhi",17-10-14,4,54,172,NA
+212,Delhi,"Janakpuri, Delhi",22-10-14,18,92,304,NA
+213,Delhi,"Janakpuri, Delhi",28-10-14,4,38,161,NA
+214,Delhi,"Janakpuri, Delhi",11-03-14,4,45,308,NA
+215,Delhi,"Janakpuri, Delhi",11-10-14,4,44,332,NA
+216,Delhi,"Janakpuri, Delhi",13-11-14,4,46,206,NA
+217,Delhi,"Janakpuri, Delhi",18-11-14,4,47,296,NA
+218,Delhi,"Janakpuri, Delhi",21-11-14,4,53,219,NA
+219,Delhi,"Janakpuri, Delhi",26-11-14,4,45,231,NA
+220,Delhi,"Janakpuri, Delhi",12-02-14,4,46,263,NA
+221,Delhi,"Janakpuri, Delhi",12-05-14,4,49,235,NA
+222,Delhi,"Janakpuri, Delhi",12-10-14,4,47,215,NA
+223,Delhi,"Janakpuri, Delhi",15-12-14,4,42,187,NA
+224,Delhi,"Janakpuri, Delhi",18-12-14,4,47,311,NA
+225,Delhi,"Janakpuri, Delhi",23-12-14,4,47,195,NA
+226,Delhi,"Janakpuri, Delhi",29-12-14,4,41,143,NA
+227,Delhi,"Nizamuddin, Delhi",01-01-14,4,40,212,NA
+228,Delhi,"Nizamuddin, Delhi",01-06-14,4,40,190,NA
+229,Delhi,"Nizamuddin, Delhi",01-09-14,4,67,379,NA
+230,Delhi,"Nizamuddin, Delhi",15-01-14,5,60,380,NA
+231,Delhi,"Nizamuddin, Delhi",20-01-14,4,44,222,NA
+232,Delhi,"Nizamuddin, Delhi",23-01-14,4,40,106,NA
+233,Delhi,"Nizamuddin, Delhi",28-01-14,4,35,219,NA
+234,Delhi,"Nizamuddin, Delhi",02-03-14,4,54,279,NA
+235,Delhi,"Nizamuddin, Delhi",02-06-14,5,50,192,NA
+236,Delhi,"Nizamuddin, Delhi",02-11-14,4,50,312,NA
+237,Delhi,"Nizamuddin, Delhi",14-02-14,4,27,194,NA
+238,Delhi,"Nizamuddin, Delhi",19-02-14,4,49,225,NA
+239,Delhi,"Nizamuddin, Delhi",24-02-14,4,39,236,NA
+240,Delhi,"Nizamuddin, Delhi",27-02-14,4,37,194,NA
+241,Delhi,"Nizamuddin, Delhi",03-05-14,4,28,171,NA
+242,Delhi,"Nizamuddin, Delhi",03-10-14,4,29,52,NA
+243,Delhi,"Nizamuddin, Delhi",13-03-14,4,34,147,NA
+244,Delhi,"Nizamuddin, Delhi",19-03-14,4,36,133,NA
+245,Delhi,"Nizamuddin, Delhi",24-03-14,4,33,106,NA
+246,Delhi,"Nizamuddin, Delhi",27-03-14,4,32,125,NA
+247,Delhi,"Nizamuddin, Delhi",04-02-14,4,54,113,NA
+248,Delhi,"Nizamuddin, Delhi",04-07-14,4,37,135,NA
+249,Delhi,"Nizamuddin, Delhi",15-04-14,4,48,151,NA
+250,Delhi,"Nizamuddin, Delhi",21-04-14,4,41,152,NA
+251,Delhi,"Nizamuddin, Delhi",24-04-14,4,59,194,NA
+252,Delhi,"Nizamuddin, Delhi",29-04-14,4,44,106,NA
+253,Delhi,"Nizamuddin, Delhi",05-05-14,4,37,156,NA
+254,Delhi,"Nizamuddin, Delhi",05-08-14,4,48,339,NA
+255,Delhi,"Nizamuddin, Delhi",13-05-14,4,26,138,NA
+256,Delhi,"Nizamuddin, Delhi",19-05-14,4,30,175,NA
+257,Delhi,"Nizamuddin, Delhi",22-05-14,4,30,138,NA
+258,Delhi,"Nizamuddin, Delhi",27-05-14,4,29,175,NA
+259,Delhi,"Nizamuddin, Delhi",06-02-14,4,27,137,NA
+260,Delhi,"Nizamuddin, Delhi",06-05-14,4,27,132,NA
+261,Delhi,"Nizamuddin, Delhi",06-10-14,4,40,213,NA
+262,Delhi,"Nizamuddin, Delhi",13-06-14,4,35,145,NA
+263,Delhi,"Nizamuddin, Delhi",18-06-14,4,35,176,NA
+264,Delhi,"Nizamuddin, Delhi",23-06-14,4,35,165,NA
+265,Delhi,"Nizamuddin, Delhi",26-06-14,4,43,157,NA
+266,Delhi,"Nizamuddin, Delhi",07-02-14,4,41,181,NA
+267,Delhi,"Nizamuddin, Delhi",07-07-14,4,41,129,NA
+268,Delhi,"Nizamuddin, Delhi",07-10-14,4,39,234,NA
+269,Delhi,"Nizamuddin, Delhi",15-07-14,4,36,162,NA
+270,Delhi,"Nizamuddin, Delhi",23-07-14,4,30,85,NA
+271,Delhi,"Nizamuddin, Delhi",28-07-14,4,30,153,NA
+272,Delhi,"Nizamuddin, Delhi",08-04-14,4,47,96,NA
+273,Delhi,"Nizamuddin, Delhi",08-07-14,4,39,134,NA
+274,Delhi,"Nizamuddin, Delhi",08-12-14,4,41,143,NA
+275,Delhi,"Nizamuddin, Delhi",19-08-14,4,46,217,NA
+276,Delhi,"Nizamuddin, Delhi",22-08-14,4,36,241,NA
+277,Delhi,"Nizamuddin, Delhi",27-08-14,4,43,165,NA
+278,Delhi,"Nizamuddin, Delhi",09-02-14,4,32,71,NA
+279,Delhi,"Nizamuddin, Delhi",09-05-14,4,26,57,NA
+280,Delhi,"Nizamuddin, Delhi",09-10-14,4,33,87,NA
+281,Delhi,"Nizamuddin, Delhi",15-09-14,4,34,77,NA
+282,Delhi,"Nizamuddin, Delhi",18-09-14,4,29,90,NA
+283,Delhi,"Nizamuddin, Delhi",23-09-14,4,37,143,NA
+284,Delhi,"Nizamuddin, Delhi",26-09-14,4,40,121,NA
+285,Delhi,"Nizamuddin, Delhi",10-07-14,4,44,141,NA
+286,Delhi,"Nizamuddin, Delhi",10-10-14,4,49,157,NA
+287,Delhi,"Nizamuddin, Delhi",14-10-14,4,38,83,NA
+288,Delhi,"Nizamuddin, Delhi",20-10-14,4,56,225,NA
+289,Delhi,"Nizamuddin, Delhi",24-10-14,4,34,231,NA
+290,Delhi,"Nizamuddin, Delhi",29-10-14,4,47,175,NA
+291,Delhi,"Nizamuddin, Delhi",11-05-14,4,48,205,NA
+292,Delhi,"Nizamuddin, Delhi",11-11-14,4,54,363,NA
+293,Delhi,"Nizamuddin, Delhi",14-11-14,4,53,330,NA
+294,Delhi,"Nizamuddin, Delhi",19-11-14,4,56,481,NA
+295,Delhi,"Nizamuddin, Delhi",24-11-14,4,45,316,NA
+296,Delhi,"Nizamuddin, Delhi",27-11-14,4,45,303,NA
+297,Delhi,"Nizamuddin, Delhi",12-03-14,4,39,263,NA
+298,Delhi,"Nizamuddin, Delhi",12-08-14,4,45,343,NA
+299,Delhi,"Nizamuddin, Delhi",12-11-14,4,49,237,NA
+300,Delhi,"Nizamuddin, Delhi",16-12-14,4,41,158,NA
+301,Delhi,"Nizamuddin, Delhi",19-12-14,4,42,251,NA
+302,Delhi,"Nizamuddin, Delhi",24-12-14,4,40,257,NA
+303,Delhi,"Nizamuddin, Delhi",30-12-14,4,44,214,NA
+304,Delhi,"Shahzada Bagh, Delhi",01-02-14,4,65,389,NA
+305,Delhi,"Shahzada Bagh, Delhi",01-07-14,4,69,240,NA
+306,Delhi,"Shahzada Bagh, Delhi",01-10-14,4,64,313,NA
+307,Delhi,"Shahzada Bagh, Delhi",16-01-14,4,63,399,NA
+308,Delhi,"Shahzada Bagh, Delhi",21-01-14,4,63,119,NA
+309,Delhi,"Shahzada Bagh, Delhi",24-01-14,4,55,161,NA
+310,Delhi,"Shahzada Bagh, Delhi",29-01-14,4,60,403,NA
+311,Delhi,"Shahzada Bagh, Delhi",02-04-14,4,65,307,NA
+312,Delhi,"Shahzada Bagh, Delhi",02-07-14,4,58,203,NA
+313,Delhi,"Shahzada Bagh, Delhi",02-12-14,4,65,235,NA
+314,Delhi,"Shahzada Bagh, Delhi",17-02-14,4,61,202,NA
+315,Delhi,"Shahzada Bagh, Delhi",20-02-14,4,67,287,NA
+316,Delhi,"Shahzada Bagh, Delhi",25-02-14,4,62,280,NA
+317,Delhi,"Shahzada Bagh, Delhi",03-03-14,4,68,222,NA
+318,Delhi,"Shahzada Bagh, Delhi",03-06-14,4,64,161,NA
+319,Delhi,"Shahzada Bagh, Delhi",03-11-14,4,62,191,NA
+320,Delhi,"Shahzada Bagh, Delhi",14-03-14,4,71,173,NA
+321,Delhi,"Shahzada Bagh, Delhi",20-03-14,4,65,NA,NA
+322,Delhi,"Shahzada Bagh, Delhi",25-03-14,4,68,NA,NA
+323,Delhi,"Shahzada Bagh, Delhi",28-03-14,4,63,NA,NA
+324,Delhi,"Shahzada Bagh, Delhi",04-03-14,4,62,NA,NA
+325,Delhi,"Shahzada Bagh, Delhi",04-09-14,4,65,146,NA
+326,Delhi,"Shahzada Bagh, Delhi",16-04-14,4,55,179,NA
+327,Delhi,"Shahzada Bagh, Delhi",22-04-14,4,65,303,NA
+328,Delhi,"Shahzada Bagh, Delhi",25-04-14,4,68,271,NA
+329,Delhi,"Shahzada Bagh, Delhi",05-01-14,4,51,310,NA
+330,Delhi,"Shahzada Bagh, Delhi",05-06-14,4,58,228,NA
+331,Delhi,"Shahzada Bagh, Delhi",05-09-14,4,60,351,NA
+332,Delhi,"Shahzada Bagh, Delhi",15-05-14,4,55,276,NA
+333,Delhi,"Shahzada Bagh, Delhi",20-05-14,4,57,208,NA
+334,Delhi,"Shahzada Bagh, Delhi",23-05-14,4,59,189,NA
+335,Delhi,"Shahzada Bagh, Delhi",28-05-14,4,55,267,NA
+336,Delhi,"Shahzada Bagh, Delhi",06-03-14,4,63,240,NA
+337,Delhi,"Shahzada Bagh, Delhi",06-06-14,4,60,206,NA
+338,Delhi,"Shahzada Bagh, Delhi",06-11-14,4,56,256,NA
+339,Delhi,"Shahzada Bagh, Delhi",16-06-14,4,55,303,NA
+340,Delhi,"Shahzada Bagh, Delhi",19-06-14,4,54,132,NA
+341,Delhi,"Shahzada Bagh, Delhi",24-06-14,4,54,306,NA
+342,Delhi,"Shahzada Bagh, Delhi",27-06-14,4,54,186,NA
+343,Delhi,"Shahzada Bagh, Delhi",07-03-14,4,54,157,NA
+344,Delhi,"Shahzada Bagh, Delhi",07-08-14,4,53,224,NA
+345,Delhi,"Shahzada Bagh, Delhi",07-11-14,4,49,185,NA
+346,Delhi,"Shahzada Bagh, Delhi",16-07-14,4,59,131,NA
+347,Delhi,"Shahzada Bagh, Delhi",21-07-14,4,51,132,NA
+348,Delhi,"Shahzada Bagh, Delhi",24-07-14,4,50,75,NA
+349,Delhi,"Shahzada Bagh, Delhi",30-07-14,4,59,153,NA
+350,Delhi,"Shahzada Bagh, Delhi",08-05-14,4,60,147,NA
+351,Delhi,"Shahzada Bagh, Delhi",08-08-14,4,53,218,NA
+352,Delhi,"Shahzada Bagh, Delhi",13-08-14,4,58,83,NA
+353,Delhi,"Shahzada Bagh, Delhi",20-08-14,4,57,189,NA
+354,Delhi,"Shahzada Bagh, Delhi",25-08-14,4,57,123,NA
+355,Delhi,"Shahzada Bagh, Delhi",28-08-14,4,55,138,NA
+356,Delhi,"Shahzada Bagh, Delhi",09-03-14,4,47,145,NA
+357,Delhi,"Shahzada Bagh, Delhi",09-08-14,4,55,93,NA
+358,Delhi,"Shahzada Bagh, Delhi",09-11-14,4,56,74,NA
+359,Delhi,"Shahzada Bagh, Delhi",16-09-14,4,51,147,NA
+360,Delhi,"Shahzada Bagh, Delhi",19-09-14,4,55,112,NA
+361,Delhi,"Shahzada Bagh, Delhi",24-09-14,4,60,102,NA
+362,Delhi,"Shahzada Bagh, Delhi",29-09-14,4,60,137,NA
+363,Delhi,"Shahzada Bagh, Delhi",10-08-14,4,55,209,NA
+364,Delhi,"Shahzada Bagh, Delhi",13-10-14,4,47,262,NA
+365,Delhi,"Shahzada Bagh, Delhi",16-10-14,4,66,231,NA
+366,Delhi,"Shahzada Bagh, Delhi",21-10-14,4,61,256,NA
+367,Delhi,"Shahzada Bagh, Delhi",28-10-14,4,64,277,NA
+368,Delhi,"Shahzada Bagh, Delhi",11-07-14,4,57,339,NA
+369,Delhi,"Shahzada Bagh, Delhi",11-12-14,4,59,403,NA
+370,Delhi,"Shahzada Bagh, Delhi",17-11-14,4,59,374,NA
+371,Delhi,"Shahzada Bagh, Delhi",20-11-14,4,60,464,NA
+372,Delhi,"Shahzada Bagh, Delhi",25-11-14,4,63,334,NA
+373,Delhi,"Shahzada Bagh, Delhi",12-01-14,4,52,368,NA
+374,Delhi,"Shahzada Bagh, Delhi",12-04-14,4,60,183,NA
+375,Delhi,"Shahzada Bagh, Delhi",12-09-14,4,59,221,NA
+376,Delhi,"Shahzada Bagh, Delhi",12-12-14,4,57,290,NA
+377,Delhi,"Shahzada Bagh, Delhi",17-12-14,4,61,287,NA
+378,Delhi,"Shahzada Bagh, Delhi",22-12-14,4,62,479,NA
+379,Delhi,"Shahzada Bagh, Delhi",26-12-14,4,59,481,NA
+380,Delhi,"Shahadra, Delhi",01-03-14,4,69,470,NA
+381,Delhi,"Shahadra, Delhi",01-08-14,4,65,478,NA
+382,Delhi,"Shahadra, Delhi",13-01-14,4,66,291,NA
+383,Delhi,"Shahadra, Delhi",17-01-14,5,71,414,NA
+384,Delhi,"Shahadra, Delhi",22-01-14,4,63,190,NA
+385,Delhi,"Shahadra, Delhi",27-01-14,4,62,294,NA
+386,Delhi,"Shahadra, Delhi",30-01-14,5,52,438,NA
+387,Delhi,"Shahadra, Delhi",02-05-14,4,58,243,NA
+388,Delhi,"Shahadra, Delhi",02-10-14,4,62,271,NA
+389,Delhi,"Shahadra, Delhi",13-02-14,4,60,227,NA
+390,Delhi,"Shahadra, Delhi",18-02-14,4,60,391,NA
+391,Delhi,"Shahadra, Delhi",26-02-14,4,66,246,NA
+392,Delhi,"Shahadra, Delhi",03-04-14,4,61,165,NA
+393,Delhi,"Shahadra, Delhi",03-07-14,4,60,175,NA
+394,Delhi,"Shahadra, Delhi",03-12-14,4,53,115,NA
+395,Delhi,"Shahadra, Delhi",18-03-14,4,65,177,NA
+396,Delhi,"Shahadra, Delhi",21-03-14,4,63,201,NA
+397,Delhi,"Shahadra, Delhi",26-03-14,4,62,259,NA
+398,Delhi,"Shahadra, Delhi",04-01-14,4,63,312,NA
+399,Delhi,"Shahadra, Delhi",04-04-14,4,64,166,NA
+400,Delhi,"Shahadra, Delhi",04-11-14,4,64,371,NA
+401,Delhi,"Shahadra, Delhi",17-04-14,4,61,234,NA
+402,Delhi,"Shahadra, Delhi",23-04-14,4,59,242,NA
+403,Delhi,"Shahadra, Delhi",28-04-14,4,63,435,NA
+404,Delhi,"Shahadra, Delhi",05-02-14,4,61,475,NA
+405,Delhi,"Shahadra, Delhi",05-07-14,4,60,238,NA
+406,Delhi,"Shahadra, Delhi",05-12-14,4,51,240,NA
+407,Delhi,"Shahadra, Delhi",16-05-14,4,62,251,NA
+408,Delhi,"Shahadra, Delhi",21-05-14,4,58,333,NA
+409,Delhi,"Shahadra, Delhi",26-05-14,4,61,267,NA
+410,Delhi,"Shahadra, Delhi",29-05-14,4,61,380,NA
+411,Delhi,"Shahadra, Delhi",06-04-14,4,60,153,NA
+412,Delhi,"Shahadra, Delhi",06-09-14,4,56,207,NA
+413,Delhi,"Shahadra, Delhi",06-12-14,4,58,417,NA
+414,Delhi,"Shahadra, Delhi",17-06-14,4,55,236,NA
+415,Delhi,"Shahadra, Delhi",20-06-14,4,59,314,NA
+416,Delhi,"Shahadra, Delhi",25-06-14,4,55,236,NA
+417,Delhi,"Shahadra, Delhi",07-01-14,4,58,178,NA
+418,Delhi,"Shahadra, Delhi",07-04-14,4,62,352,NA
+419,Delhi,"Shahadra, Delhi",07-09-14,4,51,419,NA
+420,Delhi,"Shahadra, Delhi",14-07-14,4,58,216,NA
+421,Delhi,"Shahadra, Delhi",17-07-14,4,58,115,NA
+422,Delhi,"Shahadra, Delhi",22-07-14,4,48,253,NA
+423,Delhi,"Shahadra, Delhi",25-07-14,4,53,165,NA
+424,Delhi,"Shahadra, Delhi",08-01-14,4,58,130,NA
+425,Delhi,"Shahadra, Delhi",08-06-14,4,55,218,NA
+426,Delhi,"Shahadra, Delhi",08-11-14,4,46,135,NA
+427,Delhi,"Shahadra, Delhi",14-08-14,4,54,137,NA
+428,Delhi,"Shahadra, Delhi",21-08-14,4,56,290,NA
+429,Delhi,"Shahadra, Delhi",26-08-14,4,53,92,NA
+430,Delhi,"Shahadra, Delhi",09-01-14,4,55,194,NA
+431,Delhi,"Shahadra, Delhi",09-04-14,4,48,190,NA
+432,Delhi,"Shahadra, Delhi",09-09-14,4,45,138,NA
+433,Delhi,"Shahadra, Delhi",09-12-14,4,46,101,NA
+434,Delhi,"Shahadra, Delhi",17-09-14,4,51,190,NA
+435,Delhi,"Shahadra, Delhi",22-09-14,4,57,121,NA
+436,Delhi,"Shahadra, Delhi",10-09-14,4,55,190,NA
+437,Delhi,"Shahadra, Delhi",14-10-14,4,49,260,NA
+438,Delhi,"Shahadra, Delhi",17-10-14,4,54,204,NA
+439,Delhi,"Shahadra, Delhi",24-10-14,4,62,322,NA
+440,Delhi,"Shahadra, Delhi",29-10-14,4,58,193,NA
+441,Delhi,"Shahadra, Delhi",11-03-14,4,55,310,NA
+442,Delhi,"Shahadra, Delhi",11-10-14,4,61,313,NA
+443,Delhi,"Shahadra, Delhi",13-11-14,4,57,403,NA
+444,Delhi,"Shahadra, Delhi",18-11-14,4,63,355,NA
+445,Delhi,"Shahadra, Delhi",21-11-14,4,57,335,NA
+446,Delhi,"Shahadra, Delhi",26-11-14,4,53,414,NA
+447,Delhi,"Shahadra, Delhi",12-02-14,4,55,205,NA
+448,Delhi,"Shahadra, Delhi",12-05-14,4,52,289,NA
+449,Delhi,"Shahadra, Delhi",12-10-14,4,48,546,NA
+450,Delhi,"Shahadra, Delhi",15-12-14,4,55,211,NA
+451,Delhi,"Shahadra, Delhi",18-12-14,4,47,444,NA
+452,Delhi,"Shahadra, Delhi",23-12-14,4,63,514,NA
+453,Delhi,"Shahadra, Delhi",29-12-14,4,51,432,NA
+454,Delhi,"Mayapuri Industrial Area, Delhi",01-02-14,17,55,308,NA
+455,Delhi,"Mayapuri Industrial Area, Delhi",01-03-14,9,112,563,NA
+456,Delhi,"Mayapuri Industrial Area, Delhi",01-07-14,15,99,543,NA
+457,Delhi,"Mayapuri Industrial Area, Delhi",01-08-14,15,74,512,NA
+458,Delhi,"Mayapuri Industrial Area, Delhi",01-09-14,18,100,683,NA
+459,Delhi,"Mayapuri Industrial Area, Delhi",21-01-14,5,64,138,NA
+460,Delhi,"Mayapuri Industrial Area, Delhi",22-01-14,2,54,149,NA
+461,Delhi,"Mayapuri Industrial Area, Delhi",23-01-14,4,84,250,NA
+462,Delhi,"Mayapuri Industrial Area, Delhi",02-11-14,9,92,273,NA
+463,Delhi,"Mayapuri Industrial Area, Delhi",02-12-14,18,100,323,NA
+464,Delhi,"Mayapuri Industrial Area, Delhi",13-02-14,9,91,186,NA
+465,Delhi,"Mayapuri Industrial Area, Delhi",18-02-14,5,111,458,NA
+466,Delhi,"Mayapuri Industrial Area, Delhi",19-02-14,21,115,390,NA
+467,Delhi,"Mayapuri Industrial Area, Delhi",20-02-14,9,97,454,NA
+468,Delhi,"Mayapuri Industrial Area, Delhi",25-02-14,5,105,314,NA
+469,Delhi,"Mayapuri Industrial Area, Delhi",26-02-14,16,116,257,NA
+470,Delhi,"Mayapuri Industrial Area, Delhi",03-04-14,10,66,253,NA
+471,Delhi,"Mayapuri Industrial Area, Delhi",03-05-14,5,68,149,NA
+472,Delhi,"Mayapuri Industrial Area, Delhi",03-06-14,7,77,189,NA
+473,Delhi,"Mayapuri Industrial Area, Delhi",03-11-14,3,71,93,NA
+474,Delhi,"Mayapuri Industrial Area, Delhi",03-12-14,4,58,121,NA
+475,Delhi,"Mayapuri Industrial Area, Delhi",13-03-14,4,93,141,NA
+476,Delhi,"Mayapuri Industrial Area, Delhi",19-03-14,10,58,128,NA
+477,Delhi,"Mayapuri Industrial Area, Delhi",20-03-14,6,86,188,NA
+478,Delhi,"Mayapuri Industrial Area, Delhi",04-02-14,2,85,219,NA
+479,Delhi,"Mayapuri Industrial Area, Delhi",04-03-14,11,88,215,NA
+480,Delhi,"Mayapuri Industrial Area, Delhi",15-04-14,2,44,277,NA
+481,Delhi,"Mayapuri Industrial Area, Delhi",16-04-14,10,72,181,NA
+482,Delhi,"Mayapuri Industrial Area, Delhi",17-04-14,2,75,110,NA
+483,Delhi,"Mayapuri Industrial Area, Delhi",23-04-14,28,123,245,NA
+484,Delhi,"Mayapuri Industrial Area, Delhi",25-04-14,19,137,300,NA
+485,Delhi,"Mayapuri Industrial Area, Delhi",25-04-14,17,131,303,NA
+486,Delhi,"Mayapuri Industrial Area, Delhi",05-06-14,4,72,127,NA
+487,Delhi,"Mayapuri Industrial Area, Delhi",05-07-14,17,82,366,NA
+488,Delhi,"Mayapuri Industrial Area, Delhi",05-08-14,11,103,281,NA
+489,Delhi,"Mayapuri Industrial Area, Delhi",13-05-14,2,67,106,NA
+490,Delhi,"Mayapuri Industrial Area, Delhi",14-05-14,10,81,150,NA
+491,Delhi,"Mayapuri Industrial Area, Delhi",15-05-14,2,86,168,NA
+492,Delhi,"Mayapuri Industrial Area, Delhi",27-05-14,2,107,222,NA
+493,Delhi,"Mayapuri Industrial Area, Delhi",28-05-14,2,125,257,NA
+494,Delhi,"Mayapuri Industrial Area, Delhi",06-03-14,3,111,305,NA
+495,Delhi,"Mayapuri Industrial Area, Delhi",06-04-14,2,109,300,NA
+496,Delhi,"Mayapuri Industrial Area, Delhi",06-05-14,2,63,217,NA
+497,Delhi,"Mayapuri Industrial Area, Delhi",17-06-14,2,55,230,NA
+498,Delhi,"Mayapuri Industrial Area, Delhi",18-06-14,2,56,128,NA
+499,Delhi,"Mayapuri Industrial Area, Delhi",19-06-14,2,58,169,NA
+500,Delhi,"Mayapuri Industrial Area, Delhi",26-06-14,3,47,226,NA
+501,Delhi,"Mayapuri Industrial Area, Delhi",27-06-14,2,17,159,NA
+502,Delhi,"Mayapuri Industrial Area, Delhi",07-08-14,2,78,314,NA
+503,Delhi,"Mayapuri Industrial Area, Delhi",07-09-14,2,82,425,NA
+504,Delhi,"Mayapuri Industrial Area, Delhi",07-10-14,2,80,335,NA
+505,Delhi,"Mayapuri Industrial Area, Delhi",15-07-14,5,90,140,NA
+506,Delhi,"Mayapuri Industrial Area, Delhi",16-07-14,2,81,113,NA
+507,Delhi,"Mayapuri Industrial Area, Delhi",17-07-14,2,65,67,NA
+508,Delhi,"Mayapuri Industrial Area, Delhi",22-07-14,2,79,81,NA
+509,Delhi,"Mayapuri Industrial Area, Delhi",23-07-14,2,49,114,NA
+510,Delhi,"Mayapuri Industrial Area, Delhi",08-05-14,5,47,186,NA
+511,Delhi,"Mayapuri Industrial Area, Delhi",08-06-14,9,56,108,NA
+512,Delhi,"Mayapuri Industrial Area, Delhi",08-07-14,5,78,181,NA
+513,Delhi,"Mayapuri Industrial Area, Delhi",08-11-14,3,59,119,NA
+514,Delhi,"Mayapuri Industrial Area, Delhi",08-12-14,2,39,97,NA
+515,Delhi,"Mayapuri Industrial Area, Delhi",25-08-14,2,76,175,NA
+516,Delhi,"Mayapuri Industrial Area, Delhi",26-08-14,2,68,200,NA
+517,Delhi,"Mayapuri Industrial Area, Delhi",27-08-14,3,53,138,NA
+518,Delhi,"Mayapuri Industrial Area, Delhi",16-09-14,2,50,125,NA
+519,Delhi,"Mayapuri Industrial Area, Delhi",17-09-14,2,38,153,NA
+520,Delhi,"Mayapuri Industrial Area, Delhi",18-09-14,2,56,169,NA
+521,Delhi,"Mayapuri Industrial Area, Delhi",23-09-14,2,81,240,NA
+522,Delhi,"Mayapuri Industrial Area, Delhi",24-09-14,3,67,236,NA
+523,Delhi,"Mayapuri Industrial Area, Delhi",25-09-14,2,71,198,NA
+524,Delhi,"Mayapuri Industrial Area, Delhi",28-09-14,4,49,188,NA
+525,Delhi,"Mayapuri Industrial Area, Delhi",29-09-14,2,63,246,NA
+526,Delhi,"Mayapuri Industrial Area, Delhi",15-10-14,5,61,220,NA
+527,Delhi,"Mayapuri Industrial Area, Delhi",16-10-14,2,90,273,NA
+528,Delhi,"Mayapuri Industrial Area, Delhi",17-10-14,2,80,358,NA
+529,Delhi,"Mayapuri Industrial Area, Delhi",21-10-14,2,141,546,NA
+530,Delhi,"Mayapuri Industrial Area, Delhi",22-10-14,2,163,420,NA
+531,Delhi,"Mayapuri Industrial Area, Delhi",25-10-14,4,122,459,NA
+532,Delhi,"Mayapuri Industrial Area, Delhi",26-10-14,4,100,319,NA
+533,Delhi,"Mayapuri Industrial Area, Delhi",27-10-14,2,142,275,NA
+534,Delhi,"Mayapuri Industrial Area, Delhi",11-04-14,5,142,442,NA
+535,Delhi,"Mayapuri Industrial Area, Delhi",11-05-14,5,128,376,NA
+536,Delhi,"Mayapuri Industrial Area, Delhi",11-06-14,10,148,452,NA
+537,Delhi,"Mayapuri Industrial Area, Delhi",11-11-14,8,176,508,NA
+538,Delhi,"Mayapuri Industrial Area, Delhi",11-12-14,11,195,537,NA
+539,Delhi,"Mayapuri Industrial Area, Delhi",18-11-14,2,196,709,NA
+540,Delhi,"Mayapuri Industrial Area, Delhi",19-11-14,3,147,609,NA
+541,Delhi,"Mayapuri Industrial Area, Delhi",20-11-14,6,169,581,NA
+542,Delhi,"Mayapuri Industrial Area, Delhi",12-03-14,2,152,395,NA
+543,Delhi,"Mayapuri Industrial Area, Delhi",12-04-14,14,163,414,NA
+544,Delhi,"Mayapuri Industrial Area, Delhi",12-10-14,7,142,545,NA
+545,Delhi,"Mayapuri Industrial Area, Delhi",12-11-14,5,160,469,NA
+546,Delhi,"Mayapuri Industrial Area, Delhi",12-12-14,20,209,657,NA
+547,Delhi,"Mayapuri Industrial Area, Delhi",23-12-14,3,169,633,NA
+548,Delhi,"Mayapuri Industrial Area, Delhi",24-12-14,2,118,369,NA
+549,Delhi,"Mayapuri Industrial Area, Delhi",25-12-14,2,102,323,NA
+550,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",01-02-14,8,53,287,NA
+551,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",01-03-14,13,77,358,NA
+552,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",14-01-14,22,117,375,NA
+553,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",15-01-14,19,113,396,NA
+554,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",16-01-14,28,101,337,NA
+555,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",21-01-14,8,61,129,NA
+556,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",22-01-14,5,45,99,NA
+557,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",23-01-14,2,63,167,NA
+558,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",02-04-14,7,78,196,NA
+559,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",02-05-14,8,103,194,NA
+560,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",02-06-14,22,90,174,NA
+561,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",18-02-14,8,108,198,NA
+562,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",19-02-14,13,111,258,NA
+563,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",20-02-14,11,92,242,NA
+564,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",22-02-14,6,110,176,NA
+565,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",23-02-14,4,82,154,NA
+566,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",03-11-14,4,58,90,NA
+567,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",03-12-14,4,64,72,NA
+568,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",13-03-14,15,80,100,NA
+569,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",25-03-14,21,82,141,NA
+570,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",26-03-14,17,85,97,NA
+571,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",27-03-14,12,93,106,NA
+572,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",29-03-14,8,65,73,NA
+573,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",30-03-14,9,65,88,NA
+574,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",14-04-14,8,103,115,NA
+575,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",15-04-14,6,114,137,NA
+576,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",16-04-14,19,18,78,NA
+577,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",19-04-14,10,119,153,NA
+578,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",20-04-14,9,104,84,NA
+579,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",21-04-14,13,74,128,NA
+580,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",23-04-14,11,93,124,NA
+581,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",24-04-14,12,109,164,NA
+582,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",13-05-14,2,53,77,NA
+583,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",14-05-14,8,72,96,NA
+584,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",15-05-14,5,68,65,NA
+585,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",20-05-14,4,61,141,NA
+586,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",21-05-14,5,74,137,NA
+587,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",22-05-14,5,77,180,NA
+588,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",27-05-14,15,115,153,NA
+589,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",28-05-14,5,111,137,NA
+590,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",06-10-14,3,31,268,NA
+591,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",06-11-14,2,11,332,NA
+592,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",06-12-14,2,45,243,NA
+593,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",17-06-14,4,49,136,NA
+594,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",18-06-14,2,60,71,NA
+595,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",19-06-14,2,69,117,NA
+596,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",24-06-14,2,49,163,NA
+597,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",25-06-14,2,40,101,NA
+598,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",07-01-14,4,47,96,NA
+599,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",07-02-14,2,87,67,NA
+600,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",07-03-14,4,47,69,NA
+601,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",15-07-14,6,33,67,NA
+602,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",16-07-14,7,60,35,NA
+603,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",17-07-14,2,45,192,NA
+604,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",29-07-14,3,47,58,NA
+605,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",30-07-14,3,34,68,NA
+606,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",08-11-14,2,35,56,NA
+607,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",08-12-14,2,34,35,NA
+608,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",19-08-14,2,99,140,NA
+609,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",20-08-14,2,76,158,NA
+610,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",21-08-14,2,78,117,NA
+611,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",25-08-14,2,63,65,NA
+612,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",26-08-14,2,67,47,NA
+613,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",27-08-14,4,63,67,NA
+614,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",09-02-14,2,45,39,NA
+615,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",09-03-14,3,51,22,NA
+616,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",09-04-14,12,37,21,NA
+617,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",09-10-14,3,66,53,NA
+618,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",09-11-14,4,51,57,NA
+619,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",16-09-14,2,55,52,NA
+620,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",17-09-14,2,81,56,NA
+621,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",10-04-14,2,90,129,NA
+622,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",10-05-14,2,68,157,NA
+623,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",10-09-14,8,62,51,NA
+624,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",18-11-14,5,185,194,NA
+625,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",19-11-14,7,177,254,NA
+626,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",20-11-14,4,176,258,NA
+627,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",25-11-14,9,152,219,NA
+628,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",26-11-14,16,146,274,NA
+629,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",27-11-14,20,160,355,NA
+630,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",28-11-14,7,157,366,NA
+631,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",29-11-14,19,145,306,NA
+632,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",12-04-14,7,121,228,NA
+633,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",12-05-14,4,122,249,NA
+634,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",12-10-14,17,143,247,NA
+635,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",12-11-14,13,150,286,NA
+636,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",12-12-14,12,172,500,NA
+637,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",16-12-14,7,100,223,NA
+638,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",17-12-14,8,119,245,NA
+639,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",18-12-14,14,123,403,NA
+640,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",01-07-14,12,114,421,NA
+641,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",01-08-14,14,91,459,NA
+642,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",01-09-14,14,106,541,NA
+643,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",15-01-14,10,114,499,NA
+644,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",16-01-14,6,82,444,NA
+645,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",17-01-14,2,75,228,NA
+646,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",28-01-14,6,60,368,NA
+647,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",29-01-14,3,59,327,NA
+648,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",02-04-14,5,110,221,NA
+649,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",02-05-14,16,112,226,NA
+650,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",02-06-14,18,97,143,NA
+651,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",02-12-14,3,90,217,NA
+652,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",13-02-14,4,85,145,NA
+653,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",14-02-14,4,46,136,NA
+654,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",25-02-14,17,109,244,NA
+655,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",26-02-14,21,112,213,NA
+656,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",03-04-14,9,106,138,NA
+657,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",03-05-14,6,87,98,NA
+658,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",03-06-14,3,82,133,NA
+659,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",19-03-14,8,76,118,NA
+660,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",20-03-14,17,109,139,NA
+661,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",21-03-14,27,99,137,NA
+662,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",25-03-14,24,83,155,NA
+663,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",26-03-14,25,84,131,NA
+664,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",04-01-14,24,108,214,NA
+665,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",04-02-14,7,85,128,NA
+666,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",04-03-14,4,85,81,NA
+667,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",04-11-14,15,134,219,NA
+668,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",04-12-14,18,120,246,NA
+669,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",13-04-14,21,76,177,NA
+670,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",28-04-14,3,122,198,NA
+671,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",29-04-14,6,117,239,NA
+672,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",05-06-14,5,109,134,NA
+673,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",05-07-14,15,113,281,NA
+674,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",05-08-14,2,96,211,NA
+675,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",20-05-14,8,94,143,NA
+676,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",21-05-14,6,81,152,NA
+677,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",22-05-14,13,103,182,NA
+678,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",29-05-14,2,103,256,NA
+679,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",30-05-14,11,118,208,NA
+680,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",06-03-14,3,106,216,NA
+681,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",06-04-14,2,103,214,NA
+682,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",06-05-14,2,113,193,NA
+683,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",06-10-14,3,44,242,NA
+684,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",06-11-14,2,44,289,NA
+685,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",06-12-14,2,24,187,NA
+686,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",24-06-14,2,65,154,NA
+687,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",25-06-14,2,69,142,NA
+688,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",07-01-14,6,72,98,NA
+689,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",07-02-14,2,91,94,NA
+690,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",07-03-14,2,48,81,NA
+691,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",07-08-14,2,63,222,NA
+692,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",07-09-14,2,66,182,NA
+693,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",07-10-14,2,65,168,NA
+694,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",22-07-14,2,93,47,NA
+695,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",23-07-14,5,55,39,NA
+696,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",08-05-14,4,105,106,NA
+697,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",08-06-14,7,55,43,NA
+698,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",08-07-14,7,56,52,NA
+699,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",19-08-14,2,92,129,NA
+700,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",20-08-14,2,88,110,NA
+701,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",21-08-14,2,89,98,NA
+702,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",29-08-14,5,106,100,NA
+703,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",30-08-14,5,105,78,NA
+704,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",09-02-14,2,44,29,NA
+705,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",09-03-14,2,43,29,NA
+706,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",09-04-14,2,36,25,NA
+707,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",09-09-14,3,67,65,NA
+708,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",09-10-14,3,85,61,NA
+709,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",09-11-14,12,90,59,NA
+710,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",23-09-14,2,73,97,NA
+711,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",24-09-14,4,69,86,NA
+712,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",10-04-14,2,88,154,NA
+713,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",10-05-14,2,73,144,NA
+714,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",11-04-14,2,136,305,NA
+715,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",11-05-14,2,111,269,NA
+716,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",11-06-14,2,133,296,NA
+717,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",11-11-14,6,152,407,NA
+718,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",11-12-14,3,156,429,NA
+719,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",13-11-14,6,164,327,NA
+720,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",25-11-14,12,162,268,NA
+721,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",26-11-14,11,167,309,NA
+722,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",16-12-14,14,127,250,NA
+723,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",17-12-14,10,118,289,NA
+724,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",18-12-14,15,114,400,NA
+725,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",23-12-14,2,175,567,NA
+726,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",24-12-14,3,124,375,NA
+727,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",25-12-14,2,125,283,NA
+728,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",29-12-14,6,166,452,NA
+729,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",30-12-14,2,118,288,NA
+0,State,Location of Monitoring Station,Sampling Date,SO2,NO2,RSPM/PM10,PM 2.5
+1,Delhi,"Nizamuddin, Delhi",05-01-15,4,44,203,NA
+2,Delhi,"Nizamuddin, Delhi",08-01-15,4,45,214,NA
+3,Delhi,"Nizamuddin, Delhi",13-01-15,4,47,182,NA
+4,Delhi,"Nizamuddin, Delhi",16-01-15,4,43,204,78
+5,Delhi,"Nizamuddin, Delhi",21-01-15,4,39,192,83
+6,Delhi,"Nizamuddin, Delhi",27-01-15,4,46,159,146
+7,Delhi,"Nizamuddin, Delhi",02-02-15,4,41,267,62
+8,Delhi,"Nizamuddin, Delhi",05-02-15,4,50,235,112
+9,Delhi,"Nizamuddin, Delhi",10-02-15,4,48,241,62
+10,Delhi,"Nizamuddin, Delhi",13-02-15,4,45,280,NA
+11,Delhi,"Nizamuddin, Delhi",18-02-15,4,42,268,63
+12,Delhi,"Nizamuddin, Delhi",23-02-15,4,40,210,107
+13,Delhi,"Nizamuddin, Delhi",26-02-15,4,39,210,57
+14,Delhi,"Nizamuddin, Delhi",04-03-15,4,39,199,44
+15,Delhi,"Nizamuddin, Delhi",10-03-15,4,38,199,47
+16,Delhi,"Nizamuddin, Delhi",13-03-15,4,50,187,75
+17,Delhi,"Nizamuddin, Delhi",18-03-15,4,47,219,47
+18,Delhi,"Nizamuddin, Delhi",23-03-15,4,47,178,78
+19,Delhi,"Nizamuddin, Delhi",26-03-15,4,52,174,82
+20,Delhi,"Nizamuddin, Delhi",01-04-15,4,50,206,78
+21,Delhi,"Nizamuddin, Delhi",09-04-15,4,44,243,71
+22,Delhi,"Nizamuddin, Delhi",17-04-15,4,43,228,58
+23,Delhi,"Nizamuddin, Delhi",22-04-15,4,45,229,77
+24,Delhi,"Nizamuddin, Delhi",27-04-15,4,38,219,53
+25,Delhi,"Nizamuddin, Delhi",01-05-15,4,39,209,29
+26,Delhi,"Nizamuddin, Delhi",07-05-15,4,46,121,89
+27,Delhi,"Nizamuddin, Delhi",12-05-15,4,44,156,91
+28,Delhi,"Nizamuddin, Delhi",15-05-15,4,46,132,97
+29,Delhi,"Nizamuddin, Delhi",20-05-15,4,47,123,61
+30,Delhi,"Nizamuddin, Delhi",25-05-15,4,47,302,101
+31,Delhi,"Nizamuddin, Delhi",28-05-15,4,44,329,77
+32,Delhi,"Nizamuddin, Delhi",03-06-15,4,46,264,77
+33,Delhi,"Nizamuddin, Delhi",08-06-15,4,46,173,126
+34,Delhi,"Nizamuddin, Delhi",11-06-15,4,46,149,76
+35,Delhi,"Nizamuddin, Delhi",16-06-15,4,43,150,55
+36,Delhi,"Nizamuddin, Delhi",19-06-15,4,47,185,42
+37,Delhi,"Nizamuddin, Delhi",24-06-15,4,40,155,112
+38,Delhi,"Nizamuddin, Delhi",29-06-15,4,43,183,100
+39,Delhi,"Nizamuddin, Delhi",03-07-15,4,43,150,82
+40,Delhi,"Nizamuddin, Delhi",08-07-15,4,47,276,92
+41,Delhi,"Nizamuddin, Delhi",13-07-15,4,45,134,85
+42,Delhi,"Nizamuddin, Delhi",16-07-15,4,40,155,83
+43,Delhi,"Nizamuddin, Delhi",21-07-15,4,45,148,42
+44,Delhi,"Nizamuddin, Delhi",24-07-15,4,44,176,62
+45,Delhi,"Nizamuddin, Delhi",29-07-15,4,42,261,86
+46,Delhi,"Nizamuddin, Delhi",04-08-15,4,37,164,66
+47,Delhi,"Nizamuddin, Delhi",07-08-15,4,43,256,52
+48,Delhi,"Nizamuddin, Delhi",12-08-15,4,44,200,36
+49,Delhi,"Nizamuddin, Delhi",17-08-15,4,45,151,44
+50,Delhi,"Nizamuddin, Delhi",20-08-15,4,46,198,32
+51,Delhi,"Nizamuddin, Delhi",25-08-15,4,41,253,58
+52,Delhi,"Nizamuddin, Delhi",28-08-15,4,39,197,65
+53,Delhi,"Nizamuddin, Delhi",03-09-15,4,44,283,87
+54,Delhi,"Nizamuddin, Delhi",08-09-15,4,44,236,28
+55,Delhi,"Nizamuddin, Delhi",11-09-15,4,41,224,78
+56,Delhi,"Nizamuddin, Delhi",16-09-15,4,41,232,110
+57,Delhi,"Nizamuddin, Delhi",21-09-15,4,40,214,71
+58,Delhi,"Nizamuddin, Delhi",24-09-15,4,40,241,63
+59,Delhi,"Nizamuddin, Delhi",01-10-15,4,37,241,51
+60,Delhi,"Nizamuddin, Delhi",07-10-15,4,45,229,99
+61,Delhi,"Nizamuddin, Delhi",12-10-15,4,43,395,98
+62,Delhi,"Nizamuddin, Delhi",15-10-15,4,39,266,76
+63,Delhi,"Nizamuddin, Delhi",20-10-15,4,42,248,154
+64,Delhi,"Nizamuddin, Delhi",26-10-15,4,45,276,158
+65,Delhi,"Nizamuddin, Delhi",29-10-15,4,45,235,111
+66,Delhi,"Nizamuddin, Delhi",04-11-15,4,46,275,115
+67,Delhi,"Nizamuddin, Delhi",10-11-15,4,44,343,163
+68,Delhi,"Nizamuddin, Delhi",13-11-15,4,51,256,56
+69,Delhi,"Nizamuddin, Delhi",18-11-15,4,43,202,127
+70,Delhi,"Nizamuddin, Delhi",23-11-15,4,46,284,161
+71,Delhi,"Nizamuddin, Delhi",27-11-15,4,44,302,122
+72,Delhi,"Nizamuddin, Delhi",03-12-15,4,44,343,NA
+73,Delhi,"Nizamuddin, Delhi",08-12-15,4,39,359,NA
+74,Delhi,"Nizamuddin, Delhi",11-12-15,4,38,428,NA
+75,Delhi,"Nizamuddin, Delhi",16-12-15,4,42,149,NA
+76,Delhi,"Nizamuddin, Delhi",21-12-15,4,43,296,NA
+77,Delhi,"Nizamuddin, Delhi",29-12-15,13,51,253,NA
+78,Delhi,"Nizamuddin, Delhi",31-12-15,NA,71,270,NA
+79,Delhi,"Shahzada Bagh, Delhi",01-01-15,4,67,397,110
+80,Delhi,"Shahzada Bagh, Delhi",06-01-15,4,55,250,155
+81,Delhi,"Shahzada Bagh, Delhi",09-01-15,4,65,344,163
+82,Delhi,"Shahzada Bagh, Delhi",14-01-15,4,61,258,144
+83,Delhi,"Shahzada Bagh, Delhi",19-01-15,4,58,351,135
+84,Delhi,"Shahzada Bagh, Delhi",22-01-15,NA,NA,NA,121
+85,Delhi,"Shahzada Bagh, Delhi",28-01-15,4,62,289,101
+86,Delhi,"Shahzada Bagh, Delhi",03-02-15,4,61,254,165
+87,Delhi,"Shahzada Bagh, Delhi",06-02-15,4,52,233,115
+88,Delhi,"Shahzada Bagh, Delhi",11-02-15,4,61,302,170
+89,Delhi,"Shahzada Bagh, Delhi",16-02-15,4,63,400,151
+90,Delhi,"Shahzada Bagh, Delhi",19-02-15,4,60,306,138
+91,Delhi,"Shahzada Bagh, Delhi",24-02-15,4,62,362,154
+92,Delhi,"Shahzada Bagh, Delhi",05-03-15,4,49,223,126
+93,Delhi,"Shahzada Bagh, Delhi",11-03-15,4,59,175,122
+94,Delhi,"Shahzada Bagh, Delhi",16-03-15,4,53,158,64
+95,Delhi,"Shahzada Bagh, Delhi",19-03-15,4,62,167,85
+96,Delhi,"Shahzada Bagh, Delhi",24-03-15,4,58,210,93
+97,Delhi,"Shahzada Bagh, Delhi",27-03-15,4,62,197,71
+98,Delhi,"Shahzada Bagh, Delhi",07-04-15,4,59,167,76
+99,Delhi,"Shahzada Bagh, Delhi",10-04-15,4,55,151,99
+100,Delhi,"Shahzada Bagh, Delhi",15-04-15,4,57,207,90
+101,Delhi,"Shahzada Bagh, Delhi",20-04-15,4,54,340,84
+102,Delhi,"Shahzada Bagh, Delhi",23-04-15,4,63,300,115
+103,Delhi,"Shahzada Bagh, Delhi",28-04-15,4,59,227,38
+104,Delhi,"Shahzada Bagh, Delhi",05-05-15,4,56,232,119
+105,Delhi,"Shahzada Bagh, Delhi",08-05-15,4,51,239,74
+106,Delhi,"Shahzada Bagh, Delhi",13-05-15,4,56,157,45
+107,Delhi,"Shahzada Bagh, Delhi",18-05-15,5,48,270,76
+108,Delhi,"Shahzada Bagh, Delhi",21-05-15,4,45,204,48
+109,Delhi,"Shahzada Bagh, Delhi",26-05-15,4,44,300,49
+110,Delhi,"Shahzada Bagh, Delhi",01-06-15,4,50,258,28
+111,Delhi,"Shahzada Bagh, Delhi",04-06-15,4,43,220,105
+112,Delhi,"Shahzada Bagh, Delhi",09-06-15,4,52,324,56
+113,Delhi,"Shahzada Bagh, Delhi",12-06-15,4,45,330,39
+114,Delhi,"Shahzada Bagh, Delhi",17-06-15,4,55,303,63
+115,Delhi,"Shahzada Bagh, Delhi",22-06-15,4,44,316,76
+116,Delhi,"Shahzada Bagh, Delhi",25-06-15,4,42,214,68
+117,Delhi,"Shahzada Bagh, Delhi",01-07-15,4,49,246,39
+118,Delhi,"Shahzada Bagh, Delhi",06-07-15,4,46,106,18
+119,Delhi,"Shahzada Bagh, Delhi",09-07-15,4,51,197,45
+120,Delhi,"Shahzada Bagh, Delhi",14-07-15,4,53,223,23
+121,Delhi,"Shahzada Bagh, Delhi",17-07-15,4,41,204,NA
+122,Delhi,"Shahzada Bagh, Delhi",22-07-15,4,45,289,32
+123,Delhi,"Shahzada Bagh, Delhi",27-07-15,4,45,219,18
+124,Delhi,"Shahzada Bagh, Delhi",30-07-15,4,44,218,14
+125,Delhi,"Shahzada Bagh, Delhi",05-08-15,4,37,104,51
+126,Delhi,"Shahzada Bagh, Delhi",10-08-15,NA,NA,NA,50
+127,Delhi,"Shahzada Bagh, Delhi",13-08-15,NA,NA,NA,54
+128,Delhi,"Shahzada Bagh, Delhi",18-08-15,NA,NA,NA,29
+129,Delhi,"Shahzada Bagh, Delhi",21-08-15,NA,NA,NA,29
+130,Delhi,"Shahzada Bagh, Delhi",26-08-15,NA,NA,NA,31
+131,Delhi,"Shahzada Bagh, Delhi",01-09-15,4,57,217,34
+132,Delhi,"Shahzada Bagh, Delhi",04-09-15,4,61,211,43
+133,Delhi,"Shahzada Bagh, Delhi",09-09-15,4,50,225,39
+134,Delhi,"Shahzada Bagh, Delhi",14-09-15,4,50,231,75
+135,Delhi,"Shahzada Bagh, Delhi",17-09-15,4,44,184,81
+136,Delhi,"Shahzada Bagh, Delhi",22-09-15,4,41,125,19
+137,Delhi,"Shahzada Bagh, Delhi",28-09-15,NA,NA,NA,99
+138,Delhi,"Shahzada Bagh, Delhi",05-10-15,4,58,249,106
+139,Delhi,"Shahzada Bagh, Delhi",08-10-15,4,58,250,85
+140,Delhi,"Shahzada Bagh, Delhi",13-10-15,4,50,247,72
+141,Delhi,"Shahzada Bagh, Delhi",16-10-15,4,60,327,318
+142,Delhi,"Shahzada Bagh, Delhi",21-10-15,4,59,289,142
+143,Delhi,"Shahzada Bagh, Delhi",27-10-15,4,53,173,161
+144,Delhi,"Shahzada Bagh, Delhi",02-11-15,4,53,371,162
+145,Delhi,"Shahzada Bagh, Delhi",04-11-15,4,63,445,123
+146,Delhi,"Shahzada Bagh, Delhi",10-11-15,NA,NA,NA,300
+147,Delhi,"Shahzada Bagh, Delhi",16-11-15,4,64,371,148
+148,Delhi,"Shahzada Bagh, Delhi",19-11-15,4,69,413,245
+149,Delhi,"Shahzada Bagh, Delhi",24-11-15,4,71,389,206
+150,Delhi,"Shahzada Bagh, Delhi",01-12-15,4,74,254,NA
+151,Delhi,"Shahzada Bagh, Delhi",04-12-15,4,72,298,NA
+152,Delhi,"Shahzada Bagh, Delhi",09-12-15,5,82,257,NA
+153,Delhi,"Shahzada Bagh, Delhi",14-12-15,5,85,242,NA
+154,Delhi,"Shahzada Bagh, Delhi",17-12-15,4,69,450,NA
+155,Delhi,"Shahzada Bagh, Delhi",29-12-15,5,52,309,NA
+156,Delhi,"Shahzada Bagh, Delhi",30-12-15,NA,NA,301,NA
+157,Delhi,"Shahadra, Delhi",07-01-15,4,61,289,151
+158,Delhi,"Shahadra, Delhi",12-01-15,4,61,425,147
+159,Delhi,"Shahadra, Delhi",15-01-15,4,59,266,152
+160,Delhi,"Shahadra, Delhi",20-01-15,4,65,272,139
+161,Delhi,"Shahadra, Delhi",23-01-15,4,59,165,99
+162,Delhi,"Shahadra, Delhi",29-01-15,8,59,222,NA
+163,Delhi,"Shahadra, Delhi",04-02-15,4,59,126,NA
+164,Delhi,"Shahadra, Delhi",09-02-15,4,54,276,78
+165,Delhi,"Shahadra, Delhi",12-02-15,4,52,214,172
+166,Delhi,"Shahadra, Delhi",17-02-15,4,56,343,155
+167,Delhi,"Shahadra, Delhi",20-02-15,4,61,287,107
+168,Delhi,"Shahadra, Delhi",25-02-15,4,54,263,138
+169,Delhi,"Shahadra, Delhi",03-03-15,4,59,113,64
+170,Delhi,"Shahadra, Delhi",09-03-15,4,57,234,55
+171,Delhi,"Shahadra, Delhi",12-03-15,4,58,294,69
+172,Delhi,"Shahadra, Delhi",17-03-15,4,60,238,42
+173,Delhi,"Shahadra, Delhi",20-03-15,4,50,155,62
+174,Delhi,"Shahadra, Delhi",25-03-15,4,60,232,98
+175,Delhi,"Shahadra, Delhi",30-03-15,4,63,145,45
+176,Delhi,"Shahadra, Delhi",08-04-15,4,59,166,48
+177,Delhi,"Shahadra, Delhi",13-04-15,4,52,224,64
+178,Delhi,"Shahadra, Delhi",16-04-15,4,52,248,52
+179,Delhi,"Shahadra, Delhi",21-04-15,4,57,334,46
+180,Delhi,"Shahadra, Delhi",24-04-15,4,53,355,94
+181,Delhi,"Shahadra, Delhi",29-04-15,4,51,352,NA
+182,Delhi,"Shahadra, Delhi",06-05-15,4,53,261,97
+183,Delhi,"Shahadra, Delhi",11-05-15,4,57,265,54
+184,Delhi,"Shahadra, Delhi",14-05-15,4,53,240,95
+185,Delhi,"Shahadra, Delhi",19-05-15,4,50,294,116
+186,Delhi,"Shahadra, Delhi",22-05-15,4,46,192,129
+187,Delhi,"Shahadra, Delhi",27-05-15,4,47,314,81
+188,Delhi,"Shahadra, Delhi",02-06-15,4,49,543,44
+189,Delhi,"Shahadra, Delhi",05-06-15,4,47,250,78
+190,Delhi,"Shahadra, Delhi",10-06-15,4,53,295,NA
+191,Delhi,"Shahadra, Delhi",15-06-15,4,50,261,93
+192,Delhi,"Shahadra, Delhi",18-06-15,4,48,254,100
+193,Delhi,"Shahadra, Delhi",23-06-15,4,48,166,86
+194,Delhi,"Shahadra, Delhi",26-06-15,4,50,266,NA
+195,Delhi,"Shahadra, Delhi",02-07-15,4,54,133,45
+196,Delhi,"Shahadra, Delhi",07-07-15,4,43,138,54
+197,Delhi,"Shahadra, Delhi",15-07-15,4,47,226,NA
+198,Delhi,"Shahadra, Delhi",20-07-15,4,44,126,NA
+199,Delhi,"Shahadra, Delhi",23-07-15,4,46,148,NA
+200,Delhi,"Shahadra, Delhi",28-07-15,4,40,221,NA
+201,Delhi,"Shahadra, Delhi",03-08-15,4,39,139,NA
+202,Delhi,"Shahadra, Delhi",06-08-15,4,40,267,NA
+203,Delhi,"Shahadra, Delhi",11-08-15,4,49,167,NA
+204,Delhi,"Shahadra, Delhi",14-08-15,4,43,151,NA
+205,Delhi,"Shahadra, Delhi",19-08-15,4,44,179,NA
+206,Delhi,"Shahadra, Delhi",24-08-15,4,44,66,NA
+207,Delhi,"Shahadra, Delhi",27-08-15,4,40,194,NA
+208,Delhi,"Shahadra, Delhi",02-09-15,4,51,179,NA
+209,Delhi,"Shahadra, Delhi",07-09-15,4,54,215,NA
+210,Delhi,"Shahadra, Delhi",10-09-15,4,47,215,NA
+211,Delhi,"Shahadra, Delhi",15-09-15,4,44,215,NA
+212,Delhi,"Shahadra, Delhi",18-09-15,4,50,265,NA
+213,Delhi,"Shahadra, Delhi",23-09-15,4,45,109,NA
+214,Delhi,"Shahadra, Delhi",29-09-15,4,44,229,NA
+215,Delhi,"Shahadra, Delhi",06-10-15,4,54,269,NA
+216,Delhi,"Shahadra, Delhi",09-10-15,4,56,249,NA
+217,Delhi,"Shahadra, Delhi",14-10-15,4,66,229,NA
+218,Delhi,"Shahadra, Delhi",19-10-15,4,54,276,NA
+219,Delhi,"Shahadra, Delhi",23-10-15,4,52,334,NA
+220,Delhi,"Shahadra, Delhi",28-10-15,4,62,269,NA
+221,Delhi,"Shahadra, Delhi",03-11-15,4,64,314,220
+222,Delhi,"Shahadra, Delhi",06-11-15,4,60,405,265
+223,Delhi,"Shahadra, Delhi",12-11-15,4,59,281,262
+224,Delhi,"Shahadra, Delhi",17-11-15,4,62,170,144
+225,Delhi,"Shahadra, Delhi",20-11-15,4,63,234,143
+226,Delhi,"Shahadra, Delhi",26-11-15,4,67,470,210
+227,Delhi,"Shahadra, Delhi",02-12-15,4,76,366,NA
+228,Delhi,"Shahadra, Delhi",07-12-15,4,82,581,NA
+229,Delhi,"Shahadra, Delhi",10-12-15,5,73,405,NA
+230,Delhi,"Shahadra, Delhi",15-12-15,5,87,292,NA
+231,Delhi,"Shahadra, Delhi",18-12-15,4,66,229,NA
+232,Delhi,"Shahadra, Delhi",23-12-15,NA,NA,NA,NA
+233,Delhi,"Shahadra, Delhi",31-12-15,14,49,335,NA
+234,Delhi,"Janakpuri, Delhi",07-01-15,4,47,143,62
+235,Delhi,"Janakpuri, Delhi",12-01-15,4,52,140,61
+236,Delhi,"Janakpuri, Delhi",15-01-15,4,45,187,56
+237,Delhi,"Janakpuri, Delhi",20-01-15,4,53,113,84
+238,Delhi,"Janakpuri, Delhi",23-01-15,4,50,120,109
+239,Delhi,"Janakpuri, Delhi",29-01-15,4,46,160,145
+240,Delhi,"Janakpuri, Delhi",04-02-15,4,44,150,70
+241,Delhi,"Janakpuri, Delhi",09-02-15,4,40,152,82
+242,Delhi,"Janakpuri, Delhi",12-02-15,4,35,168,134
+243,Delhi,"Janakpuri, Delhi",17-02-15,4,47,170,79
+244,Delhi,"Janakpuri, Delhi",20-02-15,4,44,145,61
+245,Delhi,"Janakpuri, Delhi",25-02-15,4,45,167,114
+246,Delhi,"Janakpuri, Delhi",03-03-15,4,47,142,110
+247,Delhi,"Janakpuri, Delhi",09-03-15,4,44,80,52
+248,Delhi,"Janakpuri, Delhi",12-03-15,4,48,215,96
+249,Delhi,"Janakpuri, Delhi",17-03-15,4,44,214,96
+250,Delhi,"Janakpuri, Delhi",20-03-15,4,47,190,111
+251,Delhi,"Janakpuri, Delhi",25-03-15,4,44,112,80
+252,Delhi,"Janakpuri, Delhi",30-03-15,4,46,145,127
+253,Delhi,"Janakpuri, Delhi",08-04-15,4,44,175,89
+254,Delhi,"Janakpuri, Delhi",13-04-15,4,48,169,72
+255,Delhi,"Janakpuri, Delhi",16-04-15,4,48,190,65
+256,Delhi,"Janakpuri, Delhi",21-04-15,4,47,207,68
+257,Delhi,"Janakpuri, Delhi",24-04-15,4,48,180,39
+258,Delhi,"Janakpuri, Delhi",29-04-15,4,49,212,50
+259,Delhi,"Janakpuri, Delhi",06-05-15,4,47,121,48
+260,Delhi,"Janakpuri, Delhi",11-05-15,4,48,59,NA
+261,Delhi,"Janakpuri, Delhi",14-05-15,4,47,141,117
+262,Delhi,"Janakpuri, Delhi",19-05-15,4,52,102,NA
+263,Delhi,"Janakpuri, Delhi",22-05-15,4,49,129,58
+264,Delhi,"Janakpuri, Delhi",27-05-15,4,49,147,62
+265,Delhi,"Janakpuri, Delhi",02-06-15,4,52,74,NA
+266,Delhi,"Janakpuri, Delhi",05-06-15,4,60,137,118
+267,Delhi,"Janakpuri, Delhi",10-06-15,4,51,118,59
+268,Delhi,"Janakpuri, Delhi",15-06-15,4,58,74,NA
+269,Delhi,"Janakpuri, Delhi",18-06-15,4,55,206,111
+270,Delhi,"Janakpuri, Delhi",23-06-15,4,51,191,98
+271,Delhi,"Janakpuri, Delhi",26-06-15,4,55,215,74
+272,Delhi,"Janakpuri, Delhi",02-07-15,4,52,206,94
+273,Delhi,"Janakpuri, Delhi",07-07-15,4,52,166,56
+274,Delhi,"Janakpuri, Delhi",15-07-15,4,52,181,139
+275,Delhi,"Janakpuri, Delhi",20-07-15,4,53,333,67
+276,Delhi,"Janakpuri, Delhi",23-07-15,4,52,195,93
+277,Delhi,"Janakpuri, Delhi",28-07-15,4,51,232,80
+278,Delhi,"Janakpuri, Delhi",03-08-15,4,49,212,43
+279,Delhi,"Janakpuri, Delhi",06-08-15,4,46,174,93
+280,Delhi,"Janakpuri, Delhi",11-08-15,4,54,165,103
+281,Delhi,"Janakpuri, Delhi",14-08-15,4,53,163,68
+282,Delhi,"Janakpuri, Delhi",19-08-15,4,51,125,79
+283,Delhi,"Janakpuri, Delhi",24-08-15,4,54,161,142
+284,Delhi,"Janakpuri, Delhi",27-08-15,4,50,239,62
+285,Delhi,"Janakpuri, Delhi",02-09-15,4,53,195,117
+286,Delhi,"Janakpuri, Delhi",07-09-15,4,51,197,90
+287,Delhi,"Janakpuri, Delhi",10-09-15,4,51,261,148
+288,Delhi,"Janakpuri, Delhi",15-09-15,4,48,152,81
+289,Delhi,"Janakpuri, Delhi",18-09-15,4,51,100,87
+290,Delhi,"Janakpuri, Delhi",23-09-15,4,52,244,120
+291,Delhi,"Janakpuri, Delhi",29-09-15,4,50,195,76
+292,Delhi,"Janakpuri, Delhi",06-10-15,4,52,226,86
+293,Delhi,"Janakpuri, Delhi",09-10-15,4,54,245,59
+294,Delhi,"Janakpuri, Delhi",14-10-15,4,56,246,52
+295,Delhi,"Janakpuri, Delhi",19-10-15,4,56,192,70
+296,Delhi,"Janakpuri, Delhi",23-10-15,4,47,255,218
+297,Delhi,"Janakpuri, Delhi",28-10-15,4,52,313,94
+298,Delhi,"Janakpuri, Delhi",03-11-15,4,50,284,222
+299,Delhi,"Janakpuri, Delhi",05-11-15,12,45,119,84
+300,Delhi,"Janakpuri, Delhi",09-11-15,9,49,403,194
+301,Delhi,"Janakpuri, Delhi",12-11-15,4,53,163,69
+302,Delhi,"Janakpuri, Delhi",17-11-15,4,51,176,89
+303,Delhi,"Janakpuri, Delhi",20-11-15,4,57,340,123
+304,Delhi,"Janakpuri, Delhi",26-11-15,4,58,346,96
+305,Delhi,"Janakpuri, Delhi",02-12-15,4,53,423,NA
+306,Delhi,"Janakpuri, Delhi",07-12-15,4,50,443,NA
+307,Delhi,"Janakpuri, Delhi",10-12-15,4,59,346,NA
+308,Delhi,"Janakpuri, Delhi",15-12-15,5,67,638,NA
+309,Delhi,"Janakpuri, Delhi",18-12-15,4,58,260,NA
+310,Delhi,"Janakpuri, Delhi",23-12-15,4,56,140,NA
+311,Delhi,"Janakpuri, Delhi",30-12-15,19,63,283,NA
+312,Delhi,"Siri Fort, Delhi",01-01-15,4,53,173,NA
+313,Delhi,"Siri Fort, Delhi",06-01-15,4,51,192,86
+314,Delhi,"Siri Fort, Delhi",09-01-15,4,57,197,126
+315,Delhi,"Siri Fort, Delhi",14-01-15,4,47,101,156
+316,Delhi,"Siri Fort, Delhi",19-01-15,4,48,237,172
+317,Delhi,"Siri Fort, Delhi",28-01-15,4,47,130,NA
+318,Delhi,"Siri Fort, Delhi",03-02-15,4,29,102,62
+319,Delhi,"Siri Fort, Delhi",06-02-15,4,41,174,70
+320,Delhi,"Siri Fort, Delhi",11-02-15,4,40,146,125
+321,Delhi,"Siri Fort, Delhi",16-02-15,4,43,144,59
+322,Delhi,"Siri Fort, Delhi",19-02-15,4,43,140,84
+323,Delhi,"Siri Fort, Delhi",24-02-15,4,43,181,98
+324,Delhi,"Siri Fort, Delhi",05-03-15,4,45,88,NA
+325,Delhi,"Siri Fort, Delhi",11-03-15,4,41,161,110
+326,Delhi,"Siri Fort, Delhi",16-03-15,4,45,171,119
+327,Delhi,"Siri Fort, Delhi",19-03-15,4,49,165,97
+328,Delhi,"Siri Fort, Delhi",24-03-15,4,42,149,100
+329,Delhi,"Siri Fort, Delhi",27-03-15,4,43,175,93
+330,Delhi,"Siri Fort, Delhi",07-04-15,4,53,173,61
+331,Delhi,"Siri Fort, Delhi",10-04-15,4,42,140,49
+332,Delhi,"Siri Fort, Delhi",15-04-15,4,49,171,56
+333,Delhi,"Siri Fort, Delhi",20-04-15,4,56,242,75
+334,Delhi,"Siri Fort, Delhi",23-04-15,4,50,195,60
+335,Delhi,"Siri Fort, Delhi",28-04-15,4,45,188,NA
+336,Delhi,"Siri Fort, Delhi",05-05-15,4,46,137,83
+337,Delhi,"Siri Fort, Delhi",08-05-15,4,48,120,73
+338,Delhi,"Siri Fort, Delhi",13-05-15,4,44,50,27
+339,Delhi,"Siri Fort, Delhi",18-05-15,4,50,89,80
+340,Delhi,"Siri Fort, Delhi",21-05-15,4,49,61,46
+341,Delhi,"Siri Fort, Delhi",26-05-15,4,49,110,97
+342,Delhi,"Siri Fort, Delhi",01-06-15,4,45,151,28
+343,Delhi,"Siri Fort, Delhi",04-06-15,4,56,195,93
+344,Delhi,"Siri Fort, Delhi",09-06-15,4,54,167,126
+345,Delhi,"Siri Fort, Delhi",12-06-15,4,50,143,119
+346,Delhi,"Siri Fort, Delhi",17-06-15,4,51,121,34
+347,Delhi,"Siri Fort, Delhi",22-06-15,4,51,73,NA
+348,Delhi,"Siri Fort, Delhi",25-06-15,4,44,111,38
+349,Delhi,"Siri Fort, Delhi",01-07-15,NA,NA,NA,67
+350,Delhi,"Siri Fort, Delhi",09-07-15,4,50,177,NA
+351,Delhi,"Siri Fort, Delhi",14-07-15,4,53,171,102
+352,Delhi,"Siri Fort, Delhi",17-07-15,4,46,191,75
+353,Delhi,"Siri Fort, Delhi",22-07-15,4,52,158,44
+354,Delhi,"Siri Fort, Delhi",27-07-15,4,55,292,131
+355,Delhi,"Siri Fort, Delhi",30-07-15,4,53,179,89
+356,Delhi,"Siri Fort, Delhi",05-08-15,4,50,124,61
+357,Delhi,"Siri Fort, Delhi",10-08-15,4,50,186,87
+358,Delhi,"Siri Fort, Delhi",13-08-15,4,53,197,95
+359,Delhi,"Siri Fort, Delhi",18-08-15,4,48,189,62
+360,Delhi,"Siri Fort, Delhi",21-08-15,4,48,208,84
+361,Delhi,"Siri Fort, Delhi",26-08-15,4,49,150,71
+362,Delhi,"Siri Fort, Delhi",01-09-15,4,50,181,74
+363,Delhi,"Siri Fort, Delhi",04-09-15,4,50,146,93
+364,Delhi,"Siri Fort, Delhi",09-09-15,NA,NA,NA,80
+365,Delhi,"Siri Fort, Delhi",14-09-15,4,49,152,87
+366,Delhi,"Siri Fort, Delhi",17-09-15,4,48,92,NA
+367,Delhi,"Siri Fort, Delhi",22-09-15,4,51,244,94
+368,Delhi,"Siri Fort, Delhi",28-09-15,4,47,123,64
+369,Delhi,"Siri Fort, Delhi",05-10-15,4,51,258,58
+370,Delhi,"Siri Fort, Delhi",08-10-15,4,56,177,87
+371,Delhi,"Siri Fort, Delhi",13-10-15,4,54,184,80
+372,Delhi,"Siri Fort, Delhi",16-10-15,4,44,281,110
+373,Delhi,"Siri Fort, Delhi",21-10-15,4,51,252,87
+374,Delhi,"Siri Fort, Delhi",27-10-15,4,59,385,101
+375,Delhi,"Siri Fort, Delhi",02-11-15,4,53,190,125
+376,Delhi,"Siri Fort, Delhi",06-11-15,4,52,231,135
+377,Delhi,"Siri Fort, Delhi",16-11-15,4,52,211,115
+378,Delhi,"Siri Fort, Delhi",19-11-15,4,56,332,236
+379,Delhi,"Siri Fort, Delhi",24-11-15,4,51,343,126
+380,Delhi,"Siri Fort, Delhi",01-12-15,4,55,243,NA
+381,Delhi,"Siri Fort, Delhi",04-12-15,4,49,595,NA
+382,Delhi,"Siri Fort, Delhi",09-12-15,4,56,349,NA
+383,Delhi,"Siri Fort, Delhi",17-12-15,4,57,288,NA
+384,Delhi,"Siri Fort, Delhi",22-12-15,4,58,326,NA
+385,Delhi,"Siri Fort, Delhi",30-12-15,8,75,331,NA
+386,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",06-01-15,3,73,242,NA
+387,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",07-01-15,2,84,184,NA
+388,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",08-01-15,2,86,211,NA
+389,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",14-01-15,8,117,162,NA
+390,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",15-01-15,10,107,179,NA
+391,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",16-01-15,9,109,173,NA
+392,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",04-02-15,4,84,143,NA
+393,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",05-02-15,6,91,208,NA
+394,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",17-02-15,2,132,251,NA
+395,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",18-02-15,2,133,221,NA
+396,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",19-02-15,3,79,184,NA
+397,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",24-02-15,8,82,186,NA
+398,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",25-02-15,9,66,160,NA
+399,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",26-02-15,8,84,136,NA
+400,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",10-03-15,8,120,120,NA
+401,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",11-03-15,2,125,166,NA
+402,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",17-03-15,3,33,89,NA
+403,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",18-03-15,5,64,61,NA
+404,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",19-03-15,4,116,94,NA
+405,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",24-03-15,7,128,143,NA
+406,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",25-03-15,2,152,211,NA
+407,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",26-03-15,2,95,265,NA
+408,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",01-04-15,13,87,117,NA
+409,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",02-04-15,4,68,62,NA
+410,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",14-04-15,4,67,98,NA
+411,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",15-04-15,4,76,142,NA
+412,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",16-04-15,12,81,84,NA
+413,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",27-04-15,3,53,241,NA
+414,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",28-04-15,5,65,97,NA
+415,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",29-04-15,4,75,148,NA
+416,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",06-05-15,2,110,239,NA
+417,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",07-05-15,3,95,163,NA
+418,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",08-05-15,4,115,213,NA
+419,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",12-05-15,9,87,140,NA
+420,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",13-05-15,8,72,57,NA
+421,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",14-05-15,9,133,136,NA
+422,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",18-05-15,22,133,173,NA
+423,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",19-05-15,10,108,175,NA
+424,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",09-06-15,7,43,200,NA
+425,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",10-06-15,10,31,171,NA
+426,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",11-06-15,25,42,88,NA
+427,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",16-06-15,4,76,96,NA
+428,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",17-06-15,8,111,112,NA
+429,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",18-06-15,6,85,127,NA
+430,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",25-06-15,4,48,62,NA
+431,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",26-06-15,2,54,61,NA
+432,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",14-07-15,6,49,41,NA
+433,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",15-07-15,2,31,77,NA
+434,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",16-07-15,8,38,62,NA
+435,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",21-07-15,2,25,39,NA
+436,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",22-07-15,2,28,33,NA
+437,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",23-07-15,2,33,32,NA
+438,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",28-07-15,3,25,22,NA
+439,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",29-07-15,2,18,18,NA
+440,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",12-08-15,2,52,59,NA
+441,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",13-08-15,3,66,49,NA
+442,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",21-08-15,3,75,45,NA
+443,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",22-08-15,2,73,79,NA
+444,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",23-08-15,2,67,56,NA
+445,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",25-08-15,2,70,48,NA
+446,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",26-08-15,3,63,44,NA
+447,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",27-08-15,3,81,57,NA
+448,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",08-09-15,3,49,67,NA
+449,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",09-09-15,2,63,56,NA
+450,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",10-09-15,3,57,48,NA
+451,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",15-09-15,3,60,77,NA
+452,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",16-09-15,4,82,109,NA
+453,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",17-09-15,6,59,76,NA
+454,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",22-09-15,2,49,37,NA
+455,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",23-09-15,2,60,37,NA
+456,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",13-10-15,20,93,88,NA
+457,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",14-10-15,26,124,92,NA
+458,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",19-10-15,12,122,164,NA
+459,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",20-10-15,11,91,193,NA
+460,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",21-10-15,4,76,133,NA
+461,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",27-10-15,5,118,124,NA
+462,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",28-10-15,12,108,80,NA
+463,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",29-10-15,13,115,107,NA
+464,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",07-11-15,23,126,305,NA
+465,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",08-11-15,46,114,235,NA
+466,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",18-11-15,9,134,224,NA
+467,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",19-11-15,11,141,354,NA
+468,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",20-11-15,8,145,315,NA
+469,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",27-11-15,12,97,282,NA
+470,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",28-11-15,12,97,353,NA
+471,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",29-11-15,25,120,352,NA
+472,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",02-12-15,3,140,271,NA
+473,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",03-12-15,5,112,306,NA
+474,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",09-12-15,3,123,273,NA
+475,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",10-12-15,2,122,280,NA
+476,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",16-12-15,2,161,284,NA
+477,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",17-12-15,2,208,386,NA
+478,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",29-12-15,21,152,253,NA
+479,Delhi,"N.Y. SCHOOL, Sarojini Nagar, Delhi",30-12-15,19,145,311,NA
+480,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",06-01-15,6,90,236,NA
+481,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",07-01-15,4,89,269,NA
+482,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",27-01-15,2,78,271,NA
+483,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",28-01-15,3,72,280,NA
+484,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",29-01-15,2,101,279,NA
+485,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",04-02-15,9,102,163,NA
+486,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",05-02-15,6,130,301,NA
+487,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",10-02-15,2,179,266,NA
+488,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",11-02-15,2,147,263,NA
+489,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",12-02-15,3,132,258,NA
+490,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",17-02-15,9,126,297,NA
+491,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",18-02-15,6,105,274,NA
+492,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",19-02-15,8,61,207,NA
+493,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",03-03-15,2,95,92,NA
+494,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",04-03-15,4,137,128,NA
+495,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",10-03-15,5,103,132,NA
+496,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",11-03-15,3,101,182,NA
+497,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",12-03-15,10,139,165,NA
+498,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",24-03-15,7,115,185,NA
+499,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",25-03-15,9,136,226,NA
+500,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",26-03-15,3,85,130,NA
+501,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",07-04-15,17,108,162,NA
+502,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",08-04-15,3,98,214,NA
+503,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",09-04-15,11,104,292,NA
+504,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",20-04-15,3,145,499,NA
+505,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",21-04-15,5,148,382,NA
+506,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",22-04-15,3,138,292,NA
+507,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",23-04-15,3,137,369,NA
+508,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",24-04-15,3,125,409,NA
+509,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",06-05-15,4,123,342,NA
+510,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",07-05-15,2,77,250,NA
+511,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",08-05-15,6,104,270,NA
+512,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",19-05-15,12,93,211,NA
+513,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",20-05-15,11,117,173,NA
+514,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",21-05-15,2,114,174,NA
+515,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",26-05-15,13,93,219,NA
+516,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",27-05-15,10,108,393,NA
+517,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",02-06-15,6,116,142,NA
+518,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",03-06-15,8,92,93,NA
+519,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",04-06-15,17,114,176,NA
+520,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",09-06-15,12,35,224,NA
+521,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",10-06-15,12,50,184,NA
+522,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",11-06-15,12,66,157,NA
+523,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",23-06-15,15,83,138,NA
+524,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",24-06-15,3,62,53,NA
+525,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",01-07-15,2,29,72,NA
+526,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",02-07-15,2,33,89,NA
+527,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",07-07-15,11,97,63,NA
+528,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",08-07-15,4,102,78,NA
+529,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",09-07-15,2,80,62,NA
+530,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",14-07-15,2,30,77,NA
+531,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",15-07-15,2,48,111,NA
+532,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",16-07-15,8,43,88,NA
+533,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",04-08-15,2,50,39,NA
+534,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",05-08-15,2,71,54,NA
+535,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",06-08-15,2,47,53,NA
+536,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",18-08-15,2,54,38,NA
+537,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",19-08-15,2,38,41,NA
+538,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",20-08-15,2,52,57,NA
+539,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",25-08-15,2,77,89,NA
+540,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",26-08-15,2,75,65,NA
+541,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",01-09-15,2,47,110,NA
+542,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",02-09-15,2,40,134,NA
+543,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",03-09-15,4,80,149,NA
+544,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",08-09-15,4,107,81,NA
+545,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",09-09-15,2,88,109,NA
+546,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",10-09-15,2,113,97,NA
+547,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",22-09-15,2,46,33,NA
+548,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",23-09-15,2,73,58,NA
+549,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",06-10-15,7,124,139,NA
+550,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",07-10-15,8,115,173,NA
+551,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",08-10-15,5,118,149,NA
+552,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",13-10-15,8,110,98,NA
+553,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",14-10-15,13,110,121,NA
+554,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",15-10-15,9,121,178,NA
+555,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",19-10-15,19,162,296,NA
+556,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",03-11-15,32,155,457,NA
+557,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",04-11-15,38,137,260,NA
+558,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",05-11-15,18,145,101,NA
+559,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",18-11-15,26,183,377,NA
+560,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",19-11-15,17,188,353,NA
+561,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",24-11-15,9,183,225,NA
+562,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",25-11-15,37,173,295,NA
+563,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",26-11-15,39,207,305,NA
+564,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",08-12-15,3,182,435,NA
+565,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",09-12-15,3,151,335,NA
+566,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",10-12-15,2,159,289,NA
+567,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",15-12-15,5,136,264,NA
+568,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",16-12-15,13,178,346,NA
+569,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",17-12-15,3,174,346,NA
+570,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",29-12-15,2,130,271,NA
+571,Delhi,"Town Hall, Ayurvedic Dispensary, Chandni Chowk, Delhi",30-12-15,2,161,318,NA
+572,Delhi,"Mayapuri Industrial Area, Delhi",14-01-15,9,99,344,NA
+573,Delhi,"Mayapuri Industrial Area, Delhi",15-01-15,10,98,304,NA
+574,Delhi,"Mayapuri Industrial Area, Delhi",16-01-15,8,122,374,NA
+575,Delhi,"Mayapuri Industrial Area, Delhi",27-01-15,2,66,224,NA
+576,Delhi,"Mayapuri Industrial Area, Delhi",28-01-15,6,82,270,NA
+577,Delhi,"Mayapuri Industrial Area, Delhi",29-01-15,7,76,251,NA
+578,Delhi,"Mayapuri Industrial Area, Delhi",30-01-15,16,66,234,NA
+579,Delhi,"Mayapuri Industrial Area, Delhi",10-02-15,3,133,293,NA
+580,Delhi,"Mayapuri Industrial Area, Delhi",11-02-15,4,112,356,NA
+581,Delhi,"Mayapuri Industrial Area, Delhi",12-02-15,5,115,312,NA
+582,Delhi,"Mayapuri Industrial Area, Delhi",21-02-15,3,113,257,NA
+583,Delhi,"Mayapuri Industrial Area, Delhi",22-02-15,6,88,269,NA
+584,Delhi,"Mayapuri Industrial Area, Delhi",24-02-15,17,99,286,NA
+585,Delhi,"Mayapuri Industrial Area, Delhi",25-02-15,10,85,322,NA
+586,Delhi,"Mayapuri Industrial Area, Delhi",26-02-15,10,104,333,NA
+587,Delhi,"Mayapuri Industrial Area, Delhi",03-03-15,7,130,165,NA
+588,Delhi,"Mayapuri Industrial Area, Delhi",04-03-15,4,95,254,NA
+589,Delhi,"Mayapuri Industrial Area, Delhi",13-03-15,17,139,248,NA
+590,Delhi,"Mayapuri Industrial Area, Delhi",14-03-15,3,63,117,NA
+591,Delhi,"Mayapuri Industrial Area, Delhi",15-03-15,3,97,89,NA
+592,Delhi,"Mayapuri Industrial Area, Delhi",17-03-15,2,52,152,NA
+593,Delhi,"Mayapuri Industrial Area, Delhi",18-03-15,3,100,173,NA
+594,Delhi,"Mayapuri Industrial Area, Delhi",19-03-15,5,77,207,NA
+595,Delhi,"Mayapuri Industrial Area, Delhi",07-04-15,25,118,202,NA
+596,Delhi,"Mayapuri Industrial Area, Delhi",08-04-15,5,114,215,NA
+597,Delhi,"Mayapuri Industrial Area, Delhi",09-04-15,5,127,287,NA
+598,Delhi,"Mayapuri Industrial Area, Delhi",14-04-15,15,120,260,NA
+599,Delhi,"Mayapuri Industrial Area, Delhi",15-04-15,13,112,308,NA
+600,Delhi,"Mayapuri Industrial Area, Delhi",16-04-15,30,106,150,NA
+601,Delhi,"Mayapuri Industrial Area, Delhi",21-04-15,3,112,406,NA
+602,Delhi,"Mayapuri Industrial Area, Delhi",22-04-15,13,131,379,NA
+603,Delhi,"Mayapuri Industrial Area, Delhi",12-05-15,17,102,448,NA
+604,Delhi,"Mayapuri Industrial Area, Delhi",13-05-15,8,80,110,NA
+605,Delhi,"Mayapuri Industrial Area, Delhi",14-05-15,17,83,300,NA
+606,Delhi,"Mayapuri Industrial Area, Delhi",25-05-15,2,100,892,NA
+607,Delhi,"Mayapuri Industrial Area, Delhi",26-05-15,2,63,388,NA
+608,Delhi,"Mayapuri Industrial Area, Delhi",27-05-15,5,94,602,NA
+609,Delhi,"Mayapuri Industrial Area, Delhi",29-05-15,2,100,366,NA
+610,Delhi,"Mayapuri Industrial Area, Delhi",30-05-15,2,104,408,NA
+611,Delhi,"Mayapuri Industrial Area, Delhi",02-06-15,2,94,205,NA
+612,Delhi,"Mayapuri Industrial Area, Delhi",03-06-15,2,87,163,NA
+613,Delhi,"Mayapuri Industrial Area, Delhi",04-06-15,19,111,274,NA
+614,Delhi,"Mayapuri Industrial Area, Delhi",16-06-15,2,76,174,NA
+615,Delhi,"Mayapuri Industrial Area, Delhi",17-06-15,2,109,200,NA
+616,Delhi,"Mayapuri Industrial Area, Delhi",18-06-15,2,106,236,NA
+617,Delhi,"Mayapuri Industrial Area, Delhi",23-06-15,11,74,286,NA
+618,Delhi,"Mayapuri Industrial Area, Delhi",24-06-15,4,57,105,NA
+619,Delhi,"Mayapuri Industrial Area, Delhi",01-07-15,2,23,164,NA
+620,Delhi,"Mayapuri Industrial Area, Delhi",02-07-15,2,32,191,NA
+621,Delhi,"Mayapuri Industrial Area, Delhi",07-07-15,6,66,113,NA
+622,Delhi,"Mayapuri Industrial Area, Delhi",08-07-15,2,88,111,NA
+623,Delhi,"Mayapuri Industrial Area, Delhi",09-07-15,4,78,77,NA
+624,Delhi,"Mayapuri Industrial Area, Delhi",21-07-15,3,54,56,NA
+625,Delhi,"Mayapuri Industrial Area, Delhi",22-07-15,2,45,122,NA
+626,Delhi,"Mayapuri Industrial Area, Delhi",23-07-15,6,51,116,NA
+627,Delhi,"Mayapuri Industrial Area, Delhi",04-08-15,2,53,140,NA
+628,Delhi,"Mayapuri Industrial Area, Delhi",05-08-15,2,72,75,NA
+629,Delhi,"Mayapuri Industrial Area, Delhi",06-08-15,2,53,71,NA
+630,Delhi,"Mayapuri Industrial Area, Delhi",10-08-15,2,110,80,NA
+631,Delhi,"Mayapuri Industrial Area, Delhi",11-08-15,4,70,51,NA
+632,Delhi,"Mayapuri Industrial Area, Delhi",12-08-15,4,77,100,NA
+633,Delhi,"Mayapuri Industrial Area, Delhi",17-08-15,2,71,114,NA
+634,Delhi,"Mayapuri Industrial Area, Delhi",18-08-15,2,66,91,NA
+635,Delhi,"Mayapuri Industrial Area, Delhi",01-09-15,2,70,171,NA
+636,Delhi,"Mayapuri Industrial Area, Delhi",02-09-15,2,85,203,NA
+637,Delhi,"Mayapuri Industrial Area, Delhi",03-09-15,2,64,264,NA
+638,Delhi,"Mayapuri Industrial Area, Delhi",15-09-15,3,79,238,NA
+639,Delhi,"Mayapuri Industrial Area, Delhi",16-09-15,6,107,304,NA
+640,Delhi,"Mayapuri Industrial Area, Delhi",17-09-15,6,76,214,NA
+641,Delhi,"Mayapuri Industrial Area, Delhi",28-09-15,4,71,131,NA
+642,Delhi,"Mayapuri Industrial Area, Delhi",29-09-15,7,46,173,NA
+643,Delhi,"Mayapuri Industrial Area, Delhi",06-10-15,3,51,240,NA
+644,Delhi,"Mayapuri Industrial Area, Delhi",07-10-15,12,69,236,NA
+645,Delhi,"Mayapuri Industrial Area, Delhi",08-10-15,4,70,193,NA
+646,Delhi,"Mayapuri Industrial Area, Delhi",23-10-15,19,121,365,NA
+647,Delhi,"Mayapuri Industrial Area, Delhi",24-10-15,17,108,400,NA
+648,Delhi,"Mayapuri Industrial Area, Delhi",27-10-15,12,76,366,NA
+649,Delhi,"Mayapuri Industrial Area, Delhi",28-10-15,18,97,274,NA
+650,Delhi,"Mayapuri Industrial Area, Delhi",29-10-15,23,124,252,NA
+651,Delhi,"Mayapuri Industrial Area, Delhi",03-11-15,45,171,458,NA
+652,Delhi,"Mayapuri Industrial Area, Delhi",04-11-15,21,172,321,NA
+653,Delhi,"Mayapuri Industrial Area, Delhi",05-11-15,26,105,163,NA
+654,Delhi,"Mayapuri Industrial Area, Delhi",24-11-15,26,142,455,NA
+655,Delhi,"Mayapuri Industrial Area, Delhi",25-11-15,46,169,435,NA
+656,Delhi,"Mayapuri Industrial Area, Delhi",26-11-15,18,224,392,NA
+657,Delhi,"Mayapuri Industrial Area, Delhi",27-11-15,36,130,311,NA
+658,Delhi,"Mayapuri Industrial Area, Delhi",28-11-15,26,127,346,NA
+659,Delhi,"Mayapuri Industrial Area, Delhi",02-12-15,9,148,369,NA
+660,Delhi,"Mayapuri Industrial Area, Delhi",03-12-15,12,136,236,NA
+661,Delhi,"Mayapuri Industrial Area, Delhi",07-12-15,4,160,430,NA
+662,Delhi,"Mayapuri Industrial Area, Delhi",08-12-15,2,159,451,NA
+663,Delhi,"Mayapuri Industrial Area, Delhi",14-12-15,2,99,321,NA
+664,Delhi,"Mayapuri Industrial Area, Delhi",15-12-15,8,106,375,NA
+665,Delhi,"Mayapuri Industrial Area, Delhi",21-12-15,2,199,573,NA
+666,Delhi,"Mayapuri Industrial Area, Delhi",22-12-15,28,223,616,NA
+667,Delhi,"Pritampura, Delhi",05-01-15,4,35,221,141
+668,Delhi,"Pritampura, Delhi",08-01-15,4,38,171,139
+669,Delhi,"Pritampura, Delhi",13-01-15,4,34,242,121
+670,Delhi,"Pritampura, Delhi",16-01-15,4,40,202,NA
+671,Delhi,"Pritampura, Delhi",21-01-15,4,35,277,127
+672,Delhi,"Pritampura, Delhi",27-01-15,4,34,170,129
+673,Delhi,"Pritampura, Delhi",02-02-15,4,35,393,184
+674,Delhi,"Pritampura, Delhi",05-02-15,4,33,282,177
+675,Delhi,"Pritampura, Delhi",10-02-15,4,35,156,120
+676,Delhi,"Pritampura, Delhi",13-02-15,4,36,190,NA
+677,Delhi,"Pritampura, Delhi",18-02-15,4,34,243,150
+678,Delhi,"Pritampura, Delhi",23-02-15,4,35,257,138
+679,Delhi,"Pritampura, Delhi",04-03-15,4,33,227,93
+680,Delhi,"Pritampura, Delhi",10-03-15,4,36,99,NA
+681,Delhi,"Pritampura, Delhi",13-03-15,4,35,225,102
+682,Delhi,"Pritampura, Delhi",18-03-15,4,28,121,73
+683,Delhi,"Pritampura, Delhi",23-03-15,4,31,98,69
+684,Delhi,"Pritampura, Delhi",26-03-15,4,32,171,60
+685,Delhi,"Pritampura, Delhi",01-04-15,4,31,116,81
+686,Delhi,"Pritampura, Delhi",09-04-15,4,34,127,85
+687,Delhi,"Pritampura, Delhi",17-04-15,4,31,194,76
+688,Delhi,"Pritampura, Delhi",22-04-15,4,33,209,88
+689,Delhi,"Pritampura, Delhi",27-04-15,4,37,205,64
+690,Delhi,"Pritampura, Delhi",01-05-15,4,35,233,NA
+691,Delhi,"Pritampura, Delhi",07-05-15,4,35,253,89
+692,Delhi,"Pritampura, Delhi",12-05-15,4,35,235,116
+693,Delhi,"Pritampura, Delhi",15-05-15,4,34,225,56
+694,Delhi,"Pritampura, Delhi",20-05-15,4,31,237,71
+695,Delhi,"Pritampura, Delhi",25-05-15,4,30,246,86
+696,Delhi,"Pritampura, Delhi",28-05-15,4,31,267,108
+697,Delhi,"Pritampura, Delhi",03-06-15,4,35,258,75
+698,Delhi,"Pritampura, Delhi",08-06-15,4,33,167,156
+699,Delhi,"Pritampura, Delhi",11-06-15,4,34,229,94
+700,Delhi,"Pritampura, Delhi",16-06-15,4,34,228,95
+701,Delhi,"Pritampura, Delhi",19-06-15,4,32,254,88
+702,Delhi,"Pritampura, Delhi",24-06-15,4,33,198,64
+703,Delhi,"Pritampura, Delhi",29-06-15,4,32,194,140
+704,Delhi,"Pritampura, Delhi",03-07-15,4,31,252,108
+705,Delhi,"Pritampura, Delhi",08-07-15,4,32,215,67
+706,Delhi,"Pritampura, Delhi",13-07-15,4,34,243,42
+707,Delhi,"Pritampura, Delhi",16-07-15,4,31,226,94
+708,Delhi,"Pritampura, Delhi",21-07-15,4,29,146,44
+709,Delhi,"Pritampura, Delhi",24-07-15,4,29,101,92
+710,Delhi,"Pritampura, Delhi",29-07-15,4,28,416,124
+711,Delhi,"Pritampura, Delhi",04-08-15,4,28,171,51
+712,Delhi,"Pritampura, Delhi",07-08-15,4,29,162,57
+713,Delhi,"Pritampura, Delhi",12-08-15,4,32,306,117
+714,Delhi,"Pritampura, Delhi",17-08-15,4,29,184,51
+715,Delhi,"Pritampura, Delhi",20-08-15,4,33,156,115
+716,Delhi,"Pritampura, Delhi",25-08-15,4,35,158,42
+717,Delhi,"Pritampura, Delhi",28-08-15,4,35,253,38
+718,Delhi,"Pritampura, Delhi",03-09-15,4,33,164,150
+719,Delhi,"Pritampura, Delhi",08-09-15,4,30,189,114
+720,Delhi,"Pritampura, Delhi",11-09-15,4,32,228,169
+721,Delhi,"Pritampura, Delhi",16-09-15,4,31,199,135
+722,Delhi,"Pritampura, Delhi",21-09-15,4,30,196,54
+723,Delhi,"Pritampura, Delhi",24-09-15,4,30,277,172
+724,Delhi,"Pritampura, Delhi",01-10-15,4,33,237,NA
+725,Delhi,"Pritampura, Delhi",07-10-15,4,33,204,151
+726,Delhi,"Pritampura, Delhi",12-10-15,4,36,210,138
+727,Delhi,"Pritampura, Delhi",15-10-15,4,38,234,104
+728,Delhi,"Pritampura, Delhi",20-10-15,4,35,427,179
+729,Delhi,"Pritampura, Delhi",26-10-15,4,31,411,136
+730,Delhi,"Pritampura, Delhi",29-10-15,4,36,450,225
+731,Delhi,"Pritampura, Delhi",05-11-15,21,72,161,117
+732,Delhi,"Pritampura, Delhi",09-11-15,21,77,334,197
+733,Delhi,"Pritampura, Delhi",13-11-15,4,41,504,192
+734,Delhi,"Pritampura, Delhi",18-11-15,4,54,360,241
+735,Delhi,"Pritampura, Delhi",23-11-15,4,46,374,186
+736,Delhi,"Pritampura, Delhi",27-11-15,4,44,426,116
+737,Delhi,"Pritampura, Delhi",03-12-15,4,56,590,NA
+738,Delhi,"Pritampura, Delhi",08-12-15,4,53,362,NA
+739,Delhi,"Pritampura, Delhi",11-12-15,4,51,138,NA
+740,Delhi,"Pritampura, Delhi",16-12-15,4,56,246,NA
+741,Delhi,"Pritampura, Delhi",21-12-15,4,54,269,NA
+742,Delhi,"Pritampura, Delhi",28-12-15,4,53,205,NA
+743,Delhi,"Pritampura, Delhi",29-12-15,5,43,142,NA
+744,Delhi,"Pritampura, Delhi",31-12-15,9,44,420,NA
+1,Delhi,Pitampura,05.10.2016,4,35,186,43
+2,Delhi,Pitampura,13.10.2016,4,34,310,52
+3,Delhi,Pitampura,17.10.2016,4,35,239,46
+4,Delhi,Pitampura,20.10.2016,5,42,256,126*
+5,Delhi,Pitampura,24.10.2016,12,58,368,102*
+6,Delhi,Pitampura,26.10.2016,5,49,432,NA
+7,Delhi,Sirifort,03.10.2016,4,35,156,NA
+8,Delhi,Sirifort,06.10.2016,4,40,273,61*
+9,Delhi,Sirifort,09.10.2016,4,35,322,102*
+10,Delhi,Sirifort,14.10.2016,4,40,344,160*
+11,Delhi,Sirifort,18.10.2016,4,33,234,120*
+12,Delhi,Sirifort,21.10.2016,4,45,428,102*
+13,Delhi,Sirifort,27.10.2016,4,56,486,NA
+14,Delhi,Janakpuri,01.10.2016,5,52,280,37
+15,Delhi,Janakpuri,04.10.2016,4,45,265,112*
+16,Delhi,Janakpuri,07.10.2016,4,50,320,99*
+17,Delhi,Janakpuri,10.10.2016,4,51,334,106*
+18,Delhi,Janakpuri,15.10.2016,4,38,293,147*
+19,Delhi,Janakpuri,19.10.2016,NA,NA,NA,154*
+20,Delhi,Janakpuri,22.10.2016,4,47,307,NA
+21,Delhi,Janakpuri,24.10.2016,16,71,234,96*
+22,Delhi,Janakpuri,25.10.2016,4,57,372,99*
+23,Delhi,Janakpuri,28.10.2016,4,64,516,241*
+24,Delhi,Nizamuddin,05.10.2016,4,40,254,NA
+25,Delhi,Nizamuddin,13.10.2016,4,44,288,NA
+26,Delhi,Nizamuddin,17.10.2016,4,45,292,NA
+27,Delhi,Nizamuddin,20.10.2016,4,43,274,29
+28,Delhi,Nizamuddin,26.10.2016,4,45,448,105*
+29,Delhi,ShahzadaBagh,03.10.2016,4,61,316,110*
+30,Delhi,ShahzadaBagh,06.10.2016,4,38,275,61*
+31,Delhi,ShahzadaBagh,09.10.2016,4,53,347,62*
+32,Delhi,ShahzadaBagh,14.10.2016,4,57,317,70*
+33,Delhi,ShahzadaBagh,18.10.2016,5,59,452,140*
+34,Delhi,ShahzadaBagh,21.10.2016,5,56,589,94*
+35,Delhi,ShahzadaBagh,27.10.2016,6,58,361,195*
+36,Delhi,Shahdara,01.10.2016,5,53,268,73*
+37,Delhi,Shahdara,04.10.2016,5,42,188,99*
+38,Delhi,Shahdara,07.10.2016,4,51,196,61*
+39,Delhi,Shahdara,10.10.2016,4,42,206,94*
+40,Delhi,Shahdara,15.10.2016,5,53,279,137*
+41,Delhi,Shahdara,19.10.2016,4,48,353,148*
+42,Delhi,Shahdara,22.10.2016,4,52,428,105*
+43,Delhi,Shahdara,25.10.2016,6,59,375,176*
+44,Delhi,Shahdara,28.10.2016,5,52,327,211*
